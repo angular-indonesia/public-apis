@@ -20,7 +20,9 @@ For information on contributing to this project, please see the [contributing gu
 * [Development](#development)
 * [Documents & Productivity](#documents--productivity)
 * [Environment](#environment)
+* [Finance](#finance)
 * [Food & Drink](#food--drink)
+* [Fraud Prevention](#fraud-prevention)
 * [Games & Comics](#games--comics)
 * [Geocoding](#geocoding)
 * [Health](#health)
@@ -161,6 +163,7 @@ For information on contributing to this project, please see the [contributing gu
 | APIs.guru | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | [Go!](https://apis.guru/api-doc/) |
 | CDNJS | Library info on CDNJS | No | Yes | [Go!](https://api.cdnjs.com/libraries/jquery) |
 | Faceplusplus | A tool to detect face | `OAuth` | Yes | [Go!](https://www.faceplusplus.com/) |
+| Genderize.io | Determines a gender from a first name | No | Yes | [Go!](https://genderize.io) |
 | Github - User Data | Pull public information for a user's github | No | Yes | [Go!](https://api.github.com/users/hackeryou) |
 | Gitter | Chat for GitHub | `OAuth` | Yes | [Go!](https://developer.gitter.im/docs/welcome) |
 | Hipster Ipsum | Generates Hipster Ipsum text | No | No | [Go!](http://hipsterjesus.com/) |
@@ -194,6 +197,12 @@ For information on contributing to this project, please see the [contributing gu
 |---|---|---|---|---|
 | PM2.5.in | PM2.5 Data of China | `apiKey` query string | No | [Go!](http://www.pm25.in/api_doc) |
 
+### Finance
+
+| API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| Barchart OnDemand | Stock, Futures, and Forex Market Data | `apiKey` | Yes | [Go!](https://www.barchartondemand.com/free) |
+
 ### Food & Drink
 
 | API | Description | Auth | HTTPS | Link |
@@ -206,6 +215,16 @@ For information on contributing to this project, please see the [contributing gu
 | PunkAPI | Brewdog Beer Recipes | No | Yes | [Go!](https://punkapi.com/) |
 | Recipe Puppy | Food | No | No | [Go!](http://www.recipepuppy.com/about/api/) |
 | Yummly | Find food recipes | No | Yes | [Go!](https://developer.yummly.com/) |
+
+### Fraud Prevention
+
+| API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| Whitepages Pro | Global identity verification with phone, address, email, and IP | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/identity-check-api/) |
+| Whitepages Pro | Phone reputation to detect spammy phones | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/phone-reputation-api/) |
+| Whitepages Pro | Get an owner’s name, address, demographics based on the phone number | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/reverse-phone-api/) |
+| Whitepages Pro| Phone number validation, line_type, carrier append | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/phone-intelligence-api/) |
+| Whitepages Pro| Get normalized physical address, residents, address type, and validity. | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/reverse-address-api/) |
 
 ### Games & Comics
 
@@ -240,6 +259,7 @@ For information on contributing to this project, please see the [contributing gu
 | Google Maps | Create/customize digital maps based on Google Maps data | `apiKey` query string | Yes | [Go!](https://developers.google.com/maps/) |
 | IP 2 Country | Map an IP to a country | No | Yes | [Go!](https://ip2country.info) |
 | IP Address Details| Find geolocation with ip address | No | Yes | [Go!](https://ipinfo.io/) |
+| IP Vigilante | Free IP Geolocation API | No | Yes | [Go!](https://www.ipvigilante.com/) |
 | Mapbox | Create/customize beautiful digital maps | `apiKey` query string | Yes | [Go!](https://www.mapbox.com/developers/) |
 | Mapzen Search | Open Source & Open Data Global Geocoding Service | No | Yes | [Go!](https://mapzen.com/products/search/) |
 | Mexico | Mexico RESTful zip codes API | No | Yes | [Go!](https://github.com/IcaliaLabs/sepomex) |
@@ -265,6 +285,7 @@ For information on contributing to this project, please see the [contributing gu
 
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| API.AI | Natural Language Processing | `apikey` | Yes | [Go!](https://api.ai/) |
 | Clarifai | Computer Vision | `OAuth` | Yes | [Go!](https://developer.clarifai.com/) |
 | Cleverbot | Web chat bot | `apikey` | Yes | [Go!](https://www.cleverbot.com/api/) |
 | Unplugg | Forecasting API for timeseries data | `apikey` | Yes | [Go!](https://unplu.gg/test_api.html) |
