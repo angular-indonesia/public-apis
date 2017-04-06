@@ -85,7 +85,7 @@ Please note a passing build status indicates all listed APIs are available since
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | British National Bibliography | Books | No | No | [Go!](http://bnb.data.bl.uk/) |
-| Good Reads | Books | No | Yes | [Go!](https://www.goodreads.com/api) |
+| Goodreads | Books | No | Yes | [Go!](https://www.goodreads.com/api) |
 | Google Books | Books | `OAuth` | Yes | [Go!](https://developers.google.com/books/) |
 
 ### Business
@@ -222,6 +222,7 @@ Please note a passing build status indicates all listed APIs are available since
 | PunkAPI | Brewdog Beer Recipes | No | Yes | [Go!](https://punkapi.com/) |
 | Recipe Puppy | Food | No | No | [Go!](http://www.recipepuppy.com/about/api/) |
 | Yummly | Find food recipes | No | Yes | [Go!](https://developer.yummly.com/) |
+| Zomato | Discover restaurants | `apiKey` | Yes | [Go!](https://developers.zomato.com/api) |
 
 ### Fraud Prevention
 
@@ -394,6 +395,7 @@ Please note a passing build status indicates all listed APIs are available since
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Discord | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Yes | [Go!](https://discordapp.com/developers/docs/intro) |
+| DonReach Social Count | Get the social share count of a URL from every major social network | No | Yes | [Go!](https://donreach.com/social-share-count) |
 | Facebook | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Yes | [Go!](https://developers.facebook.com/) |
 | Foursquare | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth` | Yes | [Go!](https://developer.foursquare.com/) |
 | Fuck Off as a Service | Asks someone to fuck off | No | Yes | [Go!](https://www.foaas.com) |
