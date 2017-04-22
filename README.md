@@ -216,8 +216,7 @@ Please note a passing build status indicates all listed APIs are available since
 
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| PM2.5.in | PM2.5 Data of China | `apiKey` query string | No | [Go!](http://www.pm25.in/api_doc) |
-| AirVisual | Air quality and weather data | `apiKey` query string | No | [Go!](https://airvisual.com/api) |
+| AirVisual | Air quality and weather data | `apiKey` | Yes | [Go!](https://airvisual.com/api) |
 | BigOven | Recipe Search | `X-Mashape-Key` | No | [Go!](http://api2.bigoven.com/) |
 | BreweryDB | Beer | `apiKey` | No | [Go!](http://www.brewerydb.com/developers) |
 | Edamam | Recipe Search | `apiKey` | Yes | [Go!](https://developer.edamam.com/) |
@@ -225,6 +224,7 @@ Please note a passing build status indicates all listed APIs are available since
 | LCBO | Alcohol | `apiKey` | Yes | [Go!](https://lcboapi.com/) |
 | PunkAPI | Brewdog Beer Recipes | No | Yes | [Go!](https://punkapi.com/) |
 | Recipe Puppy | Food | No | No | [Go!](http://www.recipepuppy.com/about/api/) |
+| TacoFancy | Community-driven taco database | No | No | [Go!](https://github.com/evz/tacofancy-api)|
 | Yummly | Find food recipes | No | Yes | [Go!](https://developer.yummly.com/) |
 | Zomato | Discover restaurants | `apiKey` | Yes | [Go!](https://developers.zomato.com/api) |
 
