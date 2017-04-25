@@ -175,6 +175,7 @@ Please note a passing build status indicates all listed APIs are available since
 | IPify | A simple IP Address API  | No | Yes | [Go!](https://www.ipify.org/) |
 | JSON 2 JSONP | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Yes | [Go!](https://json2jsonp.com/) |
 | JSONPlaceholder | Fake data for testing and prototyping | No | No | [Go!](http://jsonplaceholder.typicode.com/) |
+| Judge0 API | Compile and run source code | No | Yes | [Go!](https://api.judge0.com/) |
 | Let's Validate | Uncovers the technologies used on websites and URL to thumbnail | No | Yes | [Go!](https://github.com/letsvalidate/api) |
 | LiveEdu | Live Coding Streaming | `OAuth` | Yes | [Go!](https://www.liveedu.tv/developer/applications/) |
 | Lorem Text | Generates Lorem Ipsum text | `X-Mashape-Key` | Yes | [Go!](https://market.mashape.com/montanaflynn/lorem-text-generator) |
@@ -267,6 +268,7 @@ Please note a passing build status indicates all listed APIs are available since
 
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| adresse.data.gouv.fr | Address database of France. geocoding and reverse. | No | Yes | [Go!](https://adresse.data.gouv.fr) | 
 | Bing Maps | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | [Go!](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) |
 | Geocode.xyz | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | [Go!](https://geocode.xyz/) |
 | GeoNames | Place names and other geographical data | No | No | [Go!](http://www.geonames.org/export/web-services.html) |
