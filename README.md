@@ -40,6 +40,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [Shopping](#shopping)
 * [Social](#social)
 * [Sports & Fitness](#sports--fitness)
+* [Tracking](#tracking)
 * [Transportation](#transportation)
 * [University](#university)
 * [Vehicle](#vehicle)
@@ -320,6 +321,7 @@ Please note a passing build status indicates all listed APIs are available since
 
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| Bandsintown | Music Events | No | Yes | [Go!](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0) |
 | Deezer | Music | `OAuth` | No | [Go!](http://developers.deezer.com/login?redirect=/api) |
 | Discogs | Music | `OAuth` | Yes | [Go!](https://www.discogs.com/developers/) |
 | Genius | Crowdsourced lyrics and music knowledge | `OAuth` | Yes | [Go!](https://docs.genius.com/) |
@@ -440,6 +442,12 @@ Please note a passing build status indicates all listed APIs are available since
 | Strava | Connect with athletes, activities and more | `OAuth` | Yes | [Go!](https://strava.github.io/api/) |
 | UFC Data | Ultimate Fighting Championship information for events and fighters | No | No | [Go!](http://ufc-data-api.ufc.com/) |
 | Wger | Workout manager data as exercises, muscles or equipments | `apiKey` | Yes | [Go!](https://wger.de/en/software/api) |
+
+### Tracking
+
+| API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| Sweden  | Provides  information about parcels in transport | `apikey` | No | [Go!](https://developer.postnord.com/docs2) |
 
 ### Transportation
 
