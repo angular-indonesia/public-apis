@@ -141,7 +141,7 @@ API | Description | Auth | HTTPS | Link |
 | Teleport | Quality of Life Data | No | Yes | [Go!](https://developers.teleport.org/) |
 | Wikipedia | Mediawiki Encyclopedia | No | Yes | [Go!](https://www.mediawiki.org/wiki/API:Main_page) |
 | Wordnik | Dictionary Data | No | No | [Go!](http://developer.wordnik.com) |
-| Yelp | Find Local Business | `OAuth` | Yes | [Go!](https://www.yelp.com/developers) |
+| Yelp | Find Local Business | `OAuth` | Yes | [Go!](https://www.yelp.com/developers/documentation/v3) |
 
 ### Data Validation
 API | Description | Auth | HTTPS | Link |
@@ -369,7 +369,6 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | arcsecond.io | Multiple astronomy data sources | No | Yes | [Go!](https://api.arcsecond.io/) |
 | Fedger.io | Query machine intelligence data | No | Yes | [Go!](https://dev.fedger.io/docs/) |
-| Gene_info | Human genome data w/ gene summaries | `apiKey` | No | [Go!](http://www.geneinfo.life) |
 | inspirehep.net | High Energy Physics info. system | No | Yes | [Go!](https://inspirehep.net/info/hep/api?ln=en) |
 | Launch Library | Upcoming Space Launches | No | Yes | [Go!](https://launchlibrary.net/1.2/docs/api.html) |
 | Minor Planet Center | Asterank.com Information | No | No | [Go!](http://www.asterank.com/mpc) |
@@ -499,9 +498,9 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | An API of Ice And Fire | Game Of Thrones API | No | Yes | [Go!](https://anapioficeandfire.com/) |
 | Dailymotion | Dailymotion Developer API | `OAuth` | Yes | [Go!](https://developer.dailymotion.com/) |
-| MovieDB | Movie Data | `apiKey` | Yes | [Go!](https://www.themoviedb.org/documentation/api) |
-| Netflix Roulette | Netflix database | No | No | [Go!](http://netflixroulette.net/api/) |
+| Netflix Roulette | Netflix database | No | Yes | [Go!](https://netflixroulette.net/api/) |
 | Ron Swanson Quotes | Television | No | Yes | [Go!](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) |
+| TMDb | Community-based movie data | `apiKey` | Yes | [Go!](https://www.themoviedb.org/documentation/api) |
 | TVMaze | TV Show Data | No | No | [Go!](http://www.tvmaze.com/api) |
 | Vimeo | Vimeo Developer API | `OAuth` | Yes | [Go!](https://developer.vimeo.com/) |
 | YouTube | Add YouTube functionality to your sites and apps. | `OAuth` | Yes | [Go!](https://developers.google.com/youtube/) |
