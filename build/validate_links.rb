@@ -17,6 +17,10 @@ raw_links.each do |link|
         links.push(link)
     end
 end
+if links.length <= 0
+    puts "no links to check"
+    exit(0)
+end
 fails = []
 # Fail on any duplicate elements
 dup = links.select{|element| links.count(element) > 1}
@@ -46,6 +50,8 @@ links.each do |link|
             fails.push("(#{res.code}): #{link}")
         end
     rescue Net::ReadTimeout
+        fails.push("(TMO): #{link}")
+    rescue Net::OpenTimeout
         fails.push("(TMO): #{link}")
     rescue OpenSSL::SSL::SSLError
         fails.push("(SSL): #{link}")
