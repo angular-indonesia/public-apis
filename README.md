@@ -52,6 +52,7 @@ Please note a passing build status indicates all listed APIs are available since
 ### Animals
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| Dogs | Based on the [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) | No | Yes | [Go!](https://dog.ceo/dog-api/) |
 | IUCN | IUCN Red List of Threatened Species | `apiKey` | No | [Go!](http://apiv3.iucnredlist.org/api/v3/docs) |
 | Petfinder | Adoption | `apiKey` | Yes | [Go!](https://www.petfinder.com/developers/api-docs/) |
 | RescueGroups | Adoption | No | Yes | [Go!](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) |
@@ -77,8 +78,9 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Dribbble | Design | `OAuth` | No | [Go!](http://developer.dribbble.com/v1/) |
-| Noun Project | Icons | `OAuth` | No | [Go!](http://api.thenounproject.com/index.html) |
+| Harvard Art Museums | Art | `apiKey` | No | [Go!](https://github.com/harvardartmuseums/api-docs) |
 | Icons8 | Icons | `OAuth` | Yes | [Go!](http://docs.icons8.apiary.io/#reference/0/meta) |
+| Noun Project | Icons | `OAuth` | No | [Go!](http://api.thenounproject.com/index.html) |
 | Rijksmuseum| Art | `apiKey` | Yes | [Go!](https://www.rijksmuseum.nl/en/api) |
 
 ### Books
@@ -127,7 +129,7 @@ API | Description | Auth | HTTPS | Link |
 | Colorado Data Engine | Formatted and geolocated Colorado public data | No | Yes | [Go!](http://codataengine.org/) |
 | Colorado Information Marketplace | Colorado State Government Open Data | No | Yes | [Go!](https://data.colorado.gov/) |
 | Data USA | US Public Data | No | Yes | [Go!](https://datausa.io/about/api/) |
-| Dronestream | Tracks United States drone strikes | No | No | [Go!](http://dronestre.am/) |
+| Dronestream | Tracks United States drone strikes | No | Yes | [Go!](https://dronestre.am/) |
 | fonoApi | Mobile Device Description | No | Yes | [Go!](https://fonoapi.freshpixl.com/) |
 | Open Government, Australia | Australian Government Open Data | No | Yes | [Go!](https://www.data.gov.au/) |
 | Open Government, USA | United States Government Open Data | No | Yes | [Go!](https://www.data.gov/) |
@@ -158,6 +160,7 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Adorable Avatars | Generate random cartoon avatars | No | Yes | [Go!](http://avatars.adorable.io) |
 | APIs.guru | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | [Go!](https://apis.guru/api-doc/) |
+| BetterMeta | Return a site's meta tags in JSON format | X-Mashape-Key | Yes | [Go!](http://bettermeta.io) |
 | CDNJS | Library info on CDNJS | No | Yes | [Go!](https://api.cdnjs.com/libraries/jquery) |
 | Faceplusplus | A tool to detect face | `OAuth` | Yes | [Go!](https://www.faceplusplus.com/) |
 | Genderize.io | Determines a gender from a first name | No | Yes | [Go!](https://genderize.io) |
@@ -167,6 +170,7 @@ API | Description | Auth | HTTPS | Link |
 | Hipster Ipsum | Generates Hipster Ipsum text | No | No | [Go!](http://hipsterjesus.com/) |
 | IPify | A simple IP Address API  | No | Yes | [Go!](https://www.ipify.org/) |
 | JSON 2 JSONP | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Yes | [Go!](https://json2jsonp.com/) |
+| JSONbin.io | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps. | No | Yes | [Go!](https://jsonbin.io) |
 | JSONPlaceholder | Fake data for testing and prototyping | No | No | [Go!](http://jsonplaceholder.typicode.com/) |
 | Judge0 API | Compile and run source code | No | Yes | [Go!](https://api.judge0.com/) |
 | Let's Validate | Uncovers the technologies used on websites and URL to thumbnail | No | Yes | [Go!](https://github.com/letsvalidate/api) |
@@ -190,6 +194,7 @@ API | Description | Auth | HTTPS |Link |
 |---|---|---|---|---|
 | File.io | File Sharing | No | Yes | [Go!](https://www.file.io) |
 | pdflayer API | HTML/URL to PDF | No | Yes | [Go!](https://pdflayer.com) |
+| Pocket | Bookmarking service | `OAuth` | Yes | [Go!](https://getpocket.com/developer/) |
 | PrexView | Data from XML or JSON to PDF, HTML or Image  | `apiKey` | Yes | [Go!](https://prexview.com) |
 | Todoist | Todo Lists | `OAuth` | Yes | [Go!](https://developer.todoist.com) |
 | Wunderlist | Todo Lists | `OAuth` | Yes | [Go!](https://developer.wunderlist.com/documentation) |
@@ -220,6 +225,7 @@ API | Description | Auth | HTTPS | Link |
 | Recipe Puppy | Food | No | No | [Go!](http://www.recipepuppy.com/about/api/) |
 | TacoFancy | Community-driven taco database | No | No | [Go!](https://github.com/evz/tacofancy-api) |
 | TheCocktailDB | Cocktail Recipes | No | No | [Go!](http://www.thecocktaildb.com/) |
+| The Report of the Week | Food & Drink Reviews | No | Yes | [Go!](https://github.com/andyklimczak/TheReportOfTheWeek-API) |
 | Yummly | Find food recipes | No | Yes | [Go!](https://developer.yummly.com/) |
 | Zomato | Discover restaurants | `apiKey` | Yes | [Go!](https://developers.zomato.com/api) |
 
@@ -257,7 +263,6 @@ API | Description | Auth | HTTPS | Link |
 | Qriusity | Quiz/Trivia Questions | No | Yes | [Go!](https://qriusity.com/) |
 | Riot Games | League of Legends Game Information | `apiKey` | Yes | [Go!](https://developer.riotgames.com/) |
 | Steam | Steam Client Interaction | `OAuth` | Yes | [Go!](https://developer.valvesoftware.com/wiki/Steam_Web_API) |
-| SWAPI | Star Wars Information | No | Yes | [Go!](https://swapi.co) |
 
 ### Geocoding
 API | Description | Auth | HTTPS | Link |
@@ -270,11 +275,13 @@ API | Description | Auth | HTTPS | Link |
 | Google Maps | Create/customize digital maps based on Google Maps data | `apiKey` | Yes | [Go!](https://developers.google.com/maps/) |
 | IP 2 Country | Map an IP to a country | No | Yes | [Go!](https://ip2country.info) |
 | IP Address Details| Find geolocation with ip address | No | Yes | [Go!](https://ipinfo.io/) |
+| IP Location| Find IP address location information | No | Yes | [Go!](https://ipapi.co/) |
 | IP Vigilante | Free IP Geolocation API | No | Yes | [Go!](https://www.ipvigilante.com/) |
 | Mapbox | Create/customize beautiful digital maps | `apiKey` | Yes | [Go!](https://www.mapbox.com/developers/) |
-| Mapzen Search | Open Source & Open Data Global Geocoding Service | No | Yes | [Go!](https://mapzen.com/products/search/) |
+| Mapzen Search | Open Source & Open Data Global Geocoding Service | `apiKey` | Yes | [Go!](https://mapzen.com/products/search/) |
 | Mexico | Mexico RESTful zip codes API | No | Yes | [Go!](https://github.com/IcaliaLabs/sepomex) |
 | One Map 2.0, Singapore| Singapore Land Authority REST API services for Singapore addresses  | `apiKey` | Yes | [Go!](https://docs.onemap.sg/) |
+| OnWater | Determine if a lat/lon is on water or land | No | Yes | [Go!](https://onwater.io/) |
 | OpenCage | Forward and reverse geocoding using open data | No | Yes | [Go!](https://geocoder.opencagedata.com) |
 | OpenStreetMap | Navigation, geolocation and geographical data | `OAuth` | No | [Go!](http://wiki.openstreetmap.org/wiki/API) |
 | PostcodeData.nl | Provide geolocation data based on postcode for Dutch addresses | No | No | [Go!](http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) |
@@ -290,6 +297,7 @@ API | Description | Auth | HTTPS | Link |
 | Diabetes | Logging and retrieving diabetes information | No | No | [Go!](http://predictbgl.com/api/) |
 | Flutrack | Influenza-like symptoms with geotracking | No | No | [Go!](http://www.flutrack.org/) |
 | Makeup | Makeup Information | No | No | [Go!](http://makeup-api.herokuapp.com/) |
+| Medicare | Access to the data from the CMS - medicare.gov | No | Yes | [Go!](https://data.medicare.gov/developers) |
 | Nutritionix | Worlds largest verified nutrition database | `apiKey` | Yes | [Go!](https://developer.nutritionix.com/) |
 | openFDA | Public FDA data about drugs, devices, and foods | No | Yes | [Go!](https://open.fda.gov/api/) |
 | USDA Nutrients | National Nutrient Database for Standard Reference | No | Yes | [Go!](https://ndb.nal.usda.gov/ndb/doc/index) |
@@ -349,6 +357,7 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | chucknorris.io | JSON API for hand curated Chuck Norris jokes | No | Yes | [Go!](https://api.chucknorris.io) |
 | Forismatic | Inspirational Quotes | No | No | [Go!](http://forismatic.com/en/api/) |
+| icanhazdadjoke | The largest selection of dad jokes on the internet | No | Yes | [Go!](https://icanhazdadjoke.com/api) |
 | Medium | Community of readers and writers offering unique perspectives on ideas. | `OAuth` | Yes | [Go!](https://github.com/Medium/medium-api-docs) |
 | Quotes on Design | Inspirational Quotes | No | Yes | [Go!](https://quotesondesign.com/api-v4-0/) |
 | Traitify | Assess, collect, and analyze Personality | No | Yes | [Go!](https://app.traitify.com/developer) |
@@ -364,6 +373,7 @@ API | Description | Auth | HTTPS | Link |
 | Imgur | Images | `OAuth` | Yes | [Go!](https://api.imgur.com/#overview) |
 | ScreenShotLayer | URL 2 Image | No | Yes | [Go!](https://screenshotlayer.com) |
 | Unsplash | Photography | `OAuth` | Yes | [Go!](https://unsplash.com/developers) |
+| PlaceKitten | Resizable kitten placeholder images | No | Yes | [Go!](https://placekitten.com/) |
 
 ### Science
 API | Description | Auth | HTTPS | Link |
@@ -377,6 +387,7 @@ API | Description | Auth | HTTPS | Link |
 | Open Notify | ISS astronauts, current location, etc | No | No | [Go!](http://open-notify.org/Open-Notify-API/) |
 | Sunrise and Sunset | Sunset and sunrise times for a given latitude and longitude. | No | Yes | [Go!](https://sunrise-sunset.org/api) |
 | USGS Earthquake Hazards Program | Earthquakes data real-time | No | Yes | [Go!](https://earthquake.usgs.gov/fdsnws/event/1/) |
+| USGS Water Services | Water quality and level info for rivers and lakes | No | Yes | [Go!](https://waterservices.usgs.gov/) |
 | World Bank | World Data | No | No | [Go!](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) |
 
 ### Security
@@ -412,7 +423,7 @@ API | Description | Auth | HTTPS | Link |
 | Tumblr | Read and write Tumblr Data | `OAuth` | Yes | [Go!](https://www.tumblr.com/docs/en/api/v2) |
 | Twitch | Game Streaming API | `OAuth` | Yes | [Go!](https://github.com/justintv/Twitch-API) |
 | Twitter | Read and write Twitter data | `OAuth` | Yes | [Go!](https://dev.twitter.com/rest/public) |
-| vk | Read and write vk dat | `OAuth` | Yes | [Go!](https://vk.com/dev/sites) |
+| vk | Read and write vk data | `OAuth` | Yes | [Go!](https://vk.com/dev/sites) |
 
 ### Sports & Fitness
 API | Description | Auth | HTTPS | Link |
@@ -428,7 +439,7 @@ API | Description | Auth | HTTPS | Link |
 | Pro Motocross | The RESTful AMA Pro Motocross lap times for every racer on the start gate | No | No | [Go!](http://promotocrossapi.com) |
 | Strava | Connect with athletes, activities and more | `OAuth` | Yes | [Go!](https://strava.github.io/api/) |
 | UFC Data | Ultimate Fighting Championship information for events and fighters | No | No | [Go!](http://ufc-data-api.ufc.com/) |
-| Wger | Workout manager data as exercises, muscles or equipments | `apiKey` | Yes | [Go!](https://wger.de/en/software/api) |
+| Wger | Workout manager data as exercises, muscles or equipment | `apiKey` | Yes | [Go!](https://wger.de/en/software/api) |
 
 ### Tracking
 API | Description | Auth | HTTPS | Link |
@@ -440,6 +451,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Amadeus Travel Innovation Sandbox | Travel Search - Limited usage | `apiKey` | Yes | [Go!](https://sandbox.amadeus.com/) |
+| Bay Area Rapid Transit | Stations and predicted arrivals for BART | `apiKey` | No | [Go!](http://api.bart.gov) |
 | Community Transit | Transitland API | No | Yes | [Go!](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints) |
 | Goibibo | API for travel search  | `apiKey` | Yes | [Go!](https://developer.goibibo.com/docs) |
 | Indian Railways | Indian Railways Information | `apiKey` | No | [Go!](http://api.erail.in/) |
@@ -462,6 +474,8 @@ API | Description | Auth | HTTPS | Link |
 | Transport for London, England | TfL API | No | Yes | [Go!](https://api.tfl.gov.uk) |
 | Transport for Madrid, Spain | Madrid BUS transport API | `apiKey` | No | [Go!](http://opendata.emtmadrid.es/Servicios-web/BUS) |
 | Transport for Minneapolis, US | NexTrip API | `OAuth` | No | [Go!](http://svc.metrotransit.org/) |
+| Transport for The Netherlands | NS, only trains | `apiKey` | No | [Go!](http://www.ns.nl/reisinformatie/ns-api) |
+| Transport for The Netherlands | OVAPI, country-wide public transport | No | Yes | [Go!](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |
 | Transport for New York City, US | MTA | `apiKey` | No | [Go!](http://datamine.mta.info/) |
 | Transport for Norway | Norwegian transport API | No | No | [Go!](http://reisapi.ruter.no/help) |
 | Transport for Ottawa, Canada | OC Transpo next bus arrival API | No | No | [Go!](http://www.octranspo.com/index.php/developers) |
@@ -473,10 +487,10 @@ API | Description | Auth | HTTPS | Link |
 | Transport for Sweden | Public Transport consumer | `OAuth` | Yes | [Go!](https://www.trafiklab.se/api) |
 | Transport for Switzerland | Swiss public transport API | No | Yes | [Go!](https://transport.opendata.ch/) |
 | Transport for Switzerland | Official Swiss Public Transport Open Data | `apiKey` | Yes | [Go!](https://opentransportdata.swiss/en/) |
-| Transport for The Netherlands | NS | No | No | [Go!](http://www.ns.nl/reisinformatie/ns-api) |
 | Transport for Tokyo, Japan | Tokyo Metro | `apiKey` | Yes | [Go!](https://developer.tokyometroapp.jp/info) |
 | Transport for Toronto, Canada | TTC | No | Yes | [Go!](https://myttc.ca/developers) |
 | Transport for Vancouver, Canada | TransLink | `OAuth` | Yes | [Go!](https://developer.translink.ca/) |
+| Transport for U.S. (multiple locations) | NextBus API | No | No | [Go!](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) |
 | Transport for Victoria, AU | PTV API | `apiKey` | Yes | [Go!](https://www.ptv.vic.gov.au/about-ptv/ptv-data-and-reports/digital-products/ptv-timetable-api/) |
 | Transport for Washington, US | Washington Metro transport API | `OAuth` | Yes | [Go!](https://developer.wmata.com/) |
 | Uber | Request Uber rides, reach riders, transport things, and reward drivers | `OAuth` | Yes | [Go!](https://developer.uber.com/) |
@@ -490,7 +504,7 @@ API | Description | Auth | HTTPS | Link |
 ### Vehicle
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| Vehicles | Lot of vehicles informations | `apiKey` | No | [Go!](http://developer.edmunds.com/api-documentation/overview/) |
+| Vehicles | Lot of vehicles information | `apiKey` | No | [Go!](http://developer.edmunds.com/api-documentation/overview/) |
 | Brazilian Vehicles and Prices | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | Yes | [Go!](https://deividfortuna.github.io/fipe/) |
 | NHTSA Vehicles | NHTSA Product Information Catalog and Vehicle Listing | No | Yes | [Go!](https://vpic.nhtsa.dot.gov/api/) |
 
@@ -501,6 +515,7 @@ API | Description | Auth | HTTPS | Link |
 | Dailymotion | Dailymotion Developer API | `OAuth` | Yes | [Go!](https://developer.dailymotion.com/) |
 | Netflix Roulette | Netflix database | No | Yes | [Go!](https://netflixroulette.net/api/) |
 | Ron Swanson Quotes | Television | No | Yes | [Go!](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) |
+| SWAPI | Star Wars Information | No | Yes | [Go!](https://swapi.co) |
 | TMDb | Community-based movie data | `apiKey` | Yes | [Go!](https://www.themoviedb.org/documentation/api) |
 | TVMaze | TV Show Data | No | No | [Go!](http://www.tvmaze.com/api) |
 | Vimeo | Vimeo Developer API | `OAuth` | Yes | [Go!](https://developer.vimeo.com/) |
