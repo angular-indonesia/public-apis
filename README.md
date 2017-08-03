@@ -78,6 +78,7 @@ API | Description | Auth | HTTPS | Link |
 ### Art & Design
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| Behance | Design | `apiKey` | Yes | [Go!](https://www.behance.net/dev) |
 | Dribbble | Design | `OAuth` | No | [Go!](http://developer.dribbble.com/v1/) |
 | Harvard Art Museums | Art | `apiKey` | No | [Go!](https://github.com/harvardartmuseums/api-docs) |
 | Icons8 | Icons | `OAuth` | Yes | [Go!](http://docs.icons8.apiary.io/#reference/0/meta) |
@@ -218,6 +219,7 @@ API | Description | Auth | HTTPS | Link |
 | Barchart OnDemand | Stock, Futures, and Forex Market Data | `apiKey` | Yes | [Go!](https://www.barchartondemand.com/free) |
 | CoinDesk | Bitcoin Price Index | No | No | [Go!](http://www.coindesk.com/api/) |
 | Consumer Financial Protection Bureau | Financial services consumer complains data | `apiKey` | Yes | [Go!](https://data.consumerfinance.gov/resource/jhzv-w97w.json) |
+| IEX | Stocks and Market Data | No | Yes | [Go!](https://iextrading.com/developer/) |
 | Razorpay IFSC | Indian Financial Systems Code (Bank Branch Codes) | No | Yes | [Go!](https://ifsc.razorpay.com/) |
 
 ### Food & Drink
@@ -233,6 +235,7 @@ API | Description | Auth | HTTPS | Link |
 | TacoFancy | Community-driven taco database | No | No | [Go!](https://github.com/evz/tacofancy-api) |
 | TheCocktailDB | Cocktail Recipes | No | No | [Go!](http://www.thecocktaildb.com/) |
 | The Report of the Week | Food & Drink Reviews | No | Yes | [Go!](https://github.com/andyklimczak/TheReportOfTheWeek-API) |
+| What's on the menu? | NYPL human-transcribed historical menu collection | `apiKey` | No | [Go!](nypl.github.io/menus-api/) |
 | Yummly | Find food recipes | No | Yes | [Go!](https://developer.yummly.com/) |
 | Zomato | Discover restaurants | `apiKey` | Yes | [Go!](https://developers.zomato.com/api) |
 
@@ -338,7 +341,7 @@ API | Description | Auth | HTTPS | Link |
 | LastFm | Music | `apiKey` | No | [Go!](http://www.last.fm/api) |
 | Mixcloud | Music | No | Yes | [Go!](https://www.mixcloud.com/developers/) |
 | MusicBrainz | Music | No | Yes | [Go!](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) |
-| Musikki | Music | No | Yes | [Go!](https://music-api.musikki.com/reference) |
+| Musikki | Music | `apiKey` | Yes | [Go!](https://music-api.musikki.com/reference) |
 | Musixmatch | Music | `apiKey` | Yes | [Go!](https://developer.musixmatch.com/) |
 | Songkick | Music Events | `OAuth` | Yes | [Go!](https://www.songkick.com/developer/) |
 | Songsterr | Provides guitar, bass and drums tabs and chords | No | Yes | [Go!](https://www.songsterr.com/a/wa/api/) |
@@ -414,6 +417,7 @@ API | Description | Auth | HTTPS | Link |
 ### Social
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| Cisco Spark | Team Collaboration Software | `OAuth` | Yes | [Go!](https://developer.ciscospark.com) |
 | Discord | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Yes | [Go!](https://discordapp.com/developers/docs/intro) |
 | DonReach Social Count | Get the social share count of a URL from every major social network | No | Yes | [Go!](https://donreach.com/social-share-count/) |
 | Facebook | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Yes | [Go!](https://developers.facebook.com/) |
