@@ -1425,7 +1425,7 @@
         },
         {
             "API": "Mixcloud",
-            "Auth": null,
+            "Auth": "OAuth",
             "Description": "Music",
             "HTTPS": true,
             "Link": "https://www.mixcloud.com/developers/"
@@ -2046,6 +2046,13 @@
             "Description": "API for travel search",
             "HTTPS": true,
             "Link": "https://developer.goibibo.com/docs"
+        },
+        {
+            "API": "Icelandic APIs",
+            "Auth": null,
+            "Description": "Open APIs that deliver services in or regarding Iceland",
+            "HTTPS": true,
+            "Link": "http://docs.apis.is/"
         },
         {
             "API": "Indian Railways",

@@ -68,7 +68,7 @@ API | Description | Auth | HTTPS | Link |
 ### Anti-Malware
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| AlienVault Open Threat Exchange (OTX) | IP/domain/URL reputation | `apiKey` | Yes | [Go!](https://otx.alienvault.com/api/) | 
+| AlienVault Open Threat Exchange (OTX) | IP/domain/URL reputation | `apiKey` | Yes | [Go!](https://otx.alienvault.com/api/) |
 | Certly | Certly Link/Domain Flagging | `apiKey` | Yes | [Go!](https://guard.certly.io/) |
 | Google Safe Browsing | Google Link/Domain Flagging | `apiKey` | Yes | [Go!](https://developers.google.com/safe-browsing/) |
 | Metacert | Metacert Link Flagging | `apiKey` | Yes | [Go!](https://metacert.com/) |
@@ -147,6 +147,7 @@ API | Description | Auth | HTTPS | Link |
 | Scoop.it | Content Curation Service | `apiKey` | No | [Go!](http://www.scoop.it/dev) |
 | Teleport | Quality of Life Data | No | Yes | [Go!](https://developers.teleport.org/) |
 | UPC database | More than 1.5 million barcode numbers from all around the world | `apiKey` | Yes | [Go!](https://upcdatabase.org/api) |
+| Wikidata | Collaboratively edited knowledge base operated by the Wikimedia Foundation | `OAuth` | Yes | [Go!](https://www.wikidata.org/w/api.php?action=help) |
 | Wikipedia | Mediawiki Encyclopedia | No | Yes | [Go!](https://www.mediawiki.org/wiki/API:Main_page) |
 | Wordnik | Dictionary Data | No | No | [Go!](http://developer.wordnik.com) |
 | Yelp | Find Local Business | `OAuth` | Yes | [Go!](https://www.yelp.com/developers/documentation/v3) |
@@ -339,7 +340,7 @@ API | Description | Auth | HTTPS | Link |
 | Jamendo | Music | `OAuth` | Yes | [Go!](https://developer.jamendo.com/v3.0) |
 | iTunes Search | Software products | No | Yes | [Go!](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) |
 | LastFm | Music | `apiKey` | No | [Go!](http://www.last.fm/api) |
-| Mixcloud | Music | No | Yes | [Go!](https://www.mixcloud.com/developers/) |
+| Mixcloud | Music | `OAuth` | Yes | [Go!](https://www.mixcloud.com/developers/) |
 | MusicBrainz | Music | No | Yes | [Go!](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) |
 | Musikki | Music | `apiKey` | Yes | [Go!](https://music-api.musikki.com/reference) |
 | Musixmatch | Music | `apiKey` | Yes | [Go!](https://developer.musixmatch.com/) |
@@ -469,6 +470,7 @@ API | Description | Auth | HTTPS | Link |
 | Bay Area Rapid Transit | Stations and predicted arrivals for BART | `apiKey` | No | [Go!](http://api.bart.gov) |
 | Community Transit | Transitland API | No | Yes | [Go!](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints) |
 | Goibibo | API for travel search | `apiKey` | Yes | [Go!](https://developer.goibibo.com/docs) |
+| Icelandic APIs | Open APIs that deliver services in or regarding Iceland | No | Yes | [Go!](http://docs.apis.is/) |
 | Indian Railways | Indian Railways Information | `apiKey` | No | [Go!](http://api.erail.in/) |
 | Izi | Audio guide for travellers | `apiKey` | Yes | [Go!](http://api-docs.izi.travel/) |
 | Navitia | The open API for building cool stuff with transport data | `apiKey` | Yes | [Go!](https://api.navitia.io/) |
