@@ -4,7 +4,7 @@ A collective list of free JSON APIs for use in web development.
 
 A JSON encoding of all entries can be found [here](json).
 
-For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md).
+For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
 Please note a passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.
 
@@ -19,7 +19,6 @@ Please note a passing build status indicates all listed APIs are available since
 * [Calendar](#calendar)
 * [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
 * [Currency Exchange](#currency-exchange)
-* [Data Access](#data-access)
 * [Data Validation](#data-validation)
 * [Development](#development)
 * [Documents & Productivity](#documents--productivity)
@@ -34,6 +33,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [Math](#math)
 * [Music](#music)
 * [News](#news)
+* [Open Data](#open-data)
 * [Open Source projects](#open-source-projects)
 * [Personality](#personality)
 * [Photography](#photography)
@@ -120,38 +120,6 @@ API | Description | Auth | HTTPS | Link |
 | Currencylayer | Exchange rates and currency conversion | `apiKey` | Yes | [Go!](https://currencylayer.com/documentation) |
 | Fixer.io | Exchange rates and currency conversion | No | Yes | [Go!](http://fixer.io) |
 
-### Data Access
-API | Description | Auth | HTTPS | Link |
-|---|---|---|---|---|
-| 18F | US Federal Government /Developer Program | No | No | [Go!](http://18f.github.io/API-All-the-X/) |
-| Abbreviation | Get abbreviations and meanings | `X-Mashape-Key` | Yes | [Go!](https://market.mashape.com/daxeel/abbreviations) |
-| CARTO | Location Information Prediction | `apiKey` | Yes | [Go!](https://carto.com/) |
-| Callook.info | United States ham radio callsigns | No | Yes | [Go!](https://callook.info) |
-| Celebinfo | Celebrity information | `X-Mashape-Key` | Yes | [Go!](https://market.mashape.com/daxeel/celebinfo/) |
-| Colorado Data Engine | Formatted and geolocated Colorado public data | No | Yes | [Go!](http://codataengine.org/) |
-| Colorado Information Marketplace | Colorado State Government Open Data | No | Yes | [Go!](https://data.colorado.gov/) |
-| Datakick | The open product database | `apiKey` | Yes | [Go!](https://www.datakick.org/api) |
-| Data USA | US Public Data | No | Yes | [Go!](https://datausa.io/about/api/) |
-| Dronestream | Tracks United States drone strikes | No | Yes | [Go!](https://dronestre.am/) |
-| fonoApi | Mobile Device Description | No | Yes | [Go!](https://fonoapi.freshpixl.com/) |
-| Open Government, Australia | Australian Government Open Data | No | Yes | [Go!](https://www.data.gov.au/) |
-| Open Government, USA | United States Government Open Data | No | Yes | [Go!](https://www.data.gov/) |
-| Open Government, Canada | Canadian Government Open Data | No | No | [Go!](http://open.canada.ca/en) |
-| Open Government Data, India | Indian Government Open Data | `apiKey` | Yes | [Go!](https://data.gov.in/) |
-| Open Government, New Zealand | New Zealand Government Open Data | No | Yes | [Go!](https://www.data.govt.nz/) |
-| Outpan | A Database of Everything | `apiKey` | Yes | [Go!](https://outpan.mixnode.com/developers) |
-| Pearson | Dictionary Data | `apiKey` | No | [Go!](http://developer.pearson.com/apis/dictionaries) |
-| Prague Opendata | Prague City Open Data | No | No | [Go!](http://opendata.praha.eu/en) |
-| Quandl | Stock Market Data | No | Yes | [Go!](https://www.quandl.com/) |
-| Represent by Open North | Find Canadian Government Representatives | No | Yes | [Go!](https://represent.opennorth.ca/) |
-| Scoop.it | Content Curation Service | `apiKey` | No | [Go!](http://www.scoop.it/dev) |
-| Teleport | Quality of Life Data | No | Yes | [Go!](https://developers.teleport.org/) |
-| UPC database | More than 1.5 million barcode numbers from all around the world | `apiKey` | Yes | [Go!](https://upcdatabase.org/api) |
-| Wikidata | Collaboratively edited knowledge base operated by the Wikimedia Foundation | `OAuth` | Yes | [Go!](https://www.wikidata.org/w/api.php?action=help) |
-| Wikipedia | Mediawiki Encyclopedia | No | Yes | [Go!](https://www.mediawiki.org/wiki/API:Main_page) |
-| Wordnik | Dictionary Data | No | No | [Go!](http://developer.wordnik.com) |
-| Yelp | Find Local Business | `OAuth` | Yes | [Go!](https://www.yelp.com/developers/documentation/v3) |
-
 ### Data Validation
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
@@ -159,6 +127,7 @@ API | Description | Auth | HTTPS | Link |
 | Lob.com | US Address Verification | `apiKey` | Yes | [Go!](https://lob.com/) |
 | mailboxlayer | Email address validation | No | Yes | [Go!](https://mailboxlayer.com) |
 | numverify | Phone number validation | No | Yes | [Go!](https://numverify.com) |
+| PurgoMalum | Content validator against profanity & obscenity | No | No | [Go!](http://www.purgomalum.com) |
 | vatlayer | VAT number validation | No | Yes | [Go!](https://vatlayer.com) |
 
 ### Development
@@ -166,6 +135,7 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Adorable Avatars | Generate random cartoon avatars | No | Yes | [Go!](http://avatars.adorable.io) |
 | APIs.guru | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | [Go!](https://apis.guru/api-doc/) |
+| Bacon Ipsum | A Meatier Lorem Ipsum Generator | No | Yes | [Go!](https://baconipsum.com/json-api/) |
 | BetterMeta | Return a site's meta tags in JSON format | X-Mashape-Key | Yes | [Go!](http://bettermeta.io) |
 | Changelogs.md | Structured changelog metadata from open source projects | No | Yes | [Go!](https://changelogs.md) |
 | CDNJS | Library info on CDNJS | No | Yes | [Go!](https://api.cdnjs.com/libraries/jquery) |
@@ -177,7 +147,7 @@ API | Description | Auth | HTTPS | Link |
 | Hipster Ipsum | Generates Hipster Ipsum text | No | No | [Go!](http://hipsterjesus.com/) |
 | IPify | A simple IP Address API | No | Yes | [Go!](https://www.ipify.org/) |
 | JSON 2 JSONP | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Yes | [Go!](https://json2jsonp.com/) |
-| JSONbin.io | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | No | Yes | [Go!](https://jsonbin.io) |
+| JSONbin.io | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey` | Yes | [Go!](https://jsonbin.io) |
 | JSONPlaceholder | Fake data for testing and prototyping | No | No | [Go!](http://jsonplaceholder.typicode.com/) |
 | Judge0 API | Compile and run source code | No | Yes | [Go!](https://api.judge0.com/) |
 | Kairos | Face Recognition and Emotion Analysis | `apiKey` | Yes | [Go!](https://www.kairos.com/features) |
@@ -222,6 +192,7 @@ API | Description | Auth | HTTPS | Link |
 | Consumer Financial Protection Bureau | Financial services consumer complains data | `apiKey` | Yes | [Go!](https://data.consumerfinance.gov/resource/jhzv-w97w.json) |
 | IEX | Stocks and Market Data | No | Yes | [Go!](https://iextrading.com/developer/) |
 | Razorpay IFSC | Indian Financial Systems Code (Bank Branch Codes) | No | Yes | [Go!](https://ifsc.razorpay.com/) |
+| VAT Rates | A collection of all VAT rates for EU countries | No | Yes | [Go!](https://jsonvat.com/) |
 
 ### Food & Drink
 API | Description | Auth | HTTPS | Link |
@@ -357,6 +328,38 @@ API | Description | Auth | HTTPS | Link |
 | New York Times | Provides news | `apiKey` | Yes | [Go!](https://developer.nytimes.com/) |
 | News API | Headlines currently published on a range of news sources and blogs | `apiKey` | Yes | [Go!](https://newsapi.org/) |
 | The Guardian | Access all the content the Guardian creates, categorised by tags and section | `apiKey` | Yes | [Go!](http://open-platform.theguardian.com/) |
+
+### Open Data
+API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| 18F | US Federal Government /Developer Program | No | No | [Go!](http://18f.github.io/API-All-the-X/) |
+| Abbreviation | Get abbreviations and meanings | `X-Mashape-Key` | Yes | [Go!](https://market.mashape.com/daxeel/abbreviations) |
+| CARTO | Location Information Prediction | `apiKey` | Yes | [Go!](https://carto.com/) |
+| Callook.info | United States ham radio callsigns | No | Yes | [Go!](https://callook.info) |
+| Celebinfo | Celebrity information | `X-Mashape-Key` | Yes | [Go!](https://market.mashape.com/daxeel/celebinfo/) |
+| Colorado Data Engine | Formatted and geolocated Colorado public data | No | Yes | [Go!](http://codataengine.org/) |
+| Colorado Information Marketplace | Colorado State Government Open Data | No | Yes | [Go!](https://data.colorado.gov/) |
+| Datakick | The open product database | `apiKey` | Yes | [Go!](https://www.datakick.org/api) |
+| Data USA | US Public Data | No | Yes | [Go!](https://datausa.io/about/api/) |
+| Dronestream | Tracks United States drone strikes | No | Yes | [Go!](https://dronestre.am/) |
+| fonoApi | Mobile Device Description | No | Yes | [Go!](https://fonoapi.freshpixl.com/) |
+| Open Government, Australia | Australian Government Open Data | No | Yes | [Go!](https://www.data.gov.au/) |
+| Open Government, USA | United States Government Open Data | No | Yes | [Go!](https://www.data.gov/) |
+| Open Government, Canada | Canadian Government Open Data | No | No | [Go!](http://open.canada.ca/en) |
+| Open Government Data, India | Indian Government Open Data | `apiKey` | Yes | [Go!](https://data.gov.in/) |
+| Open Government, New Zealand | New Zealand Government Open Data | No | Yes | [Go!](https://www.data.govt.nz/) |
+| Outpan | A Database of Everything | `apiKey` | Yes | [Go!](https://outpan.mixnode.com/developers) |
+| Pearson | Dictionary Data | `apiKey` | No | [Go!](http://developer.pearson.com/apis/dictionaries) |
+| Prague Opendata | Prague City Open Data | No | No | [Go!](http://opendata.praha.eu/en) |
+| Quandl | Stock Market Data | No | Yes | [Go!](https://www.quandl.com/) |
+| Represent by Open North | Find Canadian Government Representatives | No | Yes | [Go!](https://represent.opennorth.ca/) |
+| Scoop.it | Content Curation Service | `apiKey` | No | [Go!](http://www.scoop.it/dev) |
+| Teleport | Quality of Life Data | No | Yes | [Go!](https://developers.teleport.org/) |
+| UPC database | More than 1.5 million barcode numbers from all around the world | `apiKey` | Yes | [Go!](https://upcdatabase.org/api) |
+| Wikidata | Collaboratively edited knowledge base operated by the Wikimedia Foundation | `OAuth` | Yes | [Go!](https://www.wikidata.org/w/api.php?action=help) |
+| Wikipedia | Mediawiki Encyclopedia | No | Yes | [Go!](https://www.mediawiki.org/wiki/API:Main_page) |
+| Wordnik | Dictionary Data | No | No | [Go!](http://developer.wordnik.com) |
+| Yelp | Find Local Business | `OAuth` | Yes | [Go!](https://www.yelp.com/developers/documentation/v3) |
 
 ### Open Source projects
 API | Description | Auth | HTTPS | Link |
