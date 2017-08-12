@@ -1,5 +1,5 @@
 {
-    "count": 349,
+    "count": 351,
     "entries": [
         {
             "API": "Dogs",
@@ -1074,6 +1074,14 @@
             "Section": "Geocoding"
         },
         {
+            "API": "GraphLoc",
+            "Auth": null,
+            "Description": "Free GraphQL IP Geolocation API",
+            "HTTPS": true,
+            "Link": "https://www.graphloc.com",
+            "Section": "Geocoding"
+        },
+        {
             "API": "IP 2 Country",
             "Auth": null,
             "Description": "Map an IP to a country",
@@ -1383,6 +1391,14 @@
             "Description": "Music",
             "HTTPS": false,
             "Link": "http://www.last.fm/api",
+            "Section": "Music"
+        },
+        {
+            "API": "Lyrics.ovh",
+            "Auth": null,
+            "Description": "Simple API to retrieve the lyrics of a song",
+            "HTTPS": true,
+            "Link": "http://docs.lyricsovh.apiary.io/",
             "Section": "Music"
         },
         {

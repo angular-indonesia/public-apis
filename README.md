@@ -1,6 +1,6 @@
 # Public APIs [![Build Status](https://api.travis-ci.org/toddmotto/public-apis.svg)](https://travis-ci.org/toddmotto/public-apis)
 
-A collective list of free JSON APIs for use in web development.
+A collective list of free APIs for use in web development.
 
 A JSON encoding of all entries can be found [here](json).
 
@@ -255,6 +255,7 @@ API | Description | Auth | HTTPS | Link |
 | GeoNames | Place names and other geographical data | No | No | [Go!](http://www.geonames.org/export/web-services.html) |
 | GéoApi | French geographical data | No | Yes | [Go!](https://api.gouv.fr/api/geoapi.html) |
 | Google Maps | Create/customize digital maps based on Google Maps data | `apiKey` | Yes | [Go!](https://developers.google.com/maps/) |
+| GraphLoc | Free GraphQL IP Geolocation API | No | Yes | [Go!](https://www.graphloc.com) |
 | IP 2 Country | Map an IP to a country | No | Yes | [Go!](https://ip2country.info) |
 | IP Address Details | Find geolocation with ip address | No | Yes | [Go!](https://ipinfo.io/) |
 | IP Location | Find IP address location information | No | Yes | [Go!](https://ipapi.co/) |
@@ -311,6 +312,7 @@ API | Description | Auth | HTTPS | Link |
 | Jamendo | Music | `OAuth` | Yes | [Go!](https://developer.jamendo.com/v3.0) |
 | iTunes Search | Software products | No | Yes | [Go!](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) |
 | LastFm | Music | `apiKey` | No | [Go!](http://www.last.fm/api) |
+| Lyrics.ovh | Simple API to retrieve the lyrics of a song | No | Yes | [Go!](http://docs.lyricsovh.apiary.io/) |
 | Mixcloud | Music | `OAuth` | Yes | [Go!](https://www.mixcloud.com/developers/) |
 | MusicBrainz | Music | No | Yes | [Go!](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) |
 | Musikki | Music | `apiKey` | Yes | [Go!](https://music-api.musikki.com/reference) |
