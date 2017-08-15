@@ -28,6 +28,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [Fraud Prevention](#fraud-prevention)
 * [Games & Comics](#games--comics)
 * [Geocoding](#geocoding)
+* [Government](#government)
 * [Health](#health)
 * [Machine Learning](#machine-learning)
 * [Math](#math)
@@ -35,6 +36,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [News](#news)
 * [Open Data](#open-data)
 * [Open Source projects](#open-source-projects)
+* [Patent](#patent)
 * [Personality](#personality)
 * [Photography](#photography)
 * [Science](#science)
@@ -79,6 +81,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Behance | Design | `apiKey` | Yes | [Go!](https://www.behance.net/dev) |
+| Cooper Hewitt | Smithsonian Design Museum | `apiKey` | Yes | [Go!](https://collection.cooperhewitt.org/api) |
 | Dribbble | Design | `OAuth` | No | [Go!](http://developer.dribbble.com/v1/) |
 | Harvard Art Museums | Art | `apiKey` | No | [Go!](https://github.com/harvardartmuseums/api-docs) |
 | Icons8 | Icons | `OAuth` | Yes | [Go!](http://docs.icons8.apiary.io/#reference/0/meta) |
@@ -274,6 +277,13 @@ API | Description | Auth | HTTPS | Link |
 | ViaCep | Brazil RESTful zip codes API | No | Yes | [Go!](https://viacep.com.br) |
 | Zippopotam | Get information about place such as country, city, state, etc | No | No | [Go!](http://www.zippopotam.us) |
 
+### Government
+API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| BusinessUSA | BusinessUSA gives developers access to authoritative information on U.S. programs, events, services and more | `apiKey` | Yes | [Go!](https://business.usa.gov/developer) |
+| FEC | Information on campaign donations in federal elections | `apiKey` | Yes | [Go!](https://api.open.fec.gov/developers/) |
+| Regulations.gov | Regulations.gov provides access to Federal regulatory materials and increases public participation and their understanding of the Federal rule making process | `apiKey` | Yes | [Go!](https://regulationsgov.github.io/developers/) |
+
 ### Health
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
@@ -369,6 +379,13 @@ API | Description | Auth | HTTPS | Link |
 | Countly | Countly web analytics | No | No | [Go!](http://resources.count.ly/docs) |
 | Drupal.org | Drupal.org | No | Yes | [Go!](https://www.drupal.org/drupalorg/docs/api) |
 | Libraries.io | Open source software libraries | `apiKey` | Yes | [Go!](https://libraries.io/api) |
+
+### Patent
+API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| TIPO | Taiwan patent search system api | `apiKey` | Yes | [Go!](https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00) |
+| EPO | European patent search system api | `OAuth` | Yes | [Go!](https://developers.epo.org/) |
+| USPTO | USA patent api services | No | Yes | [Go!](https://www.uspto.gov/learning-and-resources/open-data-and-mobility) |
 
 ### Personality
 API | Description | Auth | HTTPS | Link |

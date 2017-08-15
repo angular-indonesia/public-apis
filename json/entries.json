@@ -1,5 +1,5 @@
 {
-    "count": 351,
+    "count": 358,
     "entries": [
         {
             "API": "Dogs",
@@ -119,6 +119,14 @@
             "Description": "Design",
             "HTTPS": true,
             "Link": "https://www.behance.net/dev",
+            "Section": "Art & Design"
+        },
+        {
+            "API": "Cooper Hewitt",
+            "Auth": "apiKey",
+            "Description": "Smithsonian Design Museum",
+            "HTTPS": true,
+            "Link": "https://collection.cooperhewitt.org/api",
             "Section": "Art & Design"
         },
         {
@@ -1218,6 +1226,30 @@
             "Section": "Geocoding"
         },
         {
+            "API": "BusinessUSA",
+            "Auth": "apiKey",
+            "Description": "BusinessUSA gives developers access to authoritative information on US. programs, events, services and more",
+            "HTTPS": true,
+            "Link": "https://business.usa.gov/developer",
+            "Section": "Government"
+        },
+        {
+            "API": "FEC",
+            "Auth": "apiKey",
+            "Description": "Information on campaign donations in federal elections",
+            "HTTPS": true,
+            "Link": "https://api.open.fec.gov/developers/",
+            "Section": "Government"
+        },
+        {
+            "API": "Regulations.gov",
+            "Auth": "apiKey",
+            "Description": "Regulationsgov provides access to Federal regulatory materials and increases public participation and their understanding of the Federal rule making process",
+            "HTTPS": true,
+            "Link": "https://regulationsgov.github.io/developers/",
+            "Section": "Government"
+        },
+        {
             "API": "Diabetes",
             "Auth": null,
             "Description": "Logging and retrieving diabetes information",
@@ -1752,6 +1784,30 @@
             "HTTPS": true,
             "Link": "https://libraries.io/api",
             "Section": "Open Source projects"
+        },
+        {
+            "API": "TIPO",
+            "Auth": "apiKey",
+            "Description": "Taiwan patent search system api",
+            "HTTPS": true,
+            "Link": "https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00",
+            "Section": "Patent"
+        },
+        {
+            "API": "EPO",
+            "Auth": "OAuth",
+            "Description": "European patent search system api",
+            "HTTPS": true,
+            "Link": "https://developers.epo.org/",
+            "Section": "Patent"
+        },
+        {
+            "API": "USPTO",
+            "Auth": null,
+            "Description": "USA patent api services",
+            "HTTPS": true,
+            "Link": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility",
+            "Section": "Patent"
         },
         {
             "API": "chucknorris.io",
