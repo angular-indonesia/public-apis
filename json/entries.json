@@ -1,5 +1,5 @@
 {
-    "count": 359,
+    "count": 361,
     "entries": [
         {
             "API": "Dogs",
@@ -1042,6 +1042,14 @@
             "Link": "https://adresse.data.gouv.fr"
         },
         {
+            "API": "Battuta",
+            "Auth": "apiKey",
+            "Category": "Geocoding",
+            "Description": "A (country/region/city) in-cascade location API",
+            "HTTPS": true,
+            "Link": "https://battuta.medunes.net"
+        },
+        {
             "API": "Bing Maps",
             "Auth": "apiKey",
             "Category": "Geocoding",
@@ -1248,6 +1256,14 @@
             "Description": "Regulationsgov provides access to Federal regulatory materials and increases public participation and their understanding of the Federal rule making process",
             "HTTPS": true,
             "Link": "https://regulationsgov.github.io/developers/"
+        },
+        {
+            "API": "BetterDoctor",
+            "Auth": "apiKey",
+            "Category": "Health",
+            "Description": "Detailed information about doctors in your area",
+            "HTTPS": true,
+            "Link": "https://developer.betterdoctor.com/"
         },
         {
             "API": "Diabetes",

@@ -253,6 +253,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | adresse.data.gouv.fr | Address database of France, geocoding, and reverse | No | Yes | [Go!](https://adresse.data.gouv.fr) |
+| Battuta | A (country/region/city) in-cascade location API | `apiKey` | Yes | [Go!](https://battuta.medunes.net) |
 | Bing Maps | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | [Go!](https://www.microsoft.com/maps/) |
 | GeoApi | French geographical data | No | Yes | [Go!](https://api.gouv.fr/api/geoapi.html) |
 | Geocode.xyz | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | [Go!](https://geocode.xyz/) |
@@ -287,6 +288,7 @@ API | Description | Auth | HTTPS | Link |
 ### Health
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| BetterDoctor | Detailed information about doctors in your area | `apiKey` | Yes | [Go!](https://developer.betterdoctor.com/) |
 | Diabetes | Logging and retrieving diabetes information | No | No | [Go!](http://predictbgl.com/api/) |
 | Flutrack | Influenza-like symptoms with geotracking | No | No | [Go!](http://www.flutrack.org/) |
 | Makeup | Makeup Information | No | No | [Go!](http://makeup-api.herokuapp.com/) |
