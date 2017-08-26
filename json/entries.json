@@ -1,5 +1,5 @@
 {
-    "count": 361,
+    "count": 364,
     "entries": [
         {
             "API": "Dogs",
@@ -1122,6 +1122,14 @@
             "Link": "https://ipapi.co/"
         },
         {
+            "API": "IP Sidekick",
+            "Auth": "apiKey",
+            "Category": "Geocoding",
+            "Description": "Geolocation API that returns extra information about an IP address",
+            "HTTPS": true,
+            "Link": "https://ipsidekick.com"
+        },
+        {
             "API": "IP Vigilante",
             "Auth": null,
             "Category": "Geocoding",
@@ -1642,6 +1650,14 @@
             "Link": "https://fonoapi.freshpixl.com/"
         },
         {
+            "API": "French Address Search",
+            "Auth": null,
+            "Category": "Open Data",
+            "Description": "French Government",
+            "HTTPS": true,
+            "Link": "https://adresse.data.gouv.fr/api"
+        },
+        {
             "API": "Open Government, Australia",
             "Auth": null,
             "Category": "Open Data",
@@ -2008,6 +2024,14 @@
             "Description": "ISS astronauts, current location, etc",
             "HTTPS": false,
             "Link": "http://open-notify.org/Open-Notify-API/"
+        },
+        {
+            "API": "SpaceX",
+            "Auth": null,
+            "Category": "Science",
+            "Description": "Company, vehicle, launchpad and launch data",
+            "HTTPS": true,
+            "Link": "https://github.com/r-spacex/SpaceX-API"
         },
         {
             "API": "Sunrise and Sunset",
