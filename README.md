@@ -23,6 +23,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [Development](#development)
 * [Documents & Productivity](#documents--productivity)
 * [Environment](#environment)
+* [Events](#events)
 * [Finance](#finance)
 * [Food & Drink](#food--drink)
 * [Fraud Prevention](#fraud-prevention)
@@ -186,6 +187,13 @@ API | Description | Auth | HTTPS | Link |
 | AirVisual | Air quality and weather data | `apiKey` | Yes | [Go!](https://airvisual.com/api) |
 | OpenAQ | Open air quality data | `apiKey` | Yes | [Go!](https://docs.openaq.org/) |
 | PM2.5.in | Air quality of China | `apiKey` | No | [Go!](http://www.pm25.in/api_doc) |
+
+### Events
+API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| Eventbrite | Find events | `OAuth` | Yes | [Go!](https://www.eventbrite.com/developer/v3/) |
+| Picatic | Sell tickets anywhere | `apiKey` | Yes | [Go!](http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto) |
+| Ticketmaster | Search events, attractions, or venues | `apiKey` | Yes | [Go!](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) |
 
 ### Finance
 API | Description | Auth | HTTPS | Link |
@@ -464,7 +472,7 @@ API | Description | Auth | HTTPS | Link |
 | Telegram Bot | Simplified HTTP version of the MTProto API for bots | `OAuth` | Yes | [Go!](https://core.telegram.org/bots/api) |
 | Telegram MTProto | Read and write Telegram data | `OAuth` | Yes | [Go!](https://core.telegram.org/api#getting-started) |
 | Tumblr | Read and write Tumblr Data | `OAuth` | Yes | [Go!](https://www.tumblr.com/docs/en/api/v2) |
-| Twitch | Game Streaming API | `OAuth` | Yes | [Go!](https://github.com/justintv/Twitch-API) |
+| Twitch | Game Streaming API | `OAuth` | Yes | [Go!](https://dev.twitch.tv/docs) |
 | Twitter | Read and write Twitter data | `OAuth` | Yes | [Go!](https://dev.twitter.com/rest/public) |
 | vk | Read and write vk data | `OAuth` | Yes | [Go!](https://vk.com/dev/sites) |
 
