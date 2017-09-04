@@ -1,5 +1,5 @@
 {
-    "count": 367,
+    "count": 370,
     "entries": [
         {
             "API": "Dogs",
@@ -16,6 +16,14 @@
             "Description": "IUCN Red List of Threatened Species",
             "HTTPS": false,
             "Link": "http://apiv3.iucnredlist.org/api/v3/docs"
+        },
+        {
+            "API": "Movebank",
+            "Auth": null,
+            "Category": "Animals",
+            "Description": "Movement and Migration data of animals",
+            "HTTPS": true,
+            "Link": "https://github.com/movebank/movebank-api-doc"
         },
         {
             "API": "Petfinder",
@@ -717,9 +725,9 @@
             "API": "Consumer Financial Protection Bureau",
             "Auth": "apiKey",
             "Category": "Finance",
-            "Description": "Financial services consumer complains data",
+            "Description": "Financial services Consumer Complaints Database",
             "HTTPS": true,
-            "Link": "https://data.consumerfinance.gov/resource/jhzv-w97w.json"
+            "Link": "https://data.consumerfinance.gov/dataset/Consumer-Complaints/s6ew-h6mp"
         },
         {
             "API": "IEX",
@@ -952,6 +960,14 @@
             "Description": "Bungie Platform API",
             "HTTPS": true,
             "Link": "https://www.bungie.net/en/Clan/Post/39966/85087279/0/0"
+        },
+        {
+            "API": "Dota 2",
+            "Auth": null,
+            "Category": "Games & Comics",
+            "Description": "Provides information about Player stats , Match stats, Rankings for Dota 2",
+            "HTTPS": true,
+            "Link": "https://docs.opendota.com/"
         },
         {
             "API": "Eve Online",
@@ -1328,6 +1344,14 @@
             "Description": "Access to the data from the CMS - medicaregov",
             "HTTPS": true,
             "Link": "https://data.medicare.gov/developers"
+        },
+        {
+            "API": "NPPES",
+            "Auth": null,
+            "Category": "Health",
+            "Description": "National Plan & Provider Enumeration System, info on healthcare providers registered in US",
+            "HTTPS": true,
+            "Link": "https://npiregistry.cms.hhs.gov/registry/help-api"
         },
         {
             "API": "Nutritionix",
