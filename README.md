@@ -100,6 +100,7 @@ API | Description | Auth | HTTPS | Link |
 ### Business
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| Domainsdb.info | Registered Domain Names Search | No | Yes | [Go!](https://domainsdb.info/) |
 | mailgun | Email Service | `apiKey` | Yes | [Go!](https://www.mailgun.com/) |
 | markerapi | Trademark Search | No | No | [Go!](http://www.markerapi.com/) |
 
@@ -200,6 +201,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Barchart OnDemand | Stock, Futures, and Forex Market Data | `apiKey` | Yes | [Go!](https://www.barchartondemand.com/free) |
+| Blockchain | Bitcoin Payment, Wallet & Transaction Data | No | Yes | [Go!](https://www.blockchain.info/api) |
 | CoinDesk | Bitcoin Price Index | No | No | [Go!](http://www.coindesk.com/api/) |
 | Consumer Financial Protection Bureau | Financial services Consumer Complaints Database | `apiKey` | Yes | [Go!](https://data.consumerfinance.gov/dataset/Consumer-Complaints/s6ew-h6mp) |
 | IEX | Stocks and Market Data | No | Yes | [Go!](https://iextrading.com/developer/) |
