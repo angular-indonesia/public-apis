@@ -1,5 +1,5 @@
 {
-    "count": 408,
+    "count": 413,
     "entries": [
         {
             "API": "Dogs",
@@ -543,7 +543,7 @@
             "Category": "Development",
             "Description": "Retrieve structured data from a website or RSS feed",
             "HTTPS": true,
-            "Link": "https://www.ipify.org/"
+            "Link": "http://api.docs.import.io/"
         },
         {
             "API": "IPify",
@@ -955,11 +955,19 @@
         },
         {
             "API": "TheCocktailDB",
-            "Auth": null,
+            "Auth": "apiKey",
             "Category": "Food & Drink",
             "Description": "Cocktail Recipes",
             "HTTPS": false,
             "Link": "http://www.thecocktaildb.com/"
+        },
+        {
+            "API": "TheMealDB",
+            "Auth": "apiKey",
+            "Category": "Food & Drink",
+            "Description": "Meal Recipes",
+            "HTTPS": false,
+            "Link": "http://www.themealdb.com/"
         },
         {
             "API": "What's on the menu?",
@@ -1128,6 +1136,14 @@
             "Description": "Guild Wars 2 Game Information",
             "HTTPS": true,
             "Link": "https://wiki.guildwars2.com/wiki/API:Main"
+        },
+        {
+            "API": "Halo",
+            "Auth": "apiKey",
+            "Category": "Games & Comics",
+            "Description": "Halo 5 and Halo Wars 2 Information",
+            "HTTPS": true,
+            "Link": "https://developer.haloapi.com/"
         },
         {
             "API": "Jservice",
@@ -1736,6 +1752,14 @@
             "Description": "Music",
             "HTTPS": true,
             "Link": "https://developer.spotify.com/web-api/"
+        },
+        {
+            "API": "TheAudioDB",
+            "Auth": "apiKey",
+            "Category": "Music",
+            "Description": "Music",
+            "HTTPS": false,
+            "Link": "http://www.theaudiodb.com"
         },
         {
             "API": "Vagalume",
@@ -2634,6 +2658,14 @@
             "Link": "https://suredbits.com/api/"
         },
         {
+            "API": "TheSportsDB",
+            "Auth": "apiKey",
+            "Category": "Sports & Fitness",
+            "Description": "Crowd-Sourced Sports Data and Artwork",
+            "HTTPS": false,
+            "Link": "http://www.thesportsdb.com"
+        },
+        {
             "API": "UFC Data",
             "Auth": null,
             "Category": "Sports & Fitness",
@@ -3152,6 +3184,14 @@
             "Description": "Game Of Thrones API",
             "HTTPS": true,
             "Link": "https://anapioficeandfire.com/"
+        },
+        {
+            "API": "Czech Television",
+            "Auth": null,
+            "Category": "Video",
+            "Description": "TV programme of Czech TV",
+            "HTTPS": false,
+            "Link": "http://www.ceskatelevize.cz/xml/tv-program/"
         },
         {
             "API": "Dailymotion",
