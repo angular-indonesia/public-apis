@@ -1,5 +1,5 @@
 {
-    "count": 415,
+    "count": 417,
     "entries": [
         {
             "API": "Dogs",
@@ -360,6 +360,38 @@
             "Description": "Sync your GitHub projects with Travis CI to test your code in minutes",
             "HTTPS": true,
             "Link": "https://docs.travis-ci.com/api/"
+        },
+        {
+            "API": "Blockchain",
+            "Auth": null,
+            "Category": "Cryptocurrency",
+            "Description": "Bitcoin Payment, Wallet & Transaction Data",
+            "HTTPS": true,
+            "Link": "https://www.blockchain.info/api"
+        },
+        {
+            "API": "CoinDesk",
+            "Auth": null,
+            "Category": "Cryptocurrency",
+            "Description": "Bitcoin Price Index",
+            "HTTPS": false,
+            "Link": "http://www.coindesk.com/api/"
+        },
+        {
+            "API": "CoinMarketCap",
+            "Auth": null,
+            "Category": "Cryptocurrency",
+            "Description": "Cryptocurrencies Prices",
+            "HTTPS": true,
+            "Link": "https://coinmarketcap.com/api/"
+        },
+        {
+            "API": "CryptoCompare",
+            "Auth": null,
+            "Category": "Cryptocurrency",
+            "Description": "Cryptocurrencies Comparison",
+            "HTTPS": true,
+            "Link": "https://www.cryptocompare.com/api#"
         },
         {
             "API": "1Forge",
@@ -840,22 +872,6 @@
             "Description": "Stock, Futures, and Forex Market Data",
             "HTTPS": true,
             "Link": "https://www.barchartondemand.com/free"
-        },
-        {
-            "API": "Blockchain",
-            "Auth": null,
-            "Category": "Finance",
-            "Description": "Bitcoin Payment, Wallet & Transaction Data",
-            "HTTPS": true,
-            "Link": "https://www.blockchain.info/api"
-        },
-        {
-            "API": "CoinDesk",
-            "Auth": null,
-            "Category": "Finance",
-            "Description": "Bitcoin Price Index",
-            "HTTPS": false,
-            "Link": "http://www.coindesk.com/api/"
         },
         {
             "API": "Consumer Financial Protection Bureau",
