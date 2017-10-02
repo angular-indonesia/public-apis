@@ -1,5 +1,5 @@
 {
-    "count": 418,
+    "count": 422,
     "entries": [
         {
             "API": "Dogs",
@@ -152,6 +152,14 @@
             "Description": "Art",
             "HTTPS": false,
             "Link": "https://github.com/harvardartmuseums/api-docs"
+        },
+        {
+            "API": "Iconfinder",
+            "Auth": "apiKey",
+            "Category": "Art & Design",
+            "Description": "Icons",
+            "HTTPS": true,
+            "Link": "https://developer.iconfinder.com"
         },
         {
             "API": "Icons8",
@@ -370,10 +378,18 @@
             "Link": "https://www.blockchain.info/api"
         },
         {
+            "API": "Coinbase",
+            "Auth": null,
+            "Category": "Cryptocurrency",
+            "Description": "Bitcoin, Litecoin and Ethereum Prices",
+            "HTTPS": true,
+            "Link": "https://developers.coinbase.com"
+        },
+        {
             "API": "CoinBin",
             "Auth": null,
             "Category": "Cryptocurrency",
-            "Description": "Human\u2013friendly API for cryptocurrency information",
+            "Description": "Cryptocurrency information",
             "HTTPS": true,
             "Link": "https://coinbin.org/"
         },
@@ -544,6 +560,14 @@
             "Description": "Persistent counting and A/B testing",
             "HTTPS": true,
             "Link": "https://count.io"
+        },
+        {
+            "API": "DigitalOcean Status",
+            "Auth": null,
+            "Category": "Development",
+            "Description": "Status of all DigitalOcean services",
+            "HTTPS": true,
+            "Link": "https://status.digitalocean.com/api/v1"
         },
         {
             "API": "Faceplusplus",
@@ -1184,6 +1208,14 @@
             "Description": "Halo 5 and Halo Wars 2 Information",
             "HTTPS": true,
             "Link": "https://developer.haloapi.com/"
+        },
+        {
+            "API": "Hearthstone",
+            "Auth": "X-Mashape-Key",
+            "Category": "Games & Comics",
+            "Description": "Hearthstone Cards Information",
+            "HTTPS": true,
+            "Link": "http://hearthstoneapi.com/"
         },
         {
             "API": "Jservice",

@@ -90,6 +90,7 @@ API | Description | Auth | HTTPS | Link |
 | Cooper Hewitt | Smithsonian Design Museum | `apiKey` | Yes | [Go!](https://collection.cooperhewitt.org/api) |
 | Dribbble | Design | `OAuth` | No | [Go!](http://developer.dribbble.com/v1/) |
 | Harvard Art Museums | Art | `apiKey` | No | [Go!](https://github.com/harvardartmuseums/api-docs) |
+| Iconfinder | Icons | `apiKey` | Yes | [Go!](https://developer.iconfinder.com) |
 | Icons8 | Icons | `OAuth` | Yes | [Go!](http://docs.icons8.apiary.io/#reference/0/meta) |
 | Noun Project | Icons | `OAuth` | No | [Go!](http://api.thenounproject.com/index.html) |
 | Rijksmuseum | Art | `apiKey` | Yes | [Go!](https://www.rijksmuseum.nl/en/api) |
@@ -141,7 +142,8 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Blockchain | Bitcoin Payment, Wallet & Transaction Data | No | Yes | [Go!](https://www.blockchain.info/api) |
-| CoinBin | Human–friendly API for cryptocurrency information | No | Yes | [Go!](https://coinbin.org/) |
+| Coinbase | Bitcoin, Litecoin and Ethereum Prices | No | Yes | [Go!](https://developers.coinbase.com) |
+| CoinBin | Cryptocurrency information | No | Yes | [Go!](https://coinbin.org/) |
 | CoinDesk | Bitcoin Price Index | No | No | [Go!](http://www.coindesk.com/api/) |
 | CoinMarketCap | Cryptocurrencies Prices | No | Yes | [Go!](https://coinmarketcap.com/api/) |
 | CryptoCompare | Cryptocurrencies Comparison | No | Yes | [Go!](https://www.cryptocompare.com/api#) |
@@ -175,6 +177,7 @@ API | Description | Auth | HTTPS | Link |
 | CDNJS | Library info on CDNJS | No | Yes | [Go!](https://api.cdnjs.com/libraries/jquery) |
 | Changelogs.md | Structured changelog metadata from open source projects | No | Yes | [Go!](https://changelogs.md) |
 | Count.io | Persistent counting and A/B testing | No | Yes | [Go!](https://count.io) |
+| DigitalOcean Status | Status of all DigitalOcean services | No | Yes | [Go!](https://status.digitalocean.com/api/v1) |
 | Faceplusplus | A tool to detect face | `OAuth` | Yes | [Go!](https://www.faceplusplus.com/) |
 | Genderize.io | Determines a gender from a first name | No | Yes | [Go!](https://genderize.io) |
 | Github - User Data | Pull public information for a user's github | No | Yes | [Go!](https://api.github.com/users/hackeryou) |
@@ -284,6 +287,7 @@ API | Description | Auth | HTTPS | Link |
 | Giant Bomb | Video Games | No | Yes | [Go!](https://www.giantbomb.com/api/documentation) |
 | Guild Wars 2 | Guild Wars 2 Game Information | `apiKey` | Yes | [Go!](https://wiki.guildwars2.com/wiki/API:Main) |
 | Halo | Halo 5 and Halo Wars 2 Information | `apiKey` | Yes | [Go!](https://developer.haloapi.com/) |
+| Hearthstone | Hearthstone Cards Information | `X-Mashape-Key` | Yes | [Go!](http://hearthstoneapi.com/) |
 | Jservice | Jeopardy Question Database | No | No | [Go!](http://jservice.io) |
 | Magic The Gathering | Magic The Gathering Game Information | No | No | [Go!](http://magicthegathering.io/) |
 | Marvel | Marvel Comics | `apiKey` | No | [Go!](http://developer.marvel.com) |
