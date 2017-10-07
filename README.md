@@ -99,7 +99,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | British National Bibliography | Books | No | No | [Go!](http://bnb.data.bl.uk/) |
-| Goodreads | Books | No | Yes | [Go!](https://www.goodreads.com/api) |
+| Goodreads | Books | `apiKey` | Yes | [Go!](https://www.goodreads.com/api) |
 | Google Books | Books | `OAuth` | Yes | [Go!](https://developers.google.com/books/) |
 | Open Library | Books, book covers, and related data | No | Yes | [Go!](https://openlibrary.org/developers/api) |
 
@@ -178,6 +178,7 @@ API | Description | Auth | HTTPS | Link |
 | Changelogs.md | Structured changelog metadata from open source projects | No | Yes | [Go!](https://changelogs.md) |
 | Count.io | Persistent counting and A/B testing | No | Yes | [Go!](https://count.io) |
 | DigitalOcean Status | Status of all DigitalOcean services | No | Yes | [Go!](https://status.digitalocean.com/api/v1) |
+| DomainDb Info | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | [Go!](https://domainsdb.info/apidomainsdb/index.php) |
 | Faceplusplus | A tool to detect face | `OAuth` | Yes | [Go!](https://www.faceplusplus.com/) |
 | Genderize.io | Determines a gender from a first name | No | Yes | [Go!](https://genderize.io) |
 | Github - User Data | Pull public information for a user's github | No | Yes | [Go!](https://api.github.com/users/hackeryou) |
@@ -224,6 +225,7 @@ API | Description | Auth | HTTPS | Link |
 | AirVisual | Air quality and weather data | `apiKey` | Yes | [Go!](https://airvisual.com/api) |
 | OpenAQ | Open air quality data | `apiKey` | Yes | [Go!](https://docs.openaq.org/) |
 | PM2.5.in | Air quality of China | `apiKey` | No | [Go!](http://www.pm25.in/api_doc) |
+| UK Carbon Intensity | The Official Carbon Intensity API for Great Britain developed by National Grid | No | Yes | [Go!](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) |
 
 ### Events
 API | Description | Auth | HTTPS | Link |
@@ -240,6 +242,7 @@ API | Description | Auth | HTTPS | Link |
 | Czech National Bank | A collection of exchange rates | No | No | [Go!](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) |
 | IEX | Stocks and Market Data | No | Yes | [Go!](https://iextrading.com/developer/) |
 | Razorpay IFSC | Indian Financial Systems Code (Bank Branch Codes) | No | Yes | [Go!](https://ifsc.razorpay.com/) |
+| RoutingNumbers.info | ACH/NACHA Bank Routing Numbers | No | Yes | [Go!](https://www.routingnumbers.info/api/index.html) |
 | VAT Rates | A collection of all VAT rates for EU countries | No | Yes | [Go!](https://jsonvat.com/) |
 
 ### Food & Drink
@@ -305,6 +308,7 @@ API | Description | Auth | HTTPS | Link |
 | adresse.data.gouv.fr | Address database of France, geocoding, and reverse | No | Yes | [Go!](https://adresse.data.gouv.fr) |
 | Battuta | A (country/region/city) in-cascade location API | `apiKey` | Yes | [Go!](https://battuta.medunes.net) |
 | Bing Maps | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | [Go!](https://www.microsoft.com/maps/) |
+| FreeGeoIP | Geolocation of IP addresses | No | Yes | [Go!](https://freegeoip.net/) |
 | GeoApi | French geographical data | No | Yes | [Go!](https://api.gouv.fr/api/geoapi.html) |
 | Geocode.xyz | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | [Go!](https://geocode.xyz/) |
 | GeoNames | Place names and other geographical data | No | No | [Go!](http://www.geonames.org/export/web-services.html) |
@@ -435,6 +439,7 @@ API | Description | Auth | HTTPS | Link |
 | Wikidata | Collaboratively edited knowledge base operated by the Wikimedia Foundation | `OAuth` | Yes | [Go!](https://www.wikidata.org/w/api.php?action=help) |
 | Wikipedia | Mediawiki Encyclopedia | No | Yes | [Go!](https://www.mediawiki.org/wiki/API:Main_page) |
 | Wordnik | Dictionary Data | No | No | [Go!](http://developer.wordnik.com) |
+| Words | Definitions for more than 150,000 words | `apiKey` | Yes | [Go!](https://www.wordsapi.com/) |
 | Yelp | Find Local Business | `OAuth` | Yes | [Go!](https://www.yelp.com/developers/documentation/v3) |
 
 ### Open Source Projects

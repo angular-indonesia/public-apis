@@ -1,5 +1,5 @@
 {
-    "count": 422,
+    "count": 427,
     "entries": [
         {
             "API": "Dogs",
@@ -195,7 +195,7 @@
         },
         {
             "API": "Goodreads",
-            "Auth": null,
+            "Auth": "apiKey",
             "Category": "Books",
             "Description": "Books",
             "HTTPS": true,
@@ -570,6 +570,14 @@
             "Link": "https://status.digitalocean.com/api/v1"
         },
         {
+            "API": "DomainDb Info",
+            "Auth": null,
+            "Category": "Development",
+            "Description": "Domain name search to find all domains containing particular words/phrases/etc",
+            "HTTPS": true,
+            "Link": "https://domainsdb.info/apidomainsdb/index.php"
+        },
+        {
             "API": "Faceplusplus",
             "Auth": "OAuth",
             "Category": "Development",
@@ -874,6 +882,14 @@
             "Link": "http://www.pm25.in/api_doc"
         },
         {
+            "API": "UK Carbon Intensity",
+            "Auth": null,
+            "Category": "Environment",
+            "Description": "The Official Carbon Intensity API for Great Britain developed by National Grid",
+            "HTTPS": true,
+            "Link": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0"
+        },
+        {
             "API": "Eventbrite",
             "Auth": "OAuth",
             "Category": "Events",
@@ -936,6 +952,14 @@
             "Description": "Indian Financial Systems Code (Bank Branch Codes)",
             "HTTPS": true,
             "Link": "https://ifsc.razorpay.com/"
+        },
+        {
+            "API": "RoutingNumbers.info",
+            "Auth": null,
+            "Category": "Finance",
+            "Description": "ACH/NACHA Bank Routing Numbers",
+            "HTTPS": true,
+            "Link": "https://www.routingnumbers.info/api/index.html"
         },
         {
             "API": "VAT Rates",
@@ -1320,6 +1344,14 @@
             "Description": "Create/customize digital maps based on Bing Maps data",
             "HTTPS": true,
             "Link": "https://www.microsoft.com/maps/"
+        },
+        {
+            "API": "FreeGeoIP",
+            "Auth": null,
+            "Category": "Geocoding",
+            "Description": "Geolocation of IP addresses",
+            "HTTPS": true,
+            "Link": "https://freegeoip.net/"
         },
         {
             "API": "GeoApi",
@@ -2128,6 +2160,14 @@
             "Description": "Dictionary Data",
             "HTTPS": false,
             "Link": "http://developer.wordnik.com"
+        },
+        {
+            "API": "Words",
+            "Auth": "apiKey",
+            "Category": "Open Data",
+            "Description": "Definitions for more than 150,000 words",
+            "HTTPS": true,
+            "Link": "https://www.wordsapi.com/"
         },
         {
             "API": "Yelp",
