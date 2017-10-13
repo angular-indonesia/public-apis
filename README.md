@@ -33,6 +33,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [Geocoding](#geocoding)
 * [Government](#government)
 * [Health](#health)
+* [Jobs](#jobs)
 * [Machine Learning](#machine-learning)
 * [Math](#math)
 * [Music](#music)
@@ -118,6 +119,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Church Calendar | Catholic liturgical calendar | No | No | [Go!](http://calapi.inadiutorium.cz/) |
+| Czech Namedays Calendar | Lookup for a name and returns nameday date | No | No | [Go!](http://svatky.adresa.info/) |
 | Google Calendar | Display, create and modify Google calendar events | `OAuth` | Yes | [Go!](https://developers.google.com/google-apps/calendar/) |
 | Holidays | Historical data regarding holidays | `apiKey` | Yes | [Go!](https://holidayapi.com/) |
 | LectServe | Protestant liturgical calendar | No | No | [Go!](http://www.lectserve.com) |
@@ -130,6 +132,7 @@ API | Description | Auth | HTTPS | Link |
 | Dropbox | File Sharing and Storage | `OAuth` | Yes | [Go!](https://www.dropbox.com/developers) |
 | Google Drive | File Sharing and Storage | `OAuth` | Yes | [Go!](https://developers.google.com/drive/) |
 | OneDrive | File Sharing and Storage | `OAuth` | Yes | [Go!](https://dev.onedrive.com/) |
+| Pastebin | Plain Text Storage | `apiKey` | Yes | [Go!](https://pastebin.com/api/) |
 
 ### Continuous Integration
 API | Description | Auth | HTTPS | Link |
@@ -147,12 +150,14 @@ API | Description | Auth | HTTPS | Link |
 | CoinDesk | Bitcoin Price Index | No | No | [Go!](http://www.coindesk.com/api/) |
 | CoinMarketCap | Cryptocurrencies Prices | No | Yes | [Go!](https://coinmarketcap.com/api/) |
 | CryptoCompare | Cryptocurrencies Comparison | No | Yes | [Go!](https://www.cryptocompare.com/api#) |
+| MercadoBitcoin | Brazilian Cryptocurrency Information | No | Yes | [Go!](https://www.mercadobitcoin.net/api-doc/) |
 
 ### Currency Exchange
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | 1Forge | Forex currency market data | `apiKey` | Yes | [Go!](https://1forge.com/forex-data-api/api-documentation) |
 | Currencylayer | Exchange rates and currency conversion | `apiKey` | Yes | [Go!](https://currencylayer.com/documentation) |
+| Czech National Bank | A collection of exchange rates | No | Yes | [Go!](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) |
 | Fixer.io | Exchange rates and currency conversion | No | Yes | [Go!](http://fixer.io) |
 
 ### Data Validation
@@ -239,7 +244,6 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Barchart OnDemand | Stock, Futures, and Forex Market Data | `apiKey` | Yes | [Go!](https://www.barchartondemand.com/free) |
 | Consumer Financial Protection Bureau | Financial services consumer complains data | `apiKey` | Yes | [Go!](https://data.consumerfinance.gov/resource/jhzv-w97w.json) |
-| Czech National Bank | A collection of exchange rates | No | No | [Go!](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) |
 | IEX | Stocks and Market Data | No | Yes | [Go!](https://iextrading.com/developer/) |
 | Razorpay IFSC | Indian Financial Systems Code (Bank Branch Codes) | No | Yes | [Go!](https://ifsc.razorpay.com/) |
 | RoutingNumbers.info | ACH/NACHA Bank Routing Numbers | No | Yes | [Go!](https://www.routingnumbers.info/api/index.html) |
@@ -276,7 +280,7 @@ API | Description | Auth | HTTPS | Link |
 ### Games & Comics
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| Battle.net | Blizzard Entertainment | No | Yes | [Go!](https://dev.battle.net/) |
+| Battle.net | Blizzard Entertainment | `apiKey` | Yes | [Go!](https://dev.battle.net/) |
 | Battlefield 4 | Battlefield 4 Information | No | Yes | [Go!](https://bf4stats.com/api) |
 | Chuck Norris Database | Jokes | No | No | [Go!](http://www.icndb.com/api/) |
 | Clash of Clans | Clash of Clans Game Information | No | Yes | [Go!](https://developer.clashofclans.com) |
@@ -357,6 +361,24 @@ API | Description | Auth | HTTPS | Link |
 | openFDA | Public FDA data about drugs, devices, and foods | No | Yes | [Go!](https://open.fda.gov/api/) |
 | USDA Nutrients | National Nutrient Database for Standard Reference | No | Yes | [Go!](https://ndb.nal.usda.gov/ndb/doc/index) |
 
+### Jobs
+API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| Adzuna | Job board aggregator | `apiKey` | Yes | [Go!](https://developer.adzuna.com/overview) |
+| Authentic Jobs | Job board for designers, hackers, and creative pros | `apiKey` | Yes | [Go!](https://authenticjobs.com/api/docs) |
+| Careerjet | Job search engine | `apiKey` | No | [Go!](https://www.careerjet.com/partners/api/) |
+| Github Jobs | Jobs for software developers | No | Yes | [Go!](https://jobs.github.com/api) |
+| Indeed | Job board aggragator | `apiKey` | Yes | [Go!](https://www.indeed.com/publisher) |
+| Jobs2Careers | Job aggregator | `apiKey` | Yes | [Go!](http://api.jobs2careers.com/api/spec.pdf) |
+| Jooble | Job search engine | `apiKey` | Yes | [Go!](https://us.jooble.org/api/about) |
+| Juju | Job search engine | `apiKey` | No | [Go!](http://www.juju.com/publisher/spec/) |
+| Open Skills | Job titles, skills, and related jobs data | No | No | [Go!](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) |
+| Search.gov Jobs | Tap into a list of current jobs openings with the United States government | No | Yes | [Go!](https://search.gov/developer/jobs.html) |
+| The Muse | Job board and company profiles | `apiKey` | Yes | [Go!](https://www.themuse.com/developers/api/v2) |
+| Upwork | Freelance job board and management system | `OAuth` | Yes | [Go!](https://developers.upwork.com/) |
+| USAJOBS | US government job board | `apiKey` | Yes | [Go!](https://developer.usajobs.gov/) |
+| ZipRecruiter | Job search app and website | `apiKey` | Yes | [Go!](https://www.ziprecruiter.com/publishers) |
+
 ### Machine Learning
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
@@ -422,12 +444,12 @@ API | Description | Auth | HTTPS | Link |
 | Federal Register | The Daily Journal of the United States Government | No | Yes | [Go!](https://www.federalregister.gov/reader-aids/developer-resources) |
 | fonoApi | Mobile Device Description | No | Yes | [Go!](https://fonoapi.freshpixl.com/) |
 | French Address Search | French Government | No | Yes | [Go!](https://adresse.data.gouv.fr/api) |
+| Marijuana Strains | Marijuana strains, races, flavors, and effects | `apiKey` | No | [Go!](http://strains.evanbusse.com/) |
 | Open Government, Australia | Australian Government Open Data | No | Yes | [Go!](https://www.data.gov.au/) |
 | Open Government, Canada | Canadian Government Open Data | No | No | [Go!](http://open.canada.ca/en) |
 | Open Government, India | Indian Government Open Data | `apiKey` | Yes | [Go!](https://data.gov.in/) |
 | Open Government, New Zealand | New Zealand Government Open Data | No | Yes | [Go!](https://www.data.govt.nz/) |
 | Open Government, USA | United States Government Open Data | No | Yes | [Go!](https://www.data.gov/) |
-| Open Skills | Job titles, skills, and related jobs data | No | No | [Go!](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) |
 | Outpan | A Database of Everything | `apiKey` | Yes | [Go!](https://outpan.mixnode.com/developers) |
 | Pearson | Dictionary Data | `apiKey` | No | [Go!](http://developer.pearson.com/apis/dictionaries) |
 | Prague Opendata | Prague City Open Data | No | No | [Go!](http://opendata.praha.eu/en) |
@@ -485,7 +507,6 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | arcsecond.io | Multiple astronomy data sources | No | Yes | [Go!](https://api.arcsecond.io/) |
 | CORE | Access the world's Open Access research papers | `apiKey` | Yes | [Go!](https://core.ac.uk/services#api) |
-| Fedger.io | Query machine intelligence data | No | Yes | [Go!](https://dev.fedger.io/docs/) |
 | inspirehep.net | High Energy Physics info. system | No | Yes | [Go!](https://inspirehep.net/info/hep/api?ln=en) |
 | Launch Library | Upcoming Space Launches | No | Yes | [Go!](https://launchlibrary.net/1.2/docs/api.html) |
 | Minor Planet Center | Asterank.com Information | No | No | [Go!](http://www.asterank.com/mpc) |
@@ -612,7 +633,6 @@ API | Description | Auth | HTTPS | Link |
 | Transport for Switzerland | Official Swiss Public Transport Open Data | `apiKey` | Yes | [Go!](https://opentransportdata.swiss/en/) |
 | Transport for The Netherlands | NS, only trains | `apiKey` | No | [Go!](http://www.ns.nl/reisinformatie/ns-api) |
 | Transport for The Netherlands | OVAPI, country-wide public transport | No | Yes | [Go!](https://github.com/skywave/KV78Turbo-OVAPI/wiki) |
-| Transport for Tokyo, Japan | Tokyo Metro | `apiKey` | Yes | [Go!](https://developer.tokyometroapp.jp/info) |
 | Transport for Toronto, Canada | TTC | No | Yes | [Go!](https://myttc.ca/developers) |
 | Transport for United States | NextBus API | No | No | [Go!](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) |
 | Transport for Vancouver, Canada | TransLink | `OAuth` | Yes | [Go!](https://developer.translink.ca/) |
