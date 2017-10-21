@@ -1,5 +1,5 @@
 {
-    "count": 458,
+    "count": 460,
     "entries": [
         {
             "API": "Dogs",
@@ -1910,8 +1910,8 @@
             "Auth": "OAuth",
             "Category": "Music",
             "Description": "Music",
-            "HTTPS": false,
-            "Link": "http://developers.deezer.com/login?redirect=/api"
+            "HTTPS": true,
+            "Link": "https://developers.deezer.com/api"
         },
         {
             "API": "Discogs",
@@ -1950,8 +1950,8 @@
             "Auth": "apiKey",
             "Category": "Music",
             "Description": "Music",
-            "HTTPS": false,
-            "Link": "http://www.last.fm/api"
+            "HTTPS": true,
+            "Link": "https://www.last.fm/api"
         },
         {
             "API": "Lyrics.ovh",
@@ -2226,6 +2226,14 @@
             "Link": "http://open.canada.ca/en"
         },
         {
+            "API": "Open Government, France",
+            "Auth": "apiKey",
+            "Category": "Open Data",
+            "Description": "French Government Open Data",
+            "HTTPS": true,
+            "Link": "https://www.data.gouv.fr/"
+        },
+        {
             "API": "Open Government, India",
             "Auth": "apiKey",
             "Category": "Open Data",
@@ -2480,6 +2488,14 @@
             "Description": "Images",
             "HTTPS": true,
             "Link": "https://apidocs.imgur.com/"
+        },
+        {
+            "API": "Pixabay",
+            "Auth": "apiKey",
+            "Category": "Photography",
+            "Description": "Photography",
+            "HTTPS": true,
+            "Link": "https://pixabay.com/sk/service/about/api/"
         },
         {
             "API": "PlaceKitten",
