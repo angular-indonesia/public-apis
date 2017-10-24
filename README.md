@@ -491,6 +491,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | chucknorris.io | JSON API for hand curated Chuck Norris jokes | No | Yes | [Go!](https://api.chucknorris.io) |
+| FavQs.com | FavQs allows you to collect, discover, and share your favorite quotes | `apiKey` | Yes | [Go!](https://favqs.com/api) |
 | Forismatic | Inspirational Quotes | No | No | [Go!](http://forismatic.com/en/api/) |
 | icanhazdadjoke | The largest selection of dad jokes on the internet | No | Yes | [Go!](https://icanhazdadjoke.com/api) |
 | Medium | Community of readers and writers offering unique perspectives on ideas | `OAuth` | Yes | [Go!](https://github.com/Medium/medium-api-docs) |
@@ -508,6 +509,7 @@ API | Description | Auth | HTTPS | Link |
 | Giphy | Get all your gifs | No | Yes | [Go!](https://github.com/Giphy/GiphyAPI) |
 | Imgur | Images | `OAuth` | Yes | [Go!](https://apidocs.imgur.com/) |
 | Pixabay | Photography | `apiKey` | Yes | [Go!](https://pixabay.com/sk/service/about/api/) |
+| Pixhost | Upload images, photos, galleries | No | Yes | [Go!](https://pixhost.org/api/index.html) |
 | PlaceKitten | Resizable kitten placeholder images | No | Yes | [Go!](https://placekitten.com/) |
 | ScreenShotLayer | URL 2 Image | No | Yes | [Go!](https://screenshotlayer.com) |
 | Unsplash | Photography | `OAuth` | Yes | [Go!](https://unsplash.com/developers) |
@@ -592,6 +594,7 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Adorable Avatars | Generate random cartoon avatars | No | Yes | [Go!](http://avatars.adorable.io) |
 | Bacon Ipsum | A Meatier Lorem Ipsum Generator | No | Yes | [Go!](https://baconipsum.com/json-api/) |
+| FHIR | Fast Healthcare Interoperability Resources test data | No | Yes | [Go!](http://fhirtest.uhn.ca/home) |
 | Hipster Ipsum | Generates Hipster Ipsum text | No | No | [Go!](http://hipsterjesus.com/) |
 | JSONPlaceholder | Fake data for testing and prototyping | No | No | [Go!](http://jsonplaceholder.typicode.com/) |
 | Lorem Text | Generates Lorem Ipsum text | `X-Mashape-Key` | Yes | [Go!](https://market.mashape.com/montanaflynn/lorem-text-generator) |

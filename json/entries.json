@@ -1,5 +1,5 @@
 {
-    "count": 461,
+    "count": 464,
     "entries": [
         {
             "API": "Dogs",
@@ -2402,6 +2402,14 @@
             "Link": "https://api.chucknorris.io"
         },
         {
+            "API": "FavQs.com",
+            "Auth": "apiKey",
+            "Category": "Personality",
+            "Description": "FavQs allows you to collect, discover, and share your favorite quotes",
+            "HTTPS": true,
+            "Link": "https://favqs.com/api"
+        },
+        {
             "API": "Forismatic",
             "Auth": null,
             "Category": "Personality",
@@ -2504,6 +2512,14 @@
             "Description": "Photography",
             "HTTPS": true,
             "Link": "https://pixabay.com/sk/service/about/api/"
+        },
+        {
+            "API": "Pixhost",
+            "Auth": null,
+            "Category": "Photography",
+            "Description": "Upload images, photos, galleries",
+            "HTTPS": true,
+            "Link": "https://pixhost.org/api/index.html"
         },
         {
             "API": "PlaceKitten",
@@ -2984,6 +3000,14 @@
             "Description": "A Meatier Lorem Ipsum Generator",
             "HTTPS": true,
             "Link": "https://baconipsum.com/json-api/"
+        },
+        {
+            "API": "FHIR",
+            "Auth": null,
+            "Category": "Test Data",
+            "Description": "Fast Healthcare Interoperability Resources test data",
+            "HTTPS": true,
+            "Link": "http://fhirtest.uhn.ca/home"
         },
         {
             "API": "Hipster Ipsum",
