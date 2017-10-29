@@ -395,9 +395,9 @@ API | Description | Auth | HTTPS | Link |
 ### Machine Learning
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| API.AI | Natural Language Processing | `apiKey` | Yes | [Go!](https://api.ai/) |
 | Clarifai | Computer Vision | `OAuth` | Yes | [Go!](https://developer.clarifai.com/) |
 | Cleverbot | Web chat bot | `apiKey` | Yes | [Go!](https://www.cleverbot.com/api/) |
+| Dialogflow | Natural Language Processing | `apiKey` | Yes | [Go!](https://dialogflow.com) |
 | Keen IO | Data Analytics | `apiKey` | Yes | [Go!](https://keen.io/) |
 | Unplugg | Forecasting API for timeseries data | `apiKey` | Yes | [Go!](https://unplu.gg/test_api.html) |
 | Wit.ai | Natural Language Processing | `OAuth` | Yes | [Go!](https://wit.ai/) |
@@ -458,6 +458,7 @@ API | Description | Auth | HTTPS | Link |
 | fonoApi | Mobile Device Description | No | Yes | [Go!](https://fonoapi.freshpixl.com/) |
 | French Address Search | French Government | No | Yes | [Go!](https://adresse.data.gouv.fr/api) |
 | Marijuana Strains | Marijuana strains, races, flavors, and effects | `apiKey` | No | [Go!](http://strains.evanbusse.com/) |
+| Microlink.io | Turns any link into information | No | Yes | [Go!](https://docs.microlink.io) |
 | Open Government, Australia | Australian Government Open Data | No | Yes | [Go!](https://www.data.gov.au/) |
 | Open Government, Canada | Canadian Government Open Data | No | No | [Go!](http://open.canada.ca/en) |
 | Open Government, France | French Government Open Data | `apiKey` | Yes | [Go!](https://www.data.gouv.fr/) |
