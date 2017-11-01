@@ -1,5 +1,5 @@
 {
-    "count": 467,
+    "count": 470,
     "entries": [
         {
             "API": "Dogs",
@@ -536,6 +536,14 @@
             "Description": "VAT number validation",
             "HTTPS": true,
             "Link": "https://vatlayer.com"
+        },
+        {
+            "API": "ApiLeap",
+            "Auth": "apiKey",
+            "Category": "Development",
+            "Description": "Make screenshots from web pages and HTML",
+            "HTTPS": true,
+            "Link": "https://apileap.com/"
         },
         {
             "API": "APIs.guru",
@@ -2282,6 +2290,14 @@
             "Link": "https://www.data.govt.nz/"
         },
         {
+            "API": "Open Government, Taiwan",
+            "Auth": null,
+            "Category": "Open Data",
+            "Description": "Taiwan Government Open Data",
+            "HTTPS": true,
+            "Link": "https://data.gov.tw/"
+        },
+        {
             "API": "Open Government, USA",
             "Auth": null,
             "Category": "Open Data",
@@ -2520,6 +2536,14 @@
             "Description": "Get all your gifs",
             "HTTPS": true,
             "Link": "https://github.com/Giphy/GiphyAPI"
+        },
+        {
+            "API": "Gyazo",
+            "Auth": "apiKey",
+            "Category": "Photography",
+            "Description": "Upload images",
+            "HTTPS": true,
+            "Link": "https://gyazo.com/api/docs"
         },
         {
             "API": "Imgur",

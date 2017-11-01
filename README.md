@@ -177,6 +177,7 @@ API | Description | Auth | HTTPS | Link |
 ### Development
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| ApiLeap | Make screenshots from web pages and HTML | `apiKey` | Yes | [Go!](https://apileap.com/) |
 | APIs.guru | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | [Go!](https://apis.guru/api-doc/) |
 | BetterMeta | Return a site's meta tags in JSON format | X-Mashape-Key | Yes | [Go!](http://bettermeta.io) |
 | Bitbucket | Pull public information for a Bitbucket account | No | Yes | [Go!](https://api.bitbucket.org/2.0/users/karllhughes) |
@@ -464,6 +465,7 @@ API | Description | Auth | HTTPS | Link |
 | Open Government, France | French Government Open Data | `apiKey` | Yes | [Go!](https://www.data.gouv.fr/) |
 | Open Government, India | Indian Government Open Data | `apiKey` | Yes | [Go!](https://data.gov.in/) |
 | Open Government, New Zealand | New Zealand Government Open Data | No | Yes | [Go!](https://www.data.govt.nz/) |
+| Open Government, Taiwan | Taiwan Government Open Data | No | Yes | [Go!](https://data.gov.tw/) |
 | Open Government, USA | United States Government Open Data | No | Yes | [Go!](https://www.data.gov/) |
 | Outpan | A Database of Everything | `apiKey` | Yes | [Go!](https://outpan.mixnode.com/developers) |
 | Prague Opendata | Prague City Open Data | No | No | [Go!](http://opendata.praha.eu/en) |
@@ -510,6 +512,7 @@ API | Description | Auth | HTTPS | Link |
 | Getty Images | Build applications using the world's most powerful imagery | `OAuth` | Yes | [Go!](http://developers.gettyimages.com/api/docs/) |
 | Gfycat | Jiffier GIFs | `OAuth` | Yes | [Go!](https://developers.gfycat.com/api/) |
 | Giphy | Get all your gifs | No | Yes | [Go!](https://github.com/Giphy/GiphyAPI) |
+| Gyazo | Upload images | `apiKey` | Yes | [Go!](https://gyazo.com/api/docs) |
 | Imgur | Images | `OAuth` | Yes | [Go!](https://apidocs.imgur.com/) |
 | Pixabay | Photography | `apiKey` | Yes | [Go!](https://pixabay.com/sk/service/about/api/) |
 | Pixhost | Upload images, photos, galleries | No | Yes | [Go!](https://pixhost.org/api/index.html) |
