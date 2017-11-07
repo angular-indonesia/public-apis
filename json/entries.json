@@ -1,5 +1,5 @@
 {
-    "count": 472,
+    "count": 474,
     "entries": [
         {
             "API": "Dogs",
@@ -1666,6 +1666,14 @@
             "Link": "https://api.open.fec.gov/developers/"
         },
         {
+            "API": "Food Standards Agency",
+            "Auth": null,
+            "Category": "Government",
+            "Description": "UK food hygiene rating data API",
+            "HTTPS": false,
+            "Link": "http://ratings.food.gov.uk/open-data/en-GB"
+        },
+        {
             "API": "Regulations.gov",
             "Auth": "apiKey",
             "Category": "Government",
@@ -2720,6 +2728,14 @@
             "Description": "UK Police data",
             "HTTPS": true,
             "Link": "https://data.police.uk/docs/"
+        },
+        {
+            "API": "Best Buy",
+            "Auth": "apiKey",
+            "Category": "Shopping",
+            "Description": "Products, Buying Options, Categories, Recommendations, Stores, and Commerce",
+            "HTTPS": true,
+            "Link": "https://bestbuyapis.github.io/api-documentation/#overview"
         },
         {
             "API": "eBay",
