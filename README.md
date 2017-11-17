@@ -124,6 +124,7 @@ API | Description | Auth | HTTPS | Link |
 | Church Calendar | Catholic liturgical calendar | No | No | [Go!](http://calapi.inadiutorium.cz/) |
 | Czech Namedays Calendar | Lookup for a name and returns nameday date | No | No | [Go!](http://svatky.adresa.info/) |
 | Google Calendar | Display, create and modify Google calendar events | `OAuth` | Yes | [Go!](https://developers.google.com/google-apps/calendar/) |
+| Hebrew Calendar | Convert between Gregarian and Hebrew, fetch Shabbat and Holiday times, etc | No | No | [Go!](https://www.hebcal.com/home/developer-apis) |
 | Holidays | Historical data regarding holidays | `apiKey` | Yes | [Go!](https://holidayapi.com/) |
 | LectServe | Protestant liturgical calendar | No | No | [Go!](http://www.lectserve.com) |
 | Non-Working Days | Database of ICS files for non working days | No | Yes | [Go!](https://github.com/gadael/icsdb) |
@@ -170,6 +171,7 @@ API | Description | Auth | HTTPS | Link |
 | Lob.com | US Address Verification | `apiKey` | Yes | [Go!](https://lob.com/) |
 | mailboxlayer | Email address validation | No | Yes | [Go!](https://mailboxlayer.com) |
 | MailTest | Email address validation | No | Yes | [Go!](http://mailtest.in/documentation/) |
+| NumValidate | Open Source phone number validation | No | Yes | [Go!](https://numvalidate.com) |
 | numverify | Phone number validation | No | Yes | [Go!](https://numverify.com) |
 | PurgoMalum | Content validator against profanity & obscenity | No | No | [Go!](http://www.purgomalum.com) |
 | vatlayer | VAT number validation | No | Yes | [Go!](https://vatlayer.com) |
@@ -189,11 +191,12 @@ API | Description | Auth | HTTPS | Link |
 | DomainDb Info | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | [Go!](https://domainsdb.info/apidomainsdb/index.php) |
 | Faceplusplus | A tool to detect face | `OAuth` | Yes | [Go!](https://www.faceplusplus.com/) |
 | Genderize.io | Determines a gender from a first name | No | Yes | [Go!](https://genderize.io) |
-| Github - User Data | Pull public information for a user's github | No | Yes | [Go!](https://api.github.com/users/hackeryou) |
+| Github | Information for a user's Github profile | No | Yes | [Go!](https://developer.github.com/v3/) |
 | Gitter | Chat for GitHub | `OAuth` | Yes | [Go!](https://github.com/gitterHQ/docs) |
 | HackerRank | Compile source code and run against a set of provided test cases | `apiKey` | Yes | [Go!](https://www.hackerrank.com/api/docs) |
 | import.io | Retrieve structured data from a website or RSS feed | `apiKey` | Yes | [Go!](http://api.docs.import.io/) |
 | IPify | A simple IP Address API | No | Yes | [Go!](https://www.ipify.org/) |
+| IPinfo | Another simple IP Address API | No | Yes | [Go!](https://ipinfo.io/developers) |
 | JSON 2 JSONP | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript | No | Yes | [Go!](https://json2jsonp.com/) |
 | JSONbin.io | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps | `apiKey` | Yes | [Go!](https://jsonbin.io) |
 | Judge0 API | Compile and run source code | No | Yes | [Go!](https://api.judge0.com/) |
@@ -272,7 +275,7 @@ API | Description | Auth | HTTPS | Link |
 | TheCocktailDB | Cocktail Recipes | `apiKey` | No | [Go!](http://www.thecocktaildb.com/) |
 | TheMealDB | Meal Recipes | `apiKey` | No | [Go!](http://www.themealdb.com/) |
 | What's on the menu? | NYPL human-transcribed historical menu collection | `apiKey` | No | [Go!](nypl.github.io/menus-api/) |
-| Yummly | Find food recipes | No | Yes | [Go!](https://developer.yummly.com/) |
+| Yummly | Find food recipes | `apiKey` | Yes | [Go!](https://developer.yummly.com/) |
 | Zomato | Discover restaurants | `apiKey` | Yes | [Go!](https://developers.zomato.com/api) |
 
 
@@ -339,7 +342,7 @@ API | Description | Auth | HTTPS | Link |
 | Mapbox | Create/customize beautiful digital maps | `apiKey` | Yes | [Go!](https://www.mapbox.com/developers/) |
 | Mapzen Search | Open Source & Open Data Global Geocoding Service | `apiKey` | Yes | [Go!](https://mapzen.com/products/search/) |
 | Mexico | Mexico RESTful zip codes API | No | Yes | [Go!](https://github.com/IcaliaLabs/sepomex) |
-| One Map 2.0, Singapore | Singapore Land Authority REST API services for Singapore addresses | `apiKey` | Yes | [Go!](https://docs.onemap.sg/) |
+| One Map, Singapore | Singapore Land Authority REST API services for Singapore addresses | `apiKey` | Yes | [Go!](https://docs.onemap.sg/) |
 | OnWater | Determine if a lat/lon is on water or land | No | Yes | [Go!](https://onwater.io/) |
 | OpenCage | Forward and reverse geocoding using open data | No | Yes | [Go!](https://geocoder.opencagedata.com) |
 | OpenStreetMap | Navigation, geolocation and geographical data | `OAuth` | No | [Go!](http://wiki.openstreetmap.org/wiki/API) |
@@ -513,7 +516,7 @@ API | Description | Auth | HTTPS | Link |
 | Flickr | Flickr Services | `OAuth` | Yes | [Go!](https://www.flickr.com/services/api/) |
 | Getty Images | Build applications using the world's most powerful imagery | `OAuth` | Yes | [Go!](http://developers.gettyimages.com/api/docs/) |
 | Gfycat | Jiffier GIFs | `OAuth` | Yes | [Go!](https://developers.gfycat.com/api/) |
-| Giphy | Get all your gifs | No | Yes | [Go!](https://github.com/Giphy/GiphyAPI) |
+| Giphy | Get all your gifs | `apiKey` | Yes | [Go!](https://developers.giphy.com/docs/) |
 | Gyazo | Upload images | `apiKey` | Yes | [Go!](https://gyazo.com/api/docs) |
 | Imgur | Images | `OAuth` | Yes | [Go!](https://apidocs.imgur.com/) |
 | Pixabay | Photography | `apiKey` | Yes | [Go!](https://pixabay.com/sk/service/about/api/) |
@@ -712,6 +715,7 @@ API | Description | Auth | HTTPS | Link |
 | TMDb | Community-based movie data | `apiKey` | Yes | [Go!](https://www.themoviedb.org/documentation/api) |
 | TVDB | Television data | `apiKey` | Yes | [Go!](https://api.thetvdb.com/swagger) |
 | TVMaze | TV Show Data | No | No | [Go!](http://www.tvmaze.com/api) |
+| Utelly | Check where a tv show or movie is available | `X-Mashape-Key` | Yes | [Go!](https://market.mashape.com/utelly/utelly) |
 | Vimeo | Vimeo Developer API | `OAuth` | Yes | [Go!](https://developer.vimeo.com/) |
 | YouTube | Add YouTube functionality to your sites and apps | `OAuth` | Yes | [Go!](https://developers.google.com/youtube/) |
 

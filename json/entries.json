@@ -1,5 +1,5 @@
 {
-    "count": 474,
+    "count": 478,
     "entries": [
         {
             "API": "Dogs",
@@ -306,6 +306,14 @@
             "Link": "https://developers.google.com/google-apps/calendar/"
         },
         {
+            "API": "Hebrew Calendar",
+            "Auth": null,
+            "Category": "Calendar",
+            "Description": "Convert between Gregarian and Hebrew, fetch Shabbat and Holiday times, etc",
+            "HTTPS": false,
+            "Link": "https://www.hebcal.com/home/developer-apis"
+        },
+        {
             "API": "Holidays",
             "Auth": "apiKey",
             "Category": "Calendar",
@@ -514,6 +522,14 @@
             "Link": "http://mailtest.in/documentation/"
         },
         {
+            "API": "NumValidate",
+            "Auth": null,
+            "Category": "Data Validation",
+            "Description": "Open Source phone number validation",
+            "HTTPS": true,
+            "Link": "https://numvalidate.com"
+        },
+        {
             "API": "numverify",
             "Auth": null,
             "Category": "Data Validation",
@@ -634,12 +650,12 @@
             "Link": "https://genderize.io"
         },
         {
-            "API": "Github - User Data",
+            "API": "Github",
             "Auth": null,
             "Category": "Development",
-            "Description": "Pull public information for a user's github",
+            "Description": "Information for a user's Github profile",
             "HTTPS": true,
-            "Link": "https://api.github.com/users/hackeryou"
+            "Link": "https://developer.github.com/v3/"
         },
         {
             "API": "Gitter",
@@ -672,6 +688,14 @@
             "Description": "A simple IP Address API",
             "HTTPS": true,
             "Link": "https://www.ipify.org/"
+        },
+        {
+            "API": "IPinfo",
+            "Auth": null,
+            "Category": "Development",
+            "Description": "Another simple IP Address API",
+            "HTTPS": true,
+            "Link": "https://ipinfo.io/developers"
         },
         {
             "API": "JSON 2 JSONP",
@@ -1107,7 +1131,7 @@
         },
         {
             "API": "Yummly",
-            "Auth": null,
+            "Auth": "apiKey",
             "Category": "Food & Drink",
             "Description": "Find food recipes",
             "HTTPS": true,
@@ -1538,7 +1562,7 @@
             "Link": "https://github.com/IcaliaLabs/sepomex"
         },
         {
-            "API": "One Map 2.0, Singapore",
+            "API": "One Map, Singapore",
             "Auth": "apiKey",
             "Category": "Geocoding",
             "Description": "Singapore Land Authority REST API services for Singapore addresses",
@@ -2547,11 +2571,11 @@
         },
         {
             "API": "Giphy",
-            "Auth": null,
+            "Auth": "apiKey",
             "Category": "Photography",
             "Description": "Get all your gifs",
             "HTTPS": true,
-            "Link": "https://github.com/Giphy/GiphyAPI"
+            "Link": "https://developers.giphy.com/docs/"
         },
         {
             "API": "Gyazo",
@@ -3720,6 +3744,14 @@
             "Description": "TV Show Data",
             "HTTPS": false,
             "Link": "http://www.tvmaze.com/api"
+        },
+        {
+            "API": "Utelly",
+            "Auth": "X-Mashape-Key",
+            "Category": "Video",
+            "Description": "Check where a tv show or movie is available",
+            "HTTPS": true,
+            "Link": "https://market.mashape.com/utelly/utelly"
         },
         {
             "API": "Vimeo",
