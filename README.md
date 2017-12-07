@@ -63,6 +63,7 @@ Please note a passing build status indicates all listed APIs are available since
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Dogs | Based on the Stanford Dogs Dataset | No | Yes | [Go!](https://dog.ceo/dog-api/) |
+| HTTPCat | Cat for every HTTP Status | No | Yes | [Go!](https://http.cat/) |
 | IUCN | IUCN Red List of Threatened Species | `apiKey` | No | [Go!](http://apiv3.iucnredlist.org/api/v3/docs) |
 | Movebank | Movement and Migration data of animals | No | Yes | [Go!](https://github.com/movebank/movebank-api-doc) |
 | Petfinder | Adoption | `apiKey` | Yes | [Go!](https://www.petfinder.com/developers/api-docs/) |
@@ -308,6 +309,7 @@ API | Description | Auth | HTTPS | Link |
 | Guild Wars 2 | Guild Wars 2 Game Information | `apiKey` | Yes | [Go!](https://wiki.guildwars2.com/wiki/API:Main) |
 | Halo | Halo 5 and Halo Wars 2 Information | `apiKey` | Yes | [Go!](https://developer.haloapi.com/) |
 | Hearthstone | Hearthstone Cards Information | `X-Mashape-Key` | Yes | [Go!](http://hearthstoneapi.com/) |
+| IGDB.com | Video Game Database | `apiKey` | Yes | [Go!](https://api.igdb.com/) |
 | Jokes | Programming and general jokes | No | Yes | [Go!](https://github.com/15Dkatz/official_joke_api) |
 | Jservice | Jeopardy Question Database | No | No | [Go!](http://jservice.io) |
 | Magic The Gathering | Magic The Gathering Game Information | No | No | [Go!](http://magicthegathering.io/) |

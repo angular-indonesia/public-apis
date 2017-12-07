@@ -1,5 +1,5 @@
 {
-    "count": 481,
+    "count": 483,
     "entries": [
         {
             "API": "Dogs",
@@ -8,6 +8,14 @@
             "Description": "Based on the Stanford Dogs Dataset",
             "HTTPS": true,
             "Link": "https://dog.ceo/dog-api/"
+        },
+        {
+            "API": "HTTPCat",
+            "Auth": null,
+            "Category": "Animals",
+            "Description": "Cat for every HTTP Status",
+            "HTTPS": true,
+            "Link": "https://http.cat/"
         },
         {
             "API": "IUCN",
@@ -1320,6 +1328,14 @@
             "Description": "Hearthstone Cards Information",
             "HTTPS": true,
             "Link": "http://hearthstoneapi.com/"
+        },
+        {
+            "API": "IGDB.com",
+            "Auth": "apiKey",
+            "Category": "Games & Comics",
+            "Description": "Video Game Database",
+            "HTTPS": true,
+            "Link": "https://api.igdb.com/"
         },
         {
             "API": "Jokes",
