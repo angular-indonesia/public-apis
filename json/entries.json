@@ -1,5 +1,5 @@
 {
-    "count": 483,
+    "count": 485,
     "entries": [
         {
             "API": "Dogs",
@@ -410,6 +410,14 @@
             "Link": "https://docs.travis-ci.com/api/"
         },
         {
+            "API": "Block",
+            "Auth": "apiKey",
+            "Category": "Cryptocurrency",
+            "Description": "Bitcoin Payment, Wallet & Transaction Data",
+            "HTTPS": true,
+            "Link": "https://www.block.io/docs/basic"
+        },
+        {
             "API": "Blockchain",
             "Auth": null,
             "Category": "Cryptocurrency",
@@ -448,6 +456,14 @@
             "Description": "Cryptocurrencies Comparison",
             "HTTPS": true,
             "Link": "https://www.cryptocompare.com/api#"
+        },
+        {
+            "API": "Cryptonator",
+            "Auth": null,
+            "Category": "Cryptocurrency",
+            "Description": "Cryptocurrencies Exchange Rates",
+            "HTTPS": true,
+            "Link": "https://www.cryptonator.com/api/"
         },
         {
             "API": "MercadoBitcoin",
