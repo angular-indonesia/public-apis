@@ -102,6 +102,7 @@ API | Description | Auth | HTTPS | Link |
 ### Books
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| BookNomads | Books published in the Netherlands and Flanders (about 2.5 million), book covers, and related data | No | Yes | [Go!](https://www.booknomads.com/dev) |
 | British National Bibliography | Books | No | No | [Go!](http://bnb.data.bl.uk/) |
 | Goodreads | Books | `apiKey` | Yes | [Go!](https://www.goodreads.com/api) |
 | Google Books | Books | `OAuth` | Yes | [Go!](https://developers.google.com/books/) |
@@ -149,6 +150,7 @@ API | Description | Auth | HTTPS | Link |
 ### Cryptocurrency
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| Bitfinex | Cryptocurrency Trading Platform | `apiKey` | Yes | [Go!](https://docs.bitfinex.com/docs/introduction) |
 | Block | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Yes | [Go!](https://www.block.io/docs/basic) |
 | Blockchain | Bitcoin Payment, Wallet & Transaction Data | No | Yes | [Go!](https://www.blockchain.info/api) |
 | Coinbase | Bitcoin, Litecoin and Ethereum Prices | `apiKey` | Yes | [Go!](https://developers.coinbase.com) |

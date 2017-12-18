@@ -1,5 +1,5 @@
 {
-    "count": 484,
+    "count": 486,
     "entries": [
         {
             "API": "Dogs",
@@ -192,6 +192,14 @@
             "Description": "Art",
             "HTTPS": true,
             "Link": "https://www.rijksmuseum.nl/en/api"
+        },
+        {
+            "API": "BookNomads",
+            "Auth": null,
+            "Category": "Books",
+            "Description": "Books published in the Netherlands and Flanders (about 25 million), book covers, and related data",
+            "HTTPS": true,
+            "Link": "https://www.booknomads.com/dev"
         },
         {
             "API": "British National Bibliography",
@@ -408,6 +416,14 @@
             "Description": "Sync your GitHub projects with Travis CI to test your code in minutes",
             "HTTPS": true,
             "Link": "https://docs.travis-ci.com/api/"
+        },
+        {
+            "API": "Bitfinex",
+            "Auth": "apiKey",
+            "Category": "Cryptocurrency",
+            "Description": "Cryptocurrency Trading Platform",
+            "HTTPS": true,
+            "Link": "https://docs.bitfinex.com/docs/introduction"
         },
         {
             "API": "Block",
