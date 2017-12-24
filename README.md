@@ -124,6 +124,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Church Calendar | Catholic liturgical calendar | No | No | [Go!](http://calapi.inadiutorium.cz/) |
+| Czech and Slovak Namedays Calendar | Lookup for a date and returns nameday | No | Yes | [Go!](https://api.abalin.net/) |
 | Czech Namedays Calendar | Lookup for a name and returns nameday date | No | No | [Go!](http://svatky.adresa.info/) |
 | Google Calendar | Display, create and modify Google calendar events | `OAuth` | Yes | [Go!](https://developers.google.com/google-apps/calendar/) |
 | Hebrew Calendar | Convert between Gregarian and Hebrew, fetch Shabbat and Holiday times, etc | No | No | [Go!](https://www.hebcal.com/home/developer-apis) |
@@ -154,6 +155,7 @@ API | Description | Auth | HTTPS | Link |
 | Block | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Yes | [Go!](https://www.block.io/docs/basic) |
 | Blockchain | Bitcoin Payment, Wallet & Transaction Data | No | Yes | [Go!](https://www.blockchain.info/api) |
 | Coinbase | Bitcoin, Litecoin and Ethereum Prices | `apiKey` | Yes | [Go!](https://developers.coinbase.com) |
+| CoinBin | Cryptocurrency information | No | Yes | [Go!](https://coinbin.org/) |
 | CoinDesk | Bitcoin Price Index | No | No | [Go!](http://www.coindesk.com/api/) |
 | CoinMarketCap | Cryptocurrencies Prices | No | Yes | [Go!](https://coinmarketcap.com/api/) |
 | CryptoCompare | Cryptocurrencies Comparison | No | Yes | [Go!](https://www.cryptocompare.com/api#) |
@@ -281,7 +283,7 @@ API | Description | Auth | HTTPS | Link |
 | The Report of the Week | Food & Drink Reviews | No | Yes | [Go!](https://github.com/andyklimczak/TheReportOfTheWeek-API) |
 | TheCocktailDB | Cocktail Recipes | `apiKey` | No | [Go!](http://www.thecocktaildb.com/) |
 | TheMealDB | Meal Recipes | `apiKey` | No | [Go!](http://www.themealdb.com/) |
-| What's on the menu? | NYPL human-transcribed historical menu collection | `apiKey` | No | [Go!](nypl.github.io/menus-api/) |
+| What's on the menu? | NYPL human-transcribed historical menu collection | `apiKey` | No | [Go!](http://nypl.github.io/menus-api/) |
 | Yummly | Find food recipes | `apiKey` | Yes | [Go!](https://developer.yummly.com/) |
 | Zomato | Discover restaurants | `apiKey` | Yes | [Go!](https://developers.zomato.com/api) |
 
@@ -481,7 +483,6 @@ API | Description | Auth | HTTPS | Link |
 | Open Government, New Zealand | New Zealand Government Open Data | No | Yes | [Go!](https://www.data.govt.nz/) |
 | Open Government, Taiwan | Taiwan Government Open Data | No | Yes | [Go!](https://data.gov.tw/) |
 | Open Government, USA | United States Government Open Data | No | Yes | [Go!](https://www.data.gov/) |
-| Outpan | A Database of Everything | `apiKey` | Yes | [Go!](https://outpan.mixnode.com/developers) |
 | Prague Opendata | Prague City Open Data | No | No | [Go!](http://opendata.praha.eu/en) |
 | Quandl | Stock Market Data | No | Yes | [Go!](https://www.quandl.com/) |
 | Represent by Open North | Find Canadian Government Representatives | No | Yes | [Go!](https://represent.opennorth.ca/) |
@@ -523,7 +524,7 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | 500px | Photography Community | `OAuth` | Yes | [Go!](https://github.com/500px/api-documentation) |
 | Flickr | Flickr Services | `OAuth` | Yes | [Go!](https://www.flickr.com/services/api/) |
-| Getty Images | Build applications using the world's most powerful imagery | `OAuth` | Yes | [Go!](http://developers.gettyimages.com/api/docs/) |
+| Getty Images | Build applications using the world's most powerful imagery | `OAuth` | Yes | [Go!](http://developers.gettyimages.com/en/) |
 | Gfycat | Jiffier GIFs | `OAuth` | Yes | [Go!](https://developers.gfycat.com/api/) |
 | Giphy | Get all your gifs | `apiKey` | Yes | [Go!](https://developers.giphy.com/docs/) |
 | Gyazo | Upload images | `apiKey` | Yes | [Go!](https://gyazo.com/api/docs) |
@@ -540,7 +541,7 @@ API | Description | Auth | HTTPS | Link |
 | arcsecond.io | Multiple astronomy data sources | No | Yes | [Go!](https://api.arcsecond.io/) |
 | CORE | Access the world's Open Access research papers | `apiKey` | Yes | [Go!](https://core.ac.uk/services#api) |
 | inspirehep.net | High Energy Physics info. system | No | Yes | [Go!](https://inspirehep.net/info/hep/api?ln=en) |
-| Launch Library | Upcoming Space Launches | No | Yes | [Go!](https://launchlibrary.net/1.2/docs/api.html) |
+| Launch Library | Upcoming Space Launches | No | Yes | [Go!](https://launchlibrary.net/docs/1.3/api.html) |
 | Minor Planet Center | Asterank.com Information | No | No | [Go!](http://www.asterank.com/mpc) |
 | NASA | NASA data, including imagery | No | Yes | [Go!](https://api.nasa.gov) |
 | Open Notify | ISS astronauts, current location, etc | No | No | [Go!](http://open-notify.org/Open-Notify-API/) |
@@ -677,7 +678,6 @@ API | Description | Auth | HTTPS | Link |
 | Transport for Paris, France | RATP Open Data API | No | No | [Go!](http://data.ratp.fr/api/v1/console/datasets/1.0/search/) |
 | Transport for Paris, France | Live schedules made simple | No | No | [Go!](http://restratpws.azurewebsites.net/swagger/) |
 | Transport for Philadelphia, US | SEPTA APIs | No | No | [Go!](http://www3.septa.org/hackathon/) |
-| Transport for Rio de Janeiro, Brazil | Prefeitura do Rio (City Hall) | No | No | [Go!](http://data.rio/group/transporte-e-mobilidade) |
 | Transport for Sao Paulo, Brazil | SPTrans | `OAuth` | No | [Go!](http://www.sptrans.com.br/desenvolvedores/APIOlhoVivo/Documentacao.aspx) |
 | Transport for Sweden | Public Transport consumer | `OAuth` | Yes | [Go!](https://www.trafiklab.se/api) |
 | Transport for Switzerland | Swiss public transport API | No | Yes | [Go!](https://transport.opendata.ch/) |

@@ -306,6 +306,14 @@
             "Link": "http://calapi.inadiutorium.cz/"
         },
         {
+            "API": "Czech and Slovak Namedays Calendar",
+            "Auth": null,
+            "Category": "Calendar",
+            "Description": "Lookup for a date and returns nameday",
+            "HTTPS": true,
+            "Link": "https://api.abalin.net/"
+        },
+        {
             "API": "Czech Namedays Calendar",
             "Auth": null,
             "Category": "Calendar",
@@ -448,6 +456,14 @@
             "Description": "Bitcoin, Litecoin and Ethereum Prices",
             "HTTPS": true,
             "Link": "https://developers.coinbase.com"
+        },
+        {
+            "API": "CoinBin",
+            "Auth": null,
+            "Category": "Cryptocurrency",
+            "Description": "Cryptocurrency information",
+            "HTTPS": true,
+            "Link": "https://coinbin.org/"
         },
         {
             "API": "CoinDesk",
@@ -1183,7 +1199,7 @@
             "Category": "Food & Drink",
             "Description": "NYPL human-transcribed historical menu collection",
             "HTTPS": false,
-            "Link": "nypl.github.io/menus-api/"
+            "Link": "http://nypl.github.io/menus-api/"
         },
         {
             "API": "Yummly",
@@ -2418,14 +2434,6 @@
             "Link": "https://www.data.gov/"
         },
         {
-            "API": "Outpan",
-            "Auth": "apiKey",
-            "Category": "Open Data",
-            "Description": "A Database of Everything",
-            "HTTPS": true,
-            "Link": "https://outpan.mixnode.com/developers"
-        },
-        {
             "API": "Prague Opendata",
             "Auth": null,
             "Category": "Open Data",
@@ -2631,7 +2639,7 @@
             "Category": "Photography",
             "Description": "Build applications using the world's most powerful imagery",
             "HTTPS": true,
-            "Link": "http://developers.gettyimages.com/api/docs/"
+            "Link": "http://developers.gettyimages.com/en/"
         },
         {
             "API": "Gfycat",
@@ -2735,7 +2743,7 @@
             "Category": "Science",
             "Description": "Upcoming Space Launches",
             "HTTPS": true,
-            "Link": "https://launchlibrary.net/1.2/docs/api.html"
+            "Link": "https://launchlibrary.net/docs/1.3/api.html"
         },
         {
             "API": "Minor Planet Center",
@@ -3568,14 +3576,6 @@
             "Description": "SEPTA APIs",
             "HTTPS": false,
             "Link": "http://www3.septa.org/hackathon/"
-        },
-        {
-            "API": "Transport for Rio de Janeiro, Brazil",
-            "Auth": null,
-            "Category": "Transportation",
-            "Description": "Prefeitura do Rio (City Hall)",
-            "HTTPS": false,
-            "Link": "http://data.rio/group/transporte-e-mobilidade"
         },
         {
             "API": "Transport for Sao Paulo, Brazil",
