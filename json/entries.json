@@ -1,5 +1,5 @@
 {
-    "count": 490,
+    "count": 495,
     "entries": [
         {
             "API": "Dogs",
@@ -503,6 +503,14 @@
             "Auth": null,
             "HTTPS": true,
             "Link": "https://www.cryptonator.com/api/",
+            "Category": "Cryptocurrency"
+        },
+        {
+            "API": "GDAX",
+            "Description": "Cryptocurrency Trading Platform",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Link": "https://docs.gdax.com/#api",
             "Category": "Cryptocurrency"
         },
         {
@@ -1453,8 +1461,8 @@
             "API": "Pok\u00e9api",
             "Description": "Pok\u00e9mon Information",
             "Auth": null,
-            "HTTPS": false,
-            "Link": "http://pokeapi.co",
+            "HTTPS": true,
+            "Link": "https://pokeapi.co",
             "Category": "Games & Comics"
         },
         {
@@ -1567,6 +1575,14 @@
             "Auth": null,
             "HTTPS": false,
             "Link": "http://www.geonames.org/export/web-services.html",
+            "Category": "Geocoding"
+        },
+        {
+            "API": "Google Earth Engine",
+            "Description": "A cloud-based platform for planetary-scale environmental data analysis",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Link": "https://developers.google.com/earth-engine/",
             "Category": "Geocoding"
         },
         {
@@ -2794,6 +2810,14 @@
             "Category": "Science"
         },
         {
+            "API": "SHARE",
+            "Description": "A free, open, dataset about research and scholarly activities",
+            "Auth": null,
+            "HTTPS": true,
+            "Link": "https://share.osf.io/api/v2/",
+            "Category": "Science"
+        },
+        {
             "API": "SpaceX",
             "Description": "Company, vehicle, launchpad and launch data",
             "Auth": null,
@@ -2903,6 +2927,14 @@
             "Auth": "OAuth",
             "HTTPS": true,
             "Link": "https://discordapp.com/developers/docs/intro",
+            "Category": "Social"
+        },
+        {
+            "API": "Disqus",
+            "Description": "Communicate with Disqus data",
+            "Auth": "OAuth",
+            "HTTPS": true,
+            "Link": "https://disqus.com/api/docs/auth/",
             "Category": "Social"
         },
         {
@@ -3343,6 +3375,14 @@
             "Auth": null,
             "HTTPS": true,
             "Link": "https://www.adsbexchange.com/data/",
+            "Category": "Transportation"
+        },
+        {
+            "API": "AIS Hub",
+            "Description": "Real-time data of any marine and inland vessel equipped with AIS tracking system",
+            "Auth": "apiKey",
+            "HTTPS": false,
+            "Link": "http://www.aishub.net/api",
             "Category": "Transportation"
         },
         {

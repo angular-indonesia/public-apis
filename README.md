@@ -161,6 +161,7 @@ API | Description | Auth | HTTPS | Link |
 | CoinMarketCap | Cryptocurrencies Prices | No | Yes | [Go!](https://coinmarketcap.com/api/) |
 | CryptoCompare | Cryptocurrencies Comparison | No | Yes | [Go!](https://www.cryptocompare.com/api#) |
 | Cryptonator | Cryptocurrencies Exchange Rates | No | Yes | [Go!](https://www.cryptonator.com/api/) |
+| GDAX | Cryptocurrency Trading Platform | `apiKey` | Yes | [Go!](https://docs.gdax.com/#api) |
 | MercadoBitcoin | Brazilian Cryptocurrency Information | No | Yes | [Go!](https://www.mercadobitcoin.net/api-doc/) |
 
 ### Currency Exchange
@@ -324,7 +325,7 @@ API | Description | Auth | HTTPS | Link |
 | Open Trivia | Trivia Questions | No | Yes | [Go!](https://opentdb.com/api_config.php) |
 | PandaScore | E-sports games and results | `apiKey` | Yes | [Go!](https://api.pandascore.co) |
 | PlayerUnknown's Battlegrounds | PUBG Stats | `apiKey` | Yes | [Go!](https://pubgtracker.com/site-api) |
-| Pokéapi | Pokémon Information | No | No | [Go!](http://pokeapi.co) |
+| Pokéapi | Pokémon Information | No | Yes | [Go!](https://pokeapi.co) |
 | Qriusity | Quiz/Trivia Questions | No | Yes | [Go!](https://qriusity.com/) |
 | Riot Games | League of Legends Game Information | `apiKey` | Yes | [Go!](https://developer.riotgames.com/) |
 | Steam | Steam Client Interaction | `OAuth` | Yes | [Go!](https://developer.valvesoftware.com/wiki/Steam_Web_API) |
@@ -343,6 +344,7 @@ API | Description | Auth | HTTPS | Link |
 | GeoApi | French geographical data | No | Yes | [Go!](https://api.gouv.fr/api/geoapi.html) |
 | Geocode.xyz | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | [Go!](https://geocode.xyz/) |
 | GeoNames | Place names and other geographical data | No | No | [Go!](http://www.geonames.org/export/web-services.html) |
+| Google Earth Engine | A cloud-based platform for planetary-scale environmental data analysis | `apiKey` | Yes | [Go!](https://developers.google.com/earth-engine/) |
 | Google Maps | Create/customize digital maps based on Google Maps data | `apiKey` | Yes | [Go!](https://developers.google.com/maps/) |
 | GraphLoc | Free GraphQL IP Geolocation API | No | Yes | [Go!](https://www.graphloc.com) |
 | IP 2 Country | Map an IP to a country | No | Yes | [Go!](https://ip2country.info) |
@@ -548,6 +550,7 @@ API | Description | Auth | HTTPS | Link |
 | NASA | NASA data, including imagery | No | Yes | [Go!](https://api.nasa.gov) |
 | Open Notify | ISS astronauts, current location, etc | No | No | [Go!](http://open-notify.org/Open-Notify-API/) |
 | Open Science Framework | Repository and archive for study designs, research materials, data, manuscripts, etc | No | Yes | [Go!](https://developer.osf.io) |
+| SHARE | A free, open, dataset about research and scholarly activities | No | Yes | [Go!](https://share.osf.io/api/v2/) |
 | SpaceX | Company, vehicle, launchpad and launch data | No | Yes | [Go!](https://github.com/r-spacex/SpaceX-API) |
 | Sunrise and Sunset | Sunset and sunrise times for a given latitude and longitude | No | Yes | [Go!](https://sunrise-sunset.org/api) |
 | USGS Earthquake Hazards Program | Earthquakes data real-time | No | Yes | [Go!](https://earthquake.usgs.gov/fdsnws/event/1/) |
@@ -574,6 +577,7 @@ API | Description | Auth | HTTPS | Link |
 | Buffer | Access to pending and sent updates in Buffer | `OAuth` | Yes | [Go!](https://buffer.com/developers/api) |
 | Cisco Spark | Team Collaboration Software | `OAuth` | Yes | [Go!](https://developer.ciscospark.com) |
 | Discord | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Yes | [Go!](https://discordapp.com/developers/docs/intro) |
+| Disqus | Communicate with Disqus data | `OAuth` | Yes | [Go!](https://disqus.com/api/docs/auth/) |
 | DonReach Social Count | Get the social share count of a URL from every major social network | No | Yes | [Go!](https://donreach.com/social-share-count/) |
 | Facebook | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Yes | [Go!](https://developers.facebook.com/) |
 | Foursquare | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth` | Yes | [Go!](https://developer.foursquare.com/) |
@@ -649,6 +653,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | ADS-B Exchange | Access real-time and historical data of any and all airbone aircraft | No | Yes | [Go!](https://www.adsbexchange.com/data/) |
+| AIS Hub | Real-time data of any marine and inland vessel equipped with AIS tracking system | `apiKey` | No | [Go!](http://www.aishub.net/api) |
 | Amadeus Travel Innovation Sandbox | Travel Search - Limited usage | `apiKey` | Yes | [Go!](https://sandbox.amadeus.com/) |
 | Bay Area Rapid Transit | Stations and predicted arrivals for BART | `apiKey` | No | [Go!](http://api.bart.gov) |
 | Community Transit | Transitland API | No | Yes | [Go!](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints) |
