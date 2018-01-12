@@ -3274,6 +3274,14 @@
             "Category": "Test Data"
         },
         {
+            "API": "LoremPicsum",
+            "Description": "Generate placeholder pictures",
+            "Auth": null,
+            "HTTPS": false,
+            "Link": "http://lorempicsum.com",
+            "Category": "Test Data"
+        },
+        {
             "API": "Loripsum",
             "Description": "The \"lorem ipsum\" generator that doesn't suck",
             "Auth": null,
@@ -3791,14 +3799,6 @@
             "Auth": null,
             "HTTPS": true,
             "Link": "https://deividfortuna.github.io/fipe/",
-            "Category": "Vehicle"
-        },
-        {
-            "API": "Edmunds",
-            "Description": "Lot of vehicles information",
-            "Auth": "apiKey",
-            "HTTPS": false,
-            "Link": "http://developer.edmunds.com/api-documentation/overview/",
             "Category": "Vehicle"
         },
         {
