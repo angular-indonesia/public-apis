@@ -239,7 +239,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Pocket | Bookmarking service | `OAuth` | Yes | Unknown | [Go!](https://getpocket.com/developer/) |
 | PrexView | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Yes | Unknown | [Go!](https://prexview.com) |
 | Restpack | Provides screenshot, HTML to PDF, and content extraction APIs | `apiKey` | Yes | Unknown | [Go!](https://restpack.io/) |
-| Todoist | Todo Lists | `OAuth` | Yes | Unknown | [Go!](https://developer.todoist.com) |
+| Todoist | Todo Lists | `OAuth` | Yes | Unknown | [Go!](https://developer.todoist.com) | 
+| Vector Express | Free vector file converting API | No | No | Yes | [Go!](http://vector.express) | 
 | Wunderlist | Todo Lists | `OAuth` | Yes | Unknown | [Go!](https://developer.wunderlist.com/documentation) |
 
 ### Environment
@@ -348,14 +349,13 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Google Earth Engine | A cloud-based platform for planetary-scale environmental data analysis | `apiKey` | Yes | Unknown | [Go!](https://developers.google.com/earth-engine/) |
 | Google Maps | Create/customize digital maps based on Google Maps data | `apiKey` | Yes | Unknown | [Go!](https://developers.google.com/maps/) |
 | GraphLoc | Free GraphQL IP Geolocation API | No | Yes | Unknown | [Go!](https://www.graphloc.com) |
-| HelloSalut | Get hello translation following user language | No | Yes | Unknown| [Go!](https://www.fourtonfish.com/hellosalut/hello/) |
+| HelloSalut | Get hello translation following user language | No | Yes | Unknown | [Go!](https://www.fourtonfish.com/hellosalut/hello/) |
 | IP 2 Country | Map an IP to a country | No | Yes | Unknown | [Go!](https://ip2country.info) |
 | IP Address Details | Find geolocation with ip address | No | Yes | Unknown | [Go!](https://ipinfo.io/) |
 | IP Location | Find IP address location information | No | Yes | Unknown | [Go!](https://ipapi.co/) |
 | IP Sidekick | Geolocation API that returns extra information about an IP address | apiKey | Yes | Unknown | [Go!](https://ipsidekick.com) |
 | IP Vigilante | Free IP Geolocation API | No | Yes | Unknown | [Go!](https://www.ipvigilante.com/) |
 | Mapbox | Create/customize beautiful digital maps | `apiKey` | Yes | Unknown | [Go!](https://www.mapbox.com/developers/) |
-| Mapzen Search | Open Source & Open Data Global Geocoding Service | `apiKey` | Yes | Unknown | [Go!](https://mapzen.com/products/search/) |
 | Mexico | Mexico RESTful zip codes API | No | Yes | Unknown | [Go!](https://github.com/IcaliaLabs/sepomex) |
 | One Map, Singapore | Singapore Land Authority REST API services for Singapore addresses | `apiKey` | Yes | Unknown | [Go!](https://docs.onemap.sg/) |
 | OnWater | Determine if a lat/lon is on water or land | No | Yes | Unknown | [Go!](https://onwater.io/) |
@@ -480,6 +480,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | fonoApi | Mobile Device Description | No | Yes | Unknown | [Go!](https://fonoapi.freshpixl.com/) |
 | French Address Search | French Government | No | Yes | Unknown | [Go!](https://adresse.data.gouv.fr/api) |
 | INQStats | Open demographic data such as population, life expectancy, migration rate, etc | `apiKey` | No | Unknown | [Go!](http://blog.inqubu.com/inqstats-open-api-published-to-get-demographic-data) |
+| LinkPreview | Get JSON formatted summary with title, description and preview image for any requested URL | `apiKey` | Yes | Yes | [Go!](https://www.linkpreview.net) |
 | Marijuana Strains | Marijuana strains, races, flavors, and effects | `apiKey` | No | Unknown | [Go!](http://strains.evanbusse.com/) |
 | Microlink.io | Turns any link into information | No | Yes | Unknown | [Go!](https://docs.microlink.io) |
 | Open Government, Australia | Australian Government Open Data | No | Yes | Unknown | [Go!](https://www.data.gov.au/) |
