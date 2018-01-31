@@ -1,5 +1,5 @@
 {
-    "count": 499,
+    "count": 501,
     "entries": [
         {
             "API": "Dogs",
@@ -587,6 +587,24 @@
             "Category": "Cryptocurrency"
         },
         {
+            "API": "Nexchange",
+            "Description": "Automated cryptocurrency exchange service",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Yes",
+            "Link": "https://nexchange2.docs.apiary.io/",
+            "Category": "Cryptocurrency"
+        },
+        {
+            "API": "Poloniex",
+            "Description": "US based digital asset exchange",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "https://poloniex.com/support/api/",
+            "Category": "Cryptocurrency"
+        },
+        {
             "API": "1Forge",
             "Description": "Forex currency market data",
             "Auth": "apiKey",
@@ -818,15 +836,6 @@
             "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://github.com/gitterHQ/docs",
-            "Category": "Development"
-        },
-        {
-            "API": "HackerRank",
-            "Description": "Compile source code and run against a set of provided test cases",
-            "Auth": "apiKey",
-            "HTTPS": true,
-            "CORS": "Unknown",
-            "Link": "https://www.hackerrank.com/api/docs",
             "Category": "Development"
         },
         {
@@ -4247,6 +4256,15 @@
             "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://developer.wmata.com/",
+            "Category": "Transportation"
+        },
+        {
+            "API": "Uber",
+            "Description": "Uber ride requests and price estimation",
+            "Auth": "OAuth",
+            "HTTPS": true,
+            "CORS": "Yes",
+            "Link": "https://developer.uber.com/products",
             "Category": "Transportation"
         },
         {

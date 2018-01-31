@@ -161,6 +161,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Cryptonator | Cryptocurrencies Exchange Rates | No | Yes | Unknown | [Go!](https://www.cryptonator.com/api/) |
 | GDAX | Cryptocurrency Trading Platform | `apiKey` | Yes | Unknown | [Go!](https://docs.gdax.com/#api) |
 | MercadoBitcoin | Brazilian Cryptocurrency Information | No | Yes | Unknown | [Go!](https://www.mercadobitcoin.net/api-doc/) |
+| Nexchange | Automated cryptocurrency exchange service | No | No | Yes | [Go!](https://nexchange2.docs.apiary.io/) |
+| Poloniex | US based digital asset exchange | `apiKey` | Yes | Unknown | [Go!](https://poloniex.com/support/api/) |
 
 ### Currency Exchange
 API | Description | Auth | HTTPS | CORS | Link |
@@ -199,7 +201,6 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Genderize.io | Determines a gender from a first name | No | Yes | Unknown | [Go!](https://genderize.io) |
 | Github | Information for a user's Github profile | No | Yes | Unknown | [Go!](https://developer.github.com/v3/) |
 | Gitter | Chat for GitHub | `OAuth` | Yes | Unknown | [Go!](https://github.com/gitterHQ/docs) |
-| HackerRank | Compile source code and run against a set of provided test cases | `apiKey` | Yes | Unknown | [Go!](https://www.hackerrank.com/api/docs) |
 | HTTP2.Pro | Test endpoints for client and server HTTP/2 protocol support | No | Yes | Unknown | [Go!](https://http2.pro/doc/api) |
 | import.io | Retrieve structured data from a website or RSS feed | `apiKey` | Yes | Unknown | [Go!](http://api.docs.import.io/) |
 | IPify | A simple IP Address API | No | Yes | Unknown | [Go!](https://www.ipify.org/) |
@@ -237,8 +238,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Pocket | Bookmarking service | `OAuth` | Yes | Unknown | [Go!](https://getpocket.com/developer/) |
 | PrexView | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Yes | Unknown | [Go!](https://prexview.com) |
 | Restpack | Provides screenshot, HTML to PDF, and content extraction APIs | `apiKey` | Yes | Unknown | [Go!](https://restpack.io/) |
-| Todoist | Todo Lists | `OAuth` | Yes | Unknown | [Go!](https://developer.todoist.com) | 
-| Vector Express | Free vector file converting API | No | No | Yes | [Go!](http://vector.express) | 
+| Todoist | Todo Lists | `OAuth` | Yes | Unknown | [Go!](https://developer.todoist.com) |
+| Vector Express | Free vector file converting API | No | No | Yes | [Go!](http://vector.express) |
 | Wunderlist | Todo Lists | `OAuth` | Yes | Unknown | [Go!](https://developer.wunderlist.com/documentation) |
 
 ### Environment
@@ -697,6 +698,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Transport for Vancouver, Canada | TransLink | `OAuth` | Yes | Unknown | [Go!](https://developer.translink.ca/) |
 | Transport for Victoria, AU | PTV API | `apiKey` | Yes | Unknown | [Go!](https://www.ptv.vic.gov.au/about-ptv/ptv-data-and-reports/digital-products/ptv-timetable-api/) |
 | Transport for Washington, US | Washington Metro transport API | `OAuth` | Yes | Unknown | [Go!](https://developer.wmata.com/) |
+| Uber | Uber ride requests and price estimation | `OAuth` | Yes | Yes | [Go!](https://developer.uber.com/products) |
 | WhereIsMyTransport | Platform for public transport data in emerging cities | `OAuth` | Yes | Unknown | [Go!](https://developer.whereismytransport.com/) |
 
 ### URL Shorteners
