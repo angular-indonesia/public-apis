@@ -122,12 +122,12 @@ API | Description | Auth | HTTPS | CORS | Link |
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | Church Calendar | Catholic liturgical calendar | No | No | Unknown | [Go!](http://calapi.inadiutorium.cz/) |
-| Czech and Slovak Namedays Calendar | Lookup for a date and returns nameday | No | Yes | Unknown | [Go!](https://api.abalin.net/) |
 | Czech Namedays Calendar | Lookup for a name and returns nameday date | No | No | Unknown | [Go!](http://svatky.adresa.info/) |
 | Google Calendar | Display, create and modify Google calendar events | `OAuth` | Yes | Unknown | [Go!](https://developers.google.com/google-apps/calendar/) |
 | Hebrew Calendar | Convert between Gregarian and Hebrew, fetch Shabbat and Holiday times, etc | No | No | Unknown | [Go!](https://www.hebcal.com/home/developer-apis) |
 | Holidays | Historical data regarding holidays | `apiKey` | Yes | Unknown | [Go!](https://holidayapi.com/) |
 | LectServe | Protestant liturgical calendar | No | No | Unknown | [Go!](http://www.lectserve.com) |
+| Namedays Calendar | Provides namedays for multiple countries | No | Yes | Yes | [Go!](https://api.abalin.net/) |
 | Non-Working Days | Database of ICS files for non working days | No | Yes | Unknown | [Go!](https://github.com/gadael/icsdb) |
 
 ### Cloud Storage & File Sharing
@@ -309,6 +309,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 ### Games & Comics
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
+| AmiiboAPI | Amiibo Information | No | No | Yes | [Go!](http://www.amiiboapi.com/) |
 | Battle.net | Blizzard Entertainment | `apiKey` | Yes | Unknown | [Go!](https://dev.battle.net/) |
 | Battlefield 4 | Battlefield 4 Information | No | Yes | Unknown | [Go!](https://bf4stats.com/api) |
 | Chuck Norris Database | Jokes | No | No | Unknown | [Go!](http://www.icndb.com/api/) |
@@ -362,6 +363,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | IP Sidekick | Geolocation API that returns extra information about an IP address | `apiKey` | Yes | Unknown | [Go!](https://ipsidekick.com) |
 | IP Vigilante | Free IP Geolocation API | No | Yes | Unknown | [Go!](https://www.ipvigilante.com/) |
 | LabStack | Find IP to location, location to latitude-longitude and reverse | `apiKey` | Yes | Yes | [Go!](https://labstack.com/docs/geocode) |
+| LocationIQ | Provides forward/reverse geocoding and batch geocoding | `apiKey` | Yes | Yes | [Go!](https://locationiq.org/docs/) |
 | Mapbox | Create/customize beautiful digital maps | `apiKey` | Yes | Unknown | [Go!](https://www.mapbox.com/developers/) |
 | Mexico | Mexico RESTful zip codes API | No | Yes | Unknown | [Go!](https://github.com/IcaliaLabs/sepomex) |
 | One Map, Singapore | Singapore Land Authority REST API services for Singapore addresses | `apiKey` | Yes | Unknown | [Go!](https://docs.onemap.sg/) |
