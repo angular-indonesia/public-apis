@@ -280,7 +280,6 @@ API | Description | Auth | HTTPS | CORS | Link |
 ### Food & Drink
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
-| BigOven | Recipe Search | `X-Mashape-Key` | No | Unknown | [Go!](http://api2.bigoven.com/) |
 | BreweryDB | Beer | `apiKey` | No | Unknown | [Go!](http://www.brewerydb.com/developers) |
 | Edamam | Recipe Search | `apiKey` | Yes | Unknown | [Go!](https://developer.edamam.com/) |
 | Food2Fork | Recipe Search | `apiKey` | No | Unknown | [Go!](http://food2fork.com/about/api) |
@@ -579,6 +578,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Best Buy | Products, Buying Options, Categories, Recommendations, Stores, and Commerce | `apiKey` | Yes | Unknown | [Go!](https://bestbuyapis.github.io/api-documentation/#overview) |
 | eBay | Sell and Buy on eBay | `OAuth` | Yes | Unknown | [Go!](https://go.developer.ebay.com/) |
 | Wal-Mart | Item price and availability | `apiKey` | Yes | Unknown | [Go!](https://developer.walmartlabs.com/docs) |
+| Wegmans | Wegmans Food Markets | `apiKey` | Yes | Unknown | [Go!](https://dev.wegmans.io) |
 
 ### Social
 API | Description | Auth | HTTPS | CORS | Link |
