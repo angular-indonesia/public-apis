@@ -484,10 +484,12 @@ API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | Chronicling America | Provides access to millions of pages of historic US newspapers from the Library of Congress | No | No | Unknown | [Go!](http://chroniclingamerica.loc.gov/about/api/) |
 | Feedbin | RSS reader | `OAuth` | Yes | Unknown | [Go!](https://github.com/feedbin/feedbin-api) |
+| Feedster | Searchable and categorized collections of RSS feeds | `apiKey` | Yes | Unknown | [Go!](https://api.feedster.me/v1/docs/) |
 | New York Times | Provides news | `apiKey` | Yes | Unknown | [Go!](https://developer.nytimes.com/) |
 | News | Headlines currently published on a range of news sources and blogs | `apiKey` | Yes | Unknown | [Go!](https://newsapi.org/) |
 | NPR One | Personalized news listening experience from NPR | `OAuth` | Yes | Unknown | [Go!](http://dev.npr.org/api/) |
 | The Guardian | Access all the content the Guardian creates, categorised by tags and section | `apiKey` | Yes | Unknown | [Go!](http://open-platform.theguardian.com/) |
+| The Old Reader | RSS reader | `apiKey` | Yes | Unknown | [Go!](https://github.com/theoldreader/api) |
 
 ### Open Data
 API | Description | Auth | HTTPS | CORS | Link |
@@ -500,6 +502,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Celebinfo | Celebrity information | `X-Mashape-Key` | Yes | Unknown | [Go!](https://market.mashape.com/daxeel/celebinfo/) |
 | Datakick | The open product database | `apiKey` | Yes | Unknown | [Go!](https://www.datakick.org/api) |
 | Dronestream | Tracks United States drone strikes | No | Yes | Unknown | [Go!](https://dronestre.am/) |
+| Enigma Public | Broadest collection of public data | `apiKey` | Yes | Yes | [Go!](http://docs.enigma.com/public/public_v20_api_about) |
 | fonoApi | Mobile Device Description | No | Yes | Unknown | [Go!](https://fonoapi.freshpixl.com/) |
 | French Address Search | Address search via the French Government | No | Yes | Unknown | [Go!](https://adresse.data.gouv.fr/api) |
 | INQStats | Open demographic data such as population, life expectancy, migration rate, etc | `apiKey` | No | Unknown | [Go!](http://blog.inqubu.com/inqstats-open-api-published-to-get-demographic-data) |
