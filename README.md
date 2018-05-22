@@ -243,7 +243,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | Oxford | Dictionary Data | `apiKey` | Yes | Unknown | [Go!](https://developer.oxforddictionaries.com/) |
-| Wordnik | Dictionary Data | No | No | Unknown | [Go!](http://developer.wordnik.com) |
+| Wordnik | Dictionary Data | `apiKey` | No | Unknown | [Go!](http://developer.wordnik.com) |
 | Words | Definitions and synonyms for more than 150,000 words | `apiKey` | Yes | Unknown | [Go!](https://www.wordsapi.com/) |
 
 ### Documents & Productivity
@@ -454,7 +454,6 @@ API | Description | Auth | HTTPS | CORS | Link |
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | Clarifai | Computer Vision | `OAuth` | Yes | Unknown | [Go!](https://developer.clarifai.com/) |
-| Cleverbot | Web chat bot | `apiKey` | Yes | Unknown | [Go!](https://www.cleverbot.com/api/) |
 | Cloudmersive | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes | [Go!](https://www.cloudmersive.com/image-recognition-and-processing-api) |
 | Dialogflow | Natural Language Processing | `apiKey` | Yes | Unknown | [Go!](https://dialogflow.com) |
 | Keen IO | Data Analytics | `apiKey` | Yes | Unknown | [Go!](https://keen.io/) |
@@ -776,5 +775,4 @@ API | Description | Auth | HTTPS | CORS | Link |
 | OpenWeatherMap | Weather | `apiKey` | No | Unknown | [Go!](http://openweathermap.org/api) |
 | Storm Glass | Global marine weather from multiple sources | `apiKey` | Yes | Yes | [Go!](https://stormglass.io/) |
 | Weatherbit | Weather | `apiKey` | Yes | Unknown | [Go!](https://www.weatherbit.io/api) |
-| Wunderground | Weather | `apiKey` | Yes | Unknown | [Go!](https://www.wunderground.com/weather/api/) |
 | Yahoo! Weather | Weather | No | Yes | Unknown | [Go!](https://developer.yahoo.com/weather/) |
