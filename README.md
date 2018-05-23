@@ -76,7 +76,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | AniList | Anime discovery & tracking | `OAuth` | Yes | Unknown | [Go!](https://github.com/AniList/ApiV2-GraphQL-Docs) |
-| Jikan | Unofficial MyAnimeList API | No | Yes | Yes | [Go!](https://jikan.me) |
+| Jikan | Unofficial MyAnimeList API | No | Yes | Yes | [Go!](https://jikan.moe) |
 | Kitsu | Anime discovery platform | `OAuth` | Yes | Unknown | [Go!](http://docs.kitsu.apiary.io/) |
 | Studio Ghibli | Resources from Studio Ghibli films | No | Yes | Unknown | [Go!](https://ghibliapi.herokuapp.com) |
 
@@ -249,6 +249,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 ### Documents & Productivity
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
+| Cloudmersive Document and Data Conversion | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` | Yes | Yes | [Go!](https://cloudmersive.com/convert-api) |
 | File.io | File Sharing | No | Yes | Unknown | [Go!](https://www.file.io) |
 | Mercury | Web parser | `apiKey` | Yes | Unknown | [Go!](https://mercury.postlight.com/web-parser/) |
 | pdflayer | HTML/URL to PDF | `apiKey` | Yes | Unknown | [Go!](https://pdflayer.com) |
