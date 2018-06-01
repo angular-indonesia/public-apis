@@ -122,6 +122,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Google Analytics | Collect, configure, and analyze your data to reach the right audience | `OAuth` | Yes | Unknown | [Go!](https://developers.google.com/analytics/) |
 | mailgun | Email Service | `apiKey` | Yes | Unknown | [Go!](https://www.mailgun.com/) |
 | markerapi | Trademark Search | No | No | Unknown | [Go!](http://www.markerapi.com/) |
+| Ticksel | Friendly website analytics made for humans | No | Yes | Unknown | [Go!](https://ticksel.com) |
 | Trello | Boards, lists, and cards to help you organize and prioritize your projects | `OAuth` | Yes | Unknown | [Go!](https://developers.trello.com/) |
 
 ### Calendar
@@ -193,7 +194,6 @@ API | Description | Auth | HTTPS | CORS | Link |
 | languagelayer | Language detection | No | Yes | Unknown | [Go!](https://languagelayer.com) |
 | Lob.com | US Address Verification | `apiKey` | Yes | Unknown | [Go!](https://lob.com/) |
 | mailboxlayer | Email address validation | No | Yes | Unknown | [Go!](https://mailboxlayer.com) |
-| MailTest | Email address validation | No | Yes | Unknown | [Go!](http://mailtest.in/documentation/) |
 | NumValidate | Open Source phone number validation | No | Yes | Unknown | [Go!](https://numvalidate.com) |
 | numverify | Phone number validation | No | Yes | Unknown | [Go!](https://numverify.com) |
 | PurgoMalum | Content validator against profanity & obscenity | No | No | Unknown | [Go!](http://www.purgomalum.com) |
@@ -292,7 +292,6 @@ API | Description | Auth | HTTPS | CORS | Link |
 ### Food & Drink
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
-| BreweryDB | Beer | `apiKey` | No | Unknown | [Go!](http://www.brewerydb.com/developers) |
 | Edamam | Recipe Search | `apiKey` | Yes | Unknown | [Go!](https://developer.edamam.com/) |
 | Food2Fork | Recipe Search | `apiKey` | No | Unknown | [Go!](http://food2fork.com/about/api) |
 | LCBO | Alcohol | `apiKey` | Yes | Unknown | [Go!](https://lcboapi.com/) |
@@ -589,6 +588,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | AXFR Database | AXFR public database | No | No | Unknown | [Go!](http://api.axfrcheck.com) |
 | HaveIBeenPwned | Passwords which have previously been exposed in data breaches | No | Yes | Unknown | [Go!](https://haveibeenpwned.com/API/v2) |
+| SecurityTrails | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Yes | Unknown | [Go!](https://securitytrails.com/corp/apidocs) |
 | UK Police | UK Police data | No | Yes | Unknown | [Go!](https://data.police.uk/docs/) |
 
 ### Shopping
