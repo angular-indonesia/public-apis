@@ -137,6 +137,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | LectServe | Protestant liturgical calendar | No | No | Unknown | [Go!](http://www.lectserve.com) |
 | Namedays Calendar | Provides namedays for multiple countries | No | Yes | Yes | [Go!](https://api.abalin.net/) |
 | Non-Working Days | Database of ICS files for non working days | No | Yes | Unknown | [Go!](https://github.com/gadael/icsdb) |
+| Russian Calendar | Check if a date is a Russian holiday or not | No | Yes | No | [Go!](https://github.com/egno/work-calendar) |
 
 ### Cloud Storage & File Sharing
 API | Description | Auth | HTTPS | CORS | Link |
@@ -146,6 +147,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Google Drive | File Sharing and Storage | `OAuth` | Yes | Unknown | [Go!](https://developers.google.com/drive/) |
 | OneDrive | File Sharing and Storage | `OAuth` | Yes | Unknown | [Go!](https://dev.onedrive.com/) |
 | Pastebin | Plain Text Storage | `apiKey` | Yes | Unknown | [Go!](https://pastebin.com/api/) |
+| WeTransfer | File Sharing | `apiKey` | Yes | Yes | [Go!](https://developers.wetransfer.com) |
 
 ### Continuous Integration
 API | Description | Auth | HTTPS | CORS | Link |
@@ -328,7 +330,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Battle.net | Blizzard Entertainment | `apiKey` | Yes | Unknown | [Go!](https://dev.battle.net/) |
 | Battlefield 4 | Battlefield 4 Information | No | Yes | Unknown | [Go!](https://bf4stats.com/api) |
 | Chuck Norris Database | Jokes | No | No | Unknown | [Go!](http://www.icndb.com/api/) |
-| Clash of Clans | Clash of Clans Game Information | No | Yes | Unknown | [Go!](https://developer.clashofclans.com) |
+| Clash of Clans | Clash of Clans Game Information | `apiKey` | Yes | Unknown | [Go!](https://developer.clashofclans.com) |
 | Clash Royale | Clash Royale Game Information | No | Yes | Unknown | [Go!](https://github.com/martincarrera/clash-royale-api) |
 | Comic Vine | Comics | No | Yes | Unknown | [Go!](https://comicvine.gamespot.com/api/documentation) |
 | Deck of Cards | Deck of Cards | No | No | Unknown | [Go!](http://deckofcardsapi.com/) |
@@ -559,7 +561,6 @@ API | Description | Auth | HTTPS | CORS | Link |
 ### Photography
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
-| 500px | Photography Community | `OAuth` | Yes | Unknown | [Go!](https://github.com/500px/api-documentation) |
 | Flickr | Flickr Services | `OAuth` | Yes | Unknown | [Go!](https://www.flickr.com/services/api/) |
 | Getty Images | Build applications using the world's most powerful imagery | `OAuth` | Yes | Unknown | [Go!](http://developers.gettyimages.com/en/) |
 | Gfycat | Jiffier GIFs | `OAuth` | Yes | Unknown | [Go!](https://developers.gfycat.com/api/) |
@@ -719,6 +720,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Transport for Denver, US | RTD | No | No | Unknown | [Go!](http://www.rtd-denver.com/gtfs-developer-guide.shtml) |
 | Transport for Finland | Finnish transport API | No | Yes | Unknown | [Go!](https://digitransit.fi/en/developers/ ) |
 | Transport for Germany | Deutsche Bahn (DB) API | `apiKey` | No | Unknown | [Go!](http://data.deutschebahn.com/dataset/api-fahrplan) |
+| Transport for Grenoble, France | Grenoble public transport | No | No | No | [Go!](https://www.metromobilite.fr/pages/opendata/OpenDataApi.html) |
 | Transport for India | India Public Transport API | `apiKey` | Yes | Unknown | [Go!](https://data.gov.in/sector/transport) |
 | Transport for London, England | TfL API | No | Yes | Unknown | [Go!](https://api.tfl.gov.uk) |
 | Transport for Madrid, Spain | Madrid BUS transport API | `apiKey` | No | Unknown | [Go!](http://opendata.emtmadrid.es/Servicios-web/BUS) |
