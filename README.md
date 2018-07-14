@@ -184,6 +184,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | 1Forge | Forex currency market data | `apiKey` | Yes | Unknown | [Go!](https://1forge.com/forex-data-api/api-documentation) |
+| CryptoStandardizer | Standardize crypto coin symbols (e.g. BTC, XBT) across 100+ exchanges | `apiKey` | Yes | Unknown | [Go!](https://cryptostandardizer.com) |
 | Currencylayer | Exchange rates and currency conversion | `apiKey` | Yes | Unknown | [Go!](https://currencylayer.com/documentation) |
 | Czech National Bank | A collection of exchange rates | No | Yes | Unknown | [Go!](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) |
 | Exchangeratesapi.io | Exchange rates with currency conversion | No | Yes | Yes | [Go!](https://exchangeratesapi.io) |
@@ -233,6 +234,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | License-API | Unofficial REST API for choosealicense.com | No | Yes | No | [Go!](https://github.com/cmccandless/license-api/blob/master/README.md) |
 | LiveEdu | Live Coding Streaming | `OAuth` | Yes | Unknown | [Go!](https://www.liveedu.tv/developer/applications/) |
 | Myjson | A simple JSON store for your web or mobile app | No | No | Unknown | [Go!](http://myjson.com/api) |
+| OOPSpam | Multiple spam filtering service | No | Yes | Yes | [Go!](https://oopspam.com/) |
 | Plino | Spam filtering system | No | Yes | Unknown | [Go!](https://plino.herokuapp.com/) |
 | Public APIs | A collective list of free JSON APIs for use in web development | No | Yes | Unknown | [Go!](https://github.com/davemachado/public-api) |
 | QR code | Create an easy to read QR code and URL shortener | No | Yes | Yes | [Go!](http://qrtag.net/api/) |
@@ -422,7 +424,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Open Government, Taiwan | Taiwan Government Open Data | No | Yes | Unknown | [Go!](https://data.gov.tw/) |
 | Open Government, USA | United States Government Open Data | No | Yes | Unknown | [Go!](https://www.data.gov/) |
 | Prague Opendata | Prague City Open Data | No | No | Unknown | [Go!](http://opendata.praha.eu/en) |
-| Regulations.gov | Federal regulatory materialsto increase understanding of the Federal rule making process | `apiKey` | Yes | Unknown | [Go!](https://regulationsgov.github.io/developers/) |
+| Regulations.gov | Federal regulatory materials to increase understanding of the Federal rule making process | `apiKey` | Yes | Unknown | [Go!](https://regulationsgov.github.io/developers/) |
 | Represent by Open North | Find Canadian Government Representatives | No | Yes | Unknown | [Go!](https://represent.opennorth.ca/) |
 | USAspending.gov | US federal spending data | No | Yes | Unknown | [Go!](https://api.usaspending.gov/) |
 
@@ -519,10 +521,10 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Enigma Public | Broadest collection of public data | `apiKey` | Yes | Yes | [Go!](http://docs.enigma.com/public/public_v20_api_about) |
 | fonoApi | Mobile Device Description | No | Yes | Unknown | [Go!](https://fonoapi.freshpixl.com/) |
 | French Address Search | Address search via the French Government | No | Yes | Unknown | [Go!](https://adresse.data.gouv.fr/api) |
-| INQStats | Open demographic data such as population, life expectancy, migration rate, etc | `apiKey` | No | Unknown | [Go!](http://blog.inqubu.com/inqstats-open-api-published-to-get-demographic-data) |
 | LinkPreview | Get JSON formatted summary with title, description and preview image for any requested URL | `apiKey` | Yes | Yes | [Go!](https://www.linkpreview.net) |
 | Marijuana Strains | Marijuana strains, races, flavors, and effects | `apiKey` | No | Unknown | [Go!](http://strains.evanbusse.com/) |
 | Microlink.io | Extract structured data from any website | No | Yes | Yes | [Go!](https://microlink.io) |
+| Population.io | Open demographic data such as population tables, population rank and life expectancy | No | No | Unknown | [Go!](http://api.population.io/) |
 | Quandl | Stock Market Data | No | Yes | Unknown | [Go!](https://www.quandl.com/) |
 | Scoop.it | Content Curation Service | `apiKey` | No | Unknown | [Go!](http://www.scoop.it/dev) |
 | Teleport | Quality of Life Data | No | Yes | Unknown | [Go!](https://developers.teleport.org/) |
@@ -720,6 +722,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Transport for Denver, US | RTD | No | No | Unknown | [Go!](http://www.rtd-denver.com/gtfs-developer-guide.shtml) |
 | Transport for Finland | Finnish transport API | No | Yes | Unknown | [Go!](https://digitransit.fi/en/developers/ ) |
 | Transport for Germany | Deutsche Bahn (DB) API | `apiKey` | No | Unknown | [Go!](http://data.deutschebahn.com/dataset/api-fahrplan) |
+| Transport for Honolulu, US | Honolulu Transportation Information | `apiKey` | No | Unknown | [Go!](http://hea.thebus.org/api_info.asp) | 
 | Transport for Grenoble, France | Grenoble public transport | No | No | No | [Go!](https://www.metromobilite.fr/pages/opendata/OpenDataApi.html) |
 | Transport for India | India Public Transport API | `apiKey` | Yes | Unknown | [Go!](https://data.gov.in/sector/transport) |
 | Transport for London, England | TfL API | No | Yes | Unknown | [Go!](https://api.tfl.gov.uk) |
@@ -784,6 +787,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | ClimaCell Micro Weather | Historical, real-time, and nowcast weather data | `apiKey` | Yes | Yes | [Go!](https://developer.climacell.co) |
 | Dark Sky | Weather | `apiKey` | Yes | No | [Go!](https://darksky.net/dev/) |
 | MetaWeather | Weather | No | Yes | No | [Go!](https://www.metaweather.com/api/) |
+| NOAA Climate Data | Weather and climate data | `apiKey` | Yes | Unknown | [Go!](https://www.ncdc.noaa.gov/cdo-web/) |
 | ODWeather | Weather and weather webcams | No | No | Unknown | [Go!](http://api.oceandrivers.com/static/docs.html) |
 | OpenUV | Real-time UV Index Forecast | `apiKey` | Yes | Unknown | [Go!](https://www.openuv.io) |
 | OpenWeatherMap | Weather | `apiKey` | No | Unknown | [Go!](http://openweathermap.org/api) |
