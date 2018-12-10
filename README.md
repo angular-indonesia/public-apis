@@ -399,6 +399,7 @@ API | Description | Auth | HTTPS | CORS |
 | [CitySDK](http://www.citysdk.eu/citysdk-toolkit/) | Open APIs for select European cities | No | Yes | Unknown |
 | [Daum Maps](http://apis.map.daum.net/) | Daum Maps provide multiple APIs for Korean maps | `apiKey` | No | Unknown |
 | [GeoApi](https://api.gouv.fr/api/geoapi.html) | French geographical data | No | Yes | Unknown |
+| [Geocod.io](https://www.geocod.io/) | Address geocoding / reverce geocoding in bulk | `apiKey` | Yes | Unknown |
 | [Geocode.xyz](https://geocode.xyz/) | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | Unknown |
 | [GeoJS](https://geojs.io/) | IP geolocation with ChatOps integration | No | Yes | Yes |
 | [GeoNames](http://www.geonames.org/export/web-services.html) | Place names and other geographical data | No | No | Unknown |
@@ -520,6 +521,7 @@ API | Description | Auth | HTTPS | CORS |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | No | Yes | Unknown |
 | [Musikki](https://music-api.musikki.com/reference) | Music | `apiKey` | Yes | Unknown |
 | [Musixmatch](https://developer.musixmatch.com/) | Music | `apiKey` | Yes | Unknown |
+| [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | `No` | Yes | No |
 | [Songkick](https://www.songkick.com/developer/) | Music Events | `OAuth` | Yes | Unknown |
 | [Songsterr](https://www.songsterr.com/a/wa/api/) | Provides guitar, bass and drums tabs and chords | No | Yes | Unknown |
 | [SoundCloud](https://developers.soundcloud.com/) | Allow users to upload and share sounds | `OAuth` | Yes | Unknown |
@@ -769,6 +771,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Transport for India](https://data.gov.in/sector/transport) | India Public Transport API | `apiKey` | Yes | Unknown |
 | [Transport for London, England](https://api.tfl.gov.uk) | TfL API | No | Yes | Unknown |
 | [Transport for Madrid, Spain](http://opendata.emtmadrid.es/Servicios-web/BUS) | Madrid BUS transport API | `apiKey` | No | Unknown |
+| [Transport for Manchester, England](https://developer.tfgm.com/) | TfGM transport network data | `apiKey` | Yes | No |
 | [Transport for Minneapolis, US](http://svc.metrotransit.org/) | NexTrip API | `OAuth` | No | Unknown |
 | [Transport for New York City, US](http://datamine.mta.info/) | MTA | `apiKey` | No | Unknown |
 | [Transport for Norway](http://reisapi.ruter.no/help) | Norwegian transport API | No | No | Unknown |
