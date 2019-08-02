@@ -70,7 +70,7 @@ API | Description | Auth | HTTPS | CORS |
 | [HTTPCat](https://http.cat/) | Cat for every HTTP Status | No | Yes | Unknown |
 | [IUCN](http://apiv3.iucnredlist.org/api/v3/docs) | IUCN Red List of Threatened Species | `apiKey` | No | Unknown |
 | [Movebank](https://github.com/movebank/movebank-api-doc) | Movement and Migration data of animals | No | Yes | Unknown |
-| [Petfinder](https://www.petfinder.com/developers/api-docs/) | Adoption | `apiKey` | Yes | Unknown |
+| [Petfinder](https://www.petfinder.com/developers/) | Adoption | `OAuth` | Yes | Unknown |
 | [PlaceGOAT](https://placegoat.com/) | Placeholder goat images | No | Yes | Unknown |
 | [RandomCat](https://aws.random.cat/meow) | Random pictures of cats | No | Yes | Yes |
 | [RandomDog](https://random.dog/woof.json) | Random pictures of dogs | No | Yes | Yes |
@@ -228,6 +228,7 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes | Yes |
+| [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes | Yes |
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey` | Yes | Unknown |
 | [Apility.io](https://apility.io/apidocs/) | IP, Domains and Emails anti-abuse API blocklist | No | Yes | Yes |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | Unknown |
@@ -241,7 +242,7 @@ API | Description | Auth | HTTPS | CORS |
 | [DigitalOcean Status](https://status.digitalocean.com/api/v1) | Status of all DigitalOcean services | No | Yes | Unknown |
 | [DomainDb Info](https://domainsdb.info/apidomainsdb/index.php) | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown |
 | [Faceplusplus](https://www.faceplusplus.com/) | A tool to detect face | `OAuth` | Yes | Unknown |
-| [Genderize.io](https://genderize.io) | Determines a gender from a first name | No | Yes | Unknown |
+| [Genderize.io](https://genderize.io) | Estimates a gender from a first name | No | Yes | Yes |
 | [GitHub](https://developer.github.com/v3/) | Make use of GitHub repositories, code and user info programmatically | `OAuth` | Yes | Yes |
 | [Gitlab](https://docs.gitlab.com/ee/api/) | Automate GitLab interaction programmatically | `OAuth` | Yes | Unknown |
 | [Gitter](https://github.com/gitterHQ/docs) | Chat for GitHub | `OAuth` | Yes | Unknown |
@@ -258,6 +259,7 @@ API | Description | Auth | HTTPS | CORS |
 | [LiveEdu](https://www.liveedu.tv/developer/applications/) | Live Coding Streaming | `OAuth` | Yes | Unknown |
 | [MAC address vendor lookup](https://macaddress.io) | Retrieve vendor details and other information regarding a given MAC address or an OUI | `apiKey` | Yes | Yes |
 | [Myjson](http://myjson.com/api) | A simple JSON store for your web or mobile app | No | No | Unknown |
+| [Nationalize.io](https://nationalize.io) | Estimate the nationality of a first name | No | Yes | Yes |
 | [OOPSpam](https://oopspam.com/) | Multiple spam filtering service | No | Yes | Yes |
 | [Plino](https://plino.herokuapp.com/) | Spam filtering system | No | Yes | Unknown |
 | [Postman](https://docs.api.getpostman.com/) | Tool for testing APIs | `apiKey` | Yes | Unknown |
@@ -304,7 +306,7 @@ API | Description | Auth | HTTPS | CORS |
 | [AirVisual](https://airvisual.com/api) | Air quality and weather data | `apiKey` | Yes | Unknown |
 | [GrünstromIndex](https://www.corrently.de/hintergrund/gruenstromindex/index.html) | Green Power Index for Germany (Grünstromindex/GSI) | No | No | Yes |
 | [OpenAQ](https://docs.openaq.org/) | Open air quality data | `apiKey` | Yes | Unknown |
-| [PM2.5.in](http://www.pm25.in/api_doc) | Air quality of China | `apiKey` | No | Unknown |
+| [PM25.in](http://www.pm25.in/api_doc) | Air quality of China | `apiKey` | No | Unknown |
 | [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/) | Energy production photovoltaic (PV) energy systems | `apiKey` | Yes | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid | No | Yes | Unknown |
 
@@ -404,6 +406,7 @@ API | Description | Auth | HTTPS | CORS |
 | [adresse.data.gouv.fr](https://adresse.data.gouv.fr) | Address database of France, geocoding and reverse | No | Yes | Unknown |
 | [Battuta](https://battuta.medunes.net) | A (country/region/city) in-cascade location API | `apiKey` | Yes | Unknown |
 | [Bing Maps](https://www.microsoft.com/maps/) | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | Unknown |
+| [bng2latlong](https://www.getthedata.com/bng2latlong) | Convert a British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude | No | Yes | Yes |
 | [City Context](https://www.citycontext.com/api-reference#/) | Crime, school and transportation data for US cities | `apiKey` | Yes | Unknown |
 | [CitySDK](http://www.citysdk.eu/citysdk-toolkit/) | Open APIs for select European cities | No | Yes | Unknown |
 | [Daum Maps](http://apis.map.daum.net/) | Daum Maps provide multiple APIs for Korean maps | `apiKey` | No | Unknown |
@@ -421,6 +424,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Indian Cities](https://indian-cities-api-nocbegfhqg.now.sh/) | Get all Indian cities in a clean JSON Format | No | Yes | Yes |
 | [IP 2 Country](https://ip2country.info) | Map an IP to a country | No | Yes | Unknown |
 | [IP Address Details](https://ipinfo.io/) | Find geolocation with ip address | No | Yes | Unknown |
+| [IP Api](http://ip-api.com/) | Find location with ip address | No | No | Unknown | 
 | [IP Location](https://ipapi.co/) | Find IP address location information | No | Yes | Unknown |
 | [IP Sidekick](https://ipsidekick.com) | Geolocation API that returns extra information about an IP address | `apiKey` | Yes | Unknown |
 | [IP Vigilante](https://www.ipvigilante.com/) | Free IP Geolocation API | No | Yes | Unknown |
@@ -611,6 +615,7 @@ API | Description | Auth | HTTPS | CORS |
 | [icanhazdadjoke](https://icanhazdadjoke.com/api) | The largest selection of dad jokes on the internet | No | Yes | Unknown |
 | [kanye.rest](https://kanye.rest) | REST API for random Kanye West quotes | No | Yes | Yes |
 | [Medium](https://github.com/Medium/medium-api-docs) | Community of readers and writers offering unique perspectives on ideas | `OAuth` | Yes | Unknown |
+| [Programming Quotes API](https://github.com/skolakoda/programming-quotes-api) | Programming Quotes API for open source projects. | No | Yes | Unknown |
 | [Quotes on Design](https://quotesondesign.com/api-v4-0/) | Inspirational Quotes | No | Yes | Unknown |
 | [Traitify](https://app.traitify.com/developer) | Assess, collect and analyze Personality | No | Yes | Unknown |
 | [tronalddump.io](https://www.tronalddump.io) | Api & web archive for the things Donald Trump has said | No | Yes | Unknown |
@@ -770,6 +775,7 @@ API | Description | Auth | HTTPS | CORS |
 | [AIS Web](http://www.aisweb.aer.mil.br/api/doc/index.cfm) | Aeronautical information in digital media produced by the Department of Airspace Control (DECEA) | `apiKey` | No | Unknown |
 | [Amadeus Travel Innovation Sandbox](https://sandbox.amadeus.com/) | Travel Search - Limited usage | `apiKey` | Yes | Unknown |
 | [Bay Area Rapid Transit](http://api.bart.gov) | Stations and predicted arrivals for BART | `apiKey` | No | Unknown |
+| [BlaBlaCar](https://dev.blablacar.com/docs/versions/1.0) | Search car sharing trips | `apiKey` | Yes | Unknown |
 | [Community Transit](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints) | Transitland API | No | Yes | Unknown |
 | [Goibibo](https://developer.goibibo.com/docs) | API for travel search | `apiKey` | Yes | Unknown |
 | [GraphHopper](https://graphhopper.com/api/1/docs/) | A-to-B routing with turn-by-turn instructions | `apiKey` | Yes | Unknown |
@@ -825,6 +831,7 @@ API | Description | Auth | HTTPS | CORS |
 | [CleanURI](https://cleanuri.com/docs) | URL shortener service | `No` | Yes | Yes |
 | [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986) | Monitor, compare and optimize your marketing links | `apiKey` | Yes | Unknown |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Yes | Unknown |
+| [Relink](https://rel.ink) | Free and secure URL shortener  | No | Yes | Yes |
 
 ### Vehicle
 API | Description | Auth | HTTPS | CORS |
