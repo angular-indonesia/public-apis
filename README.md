@@ -428,6 +428,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Riot Games](https://developer.riotgames.com/) | League of Legends Game Information | `apiKey` | Yes | Unknown |
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes | Yes |
 | [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API) | Steam Client Interaction | `OAuth` | Yes | Unknown |
+| [Tronald Dump](https://www.tronalddump.io/) | The dumbest things Donald Trump has ever said | No | Yes | Unknown |
 | [Vainglory](https://developer.vainglorygame.com/) | Vainglory Players, Matches and Telemetry | `apiKey` | Yes | Yes |
 | [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | `apiKey` | Yes | No |
 | [xkcd](https://xkcd.com/json.html) | Retrieve xkcd comics as JSON | No | Yes | No |
@@ -494,6 +495,7 @@ API | Description | Auth | HTTPS | CORS |
 | [City, Lyon Opendata](https://data.beta.grandlyon.com/fr/accueil) | Lyon(FR) City Open Data | `apiKey` | Yes | Unknown |
 | [City, Nantes Opendata](https://data.nantesmetropole.fr/pages/home/) | Nantes(FR) City Open Data | `apiKey` | Yes | Unknown |
 | [City, Prague Opendata](http://opendata.praha.eu/en) | Prague(CZ) City Open Data | No | No | Unknown |
+| [Code.gov](https://code.gov) | The primary platform for Open Sourse and code sharing for the U.S. Federal Government | `apiKey` | Yes | Unknown |
 | [Colorado Data Engine](http://codataengine.org/) | Formatted and geolocated Colorado public data | No | Yes | Unknown |
 | [Colorado Information Marketplace](https://data.colorado.gov/) | Colorado State Government Open Data | No | Yes | Unknown |
 | [Data USA](https://datausa.io/about/api/) | US Public Data | No | Yes | Unknown |
@@ -541,7 +543,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Adzuna](https://developer.adzuna.com/overview) | Job board aggregator | `apiKey` | Yes | Unknown |
 | [Authentic Jobs](https://authenticjobs.com/api/docs) | Job board for designers, hackers and creative pros | `apiKey` | Yes | Unknown |
 | [Careerjet](https://www.careerjet.com/partners/api/) | Job search engine | `apiKey` | No | Unknown |
-| [Github Jobs](https://jobs.github.com/api) | Jobs for software developers | No | Yes | No |
+| [Github Jobs](https://jobs.github.com/api) | Jobs for software developers | No | Yes | Yes |
 | [GraphQL Jobs](https://api.graphql.jobs) | Jobs with GraphQL | No | Yes | Yes |
 | [Indeed](https://www.indeed.com/publisher) | Job board aggregator | `apiKey` | Yes | Unknown |
 | [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf) | Job aggregator | `apiKey` | Yes | Unknown |
@@ -561,7 +563,7 @@ API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Clarifai](https://developer.clarifai.com/) | Computer Vision | `OAuth` | Yes | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
-| [Deepcode](https://www.deepcode.ai/docs/Overview%252FOverview) | IA for code review | No | Yes | Unknown |
+| [Deepcode](https://www.deepcode.ai/docs/Overview%252FOverview) | AI for code review | No | Yes | Unknown |
 | [Dialogflow](https://dialogflow.com) | Natural Language Processing | `apiKey` | Yes | Unknown |
 | [Keen IO](https://keen.io/) | Data Analytics | `apiKey` | Yes | Unknown |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
