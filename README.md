@@ -428,6 +428,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Riot Games](https://developer.riotgames.com/) | League of Legends Game Information | `apiKey` | Yes | Unknown |
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes | Yes |
 | [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API) | Steam Client Interaction | `OAuth` | Yes | Unknown |
+| [SuperHeroes](https://superheroapi.com) | All SuperHeroes and Villains data from all universes under a single API | `apiKey` | Yes | Unknown |
 | [Tronald Dump](https://www.tronalddump.io/) | The dumbest things Donald Trump has ever said | No | Yes | Unknown |
 | [Vainglory](https://developer.vainglorygame.com/) | Vainglory Players, Matches and Telemetry | `apiKey` | Yes | Yes |
 | [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | `apiKey` | Yes | No |
@@ -566,6 +567,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Deepcode](https://www.deepcode.ai/docs/Overview%252FOverview) | AI for code review | No | Yes | Unknown |
 | [Dialogflow](https://dialogflow.com) | Natural Language Processing | `apiKey` | Yes | Unknown |
 | [Keen IO](https://keen.io/) | Data Analytics | `apiKey` | Yes | Unknown |
+| [Time Door](https://timedoor.io) | A time series analysis API | `apiKey` | Yes | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
 | [Wit.ai](https://wit.ai/) | Natural Language Processing | `OAuth` | Yes | Unknown |
 
@@ -672,6 +674,7 @@ API | Description | Auth | HTTPS | CORS |
 | [icanhazdadjoke](https://icanhazdadjoke.com/api) | The largest selection of dad jokes on the internet | No | Yes | Unknown |
 | [kanye.rest](https://kanye.rest) | REST API for random Kanye West quotes | No | Yes | Yes |
 | [Medium](https://github.com/Medium/medium-api-docs) | Community of readers and writers offering unique perspectives on ideas | `OAuth` | Yes | Unknown |
+| [NaMoMemes](https://github.com/theIYD/NaMoMemes) | Memes on Narendra Modi | No | Yes | Unknown |
 | [Programming Quotes](https://github.com/skolakoda/programming-quotes-api) | Programming Quotes API for open source projects | No | Yes | Unknown |
 | [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/) | REST API for more than 5000 famous quotes | No | Yes | Unknown |
 | [Quotes on Design](https://quotesondesign.com/api/) | Inspirational Quotes | No | Yes | Unknown |
