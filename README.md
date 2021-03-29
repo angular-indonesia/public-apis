@@ -262,9 +262,11 @@ API | Description | Auth | HTTPS | CORS |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown |
 | [Form2Channel](https://form2channel.com/) | Send static html form submissions to Google Sheets, Email, Slack or Telegram | No | Yes | Yes |
 | [Genderize.io](https://genderize.io) | Estimates a gender from a first name | No | Yes | Yes |
+| [GETPing](https://www.getping.info) | Trigger an email notification with a simple GET request | `apiKey` | Yes | Unknown |
 | [GitHub](https://docs.github.com/en/free-pro-team@latest/rest) | Make use of GitHub repositories, code and user info programmatically | `OAuth` | Yes | Yes |
 | [Gitlab](https://docs.gitlab.com/ee/api/) | Automate GitLab interaction programmatically | `OAuth` | Yes | Unknown |
 | [Gitter](https://developer.gitter.im/docs/welcome) | Chat for Developers | `OAuth` | Yes | Unknown |
+| [Host.io](https://host.io) | Domains Data API for Developers | `apiKey` | Yes | Yes |
 | [HTTP2.Pro](https://http2.pro/doc/api) | Test endpoints for client and server HTTP/2 protocol support | No | Yes | Unknown |
 | [IBM Text to Speech](https://cloud.ibm.com/docs/text-to-speech/getting-started.html) | Convert text to speech | `apiKey` | Yes | Yes |
 | [IFTTT](https://platform.ifttt.com/docs/connect_api) | IFTTT Connect API | No | Yes | Unknown |
@@ -772,7 +774,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Buffer](https://buffer.com/developers/api) | Access to pending and sent updates in Buffer | `OAuth` | Yes | Unknown |
 | [Carro Score](https://docs.score.getcarro.com/) | Social Media Influence Rating | `apiKey` | Yes | Yes |
 | [Cisco Spark](https://developer.ciscospark.com) | Team Collaboration Software | `OAuth` | Yes | Unknown |
-| [Discord](https://discordapp.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Yes | Unknown |
+| [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Yes | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data | `OAuth` | Yes | Unknown |
 | [Facebook](https://developers.facebook.com/) | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Yes | Unknown |
 | [Foursquare](https://developer.foursquare.com/) | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth` | Yes | Unknown |
@@ -828,9 +830,11 @@ API | Description | Auth | HTTPS | CORS |
 | [JSONPlaceholder](http://jsonplaceholder.typicode.com/) | Fake data for testing and prototyping | No | No | Unknown |
 | [Loripsum](http://loripsum.net/) | The "lorem ipsum" generator that doesn't suck | No | No | Unknown |
 | [PIPL](https://pipl.ir/) | Free and public API that generates random and fake people's data in JSON | No | Yes | No |
+| [Randommer](https://randommer.io/randommer-api) | Random data generator | `apiKey` | Yes | Yes |
 | [RandomUser](https://randomuser.me) | Generates random user data | No | Yes | Unknown |
 | [RoboHash](https://robohash.org/) | Generate random robot/alien avatars | No | Yes | Unknown |
 | [This Person Does not Exist](https://thispersondoesnotexist.com) | Generates real-life faces of people who do not exist | No | Yes | Unknown |
+| [UUID Generator](https://www.uuidtools.com/docs) | Generate UUIDs | No | Yes | No |
 | [Yes No](https://yesno.wtf/api) | Generate yes or no randomly | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -915,6 +919,7 @@ API | Description | Auth | HTTPS | CORS |
 | [CleanURI](https://cleanuri.com/docs) | URL shortener service | `No` | Yes | Yes |
 | [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986) | Monitor, compare and optimize your marketing links | `apiKey` | Yes | Unknown |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Yes | Unknown |
+| [T.LY](https://t.ly/docs) | URL shortener API | No | Yes | No |
 | [TinyUID](https://tinyuid.com/docs) | Shorten long URLs | No | Yes | Yes |
 | [Zero Width Shortener](https://docs.zws.im) | Shortens URLs using spaces that have zero width, making them invisible to humans | No | Yes | Unknown |
 
