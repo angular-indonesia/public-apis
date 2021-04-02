@@ -62,6 +62,7 @@ API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No |
 | [Cats](https://docs.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | Yes | Unknown |
+| [Dog Facts](https://dukengn.github.io/Dog-facts-API/) | Random dog facts | No | Yes | Unknown |
 | [Dogs](https://dog.ceo/dog-api/) | Based on the Stanford Dogs Dataset | No | Yes | Yes |
 | [HTTPCat](https://http.cat/) | Cat for every HTTP Status | No | Yes | Unknown |
 | [IUCN](http://apiv3.iucnredlist.org/api/v3/docs) | IUCN Red List of Threatened Species | `apiKey` | No | Unknown |
@@ -170,6 +171,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Dropbox](https://www.dropbox.com/developers) | File Sharing and Storage | `OAuth` | Yes | Unknown |
 | [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | `OAuth` | Yes | Unknown |
 | [OneDrive](https://dev.onedrive.com/) | File Sharing and Storage | `OAuth` | Yes | Unknown |
+| [Pantry](https://getpantry.cloud/) | Free JSON storage for small projects | No | Yes | Yes |
 | [Pastebin](https://pastebin.com/api/) | Plain Text Storage | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -255,6 +257,7 @@ API | Description | Auth | HTTPS | CORS |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Yes | Unknown |
 | [BetterMeta](http://bettermeta.io) | Return a site's meta tags in JSON format | `X-Mashape-Key` | Yes | Unknown |
 | [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) | Bitbucket API | `OAuth` | Yes | Unknown |
+| [Blitapp](https://blitapp.com/api/) | Schedule screenshots of web pages and sync them to your cloud | `apiKey` | Yes | Unknown |
 | [Bored](https://www.boredapi.com/) | Find random activities to fight boredom | No | Yes | Unknown |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | `apiKey` | Yes | Yes |
 | [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | No | Yes | Unknown |
@@ -403,6 +406,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Dota 2](https://docs.opendota.com/) | Provides information about Player stats , Match stats, Rankings for Dota 2 | No | Yes | Unknown |
 | [Dungeons and Dragons](http://www.dnd5eapi.co/) | Reference for 5th edition spells, classes, monsters, and more | No | No | No |
 | [Eve Online](https://esi.evetech.net/ui) | Third-Party Developer Documentation | `OAuth` | Yes | Unknown |
+| [FIFA Ultimate Team](https://www.easports.com/fifa/ultimate-team/api/fut/item) | FIFA Ultimate Team items API | No | Yes | Unknown |
 | [Final Fantasy XIV](https://xivapi.com/) | Final Fantasy XIV Game data API | No | Yes | Yes |
 | [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats | `apiKey` | Yes | Unknown |
 | [Giant Bomb](https://www.giantbomb.com/api/documentation) | Video Games | No | Yes | Unknown |
@@ -449,6 +453,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Daum Maps](http://apis.map.daum.net/) | Daum Maps provide multiple APIs for Korean maps | `apiKey` | No | Unknown |
 | [FreeGeoIP](https://freegeoip.app/) | Free geo ip information, no registration required. 15k/hour rate limit | No | Yes | Yes |
 | [GeoApi](https://api.gouv.fr/api/geoapi.html) | French geographical data | No | Yes | Unknown |
+| [Geoapify](https://www.geoapify.com/api/geocoding-api/) | Forward and reverse geocoding, address autocomplete | `apiKey` | Yes | Yes |
 | [Geocod.io](https://www.geocod.io/) | Address geocoding / reverse geocoding in bulk | `apiKey` | Yes | Unknown |
 | [Geocode.xyz](https://geocode.xyz/api) | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | Unknown |
 | [Geocodify.com](https://geocodify.com/) | Worldwide geocoding, geoparsing and autocomplete for addresses | `apiKey` | Yes | Yes |
@@ -528,6 +533,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Open Government, Thailand](https://data.go.th/) | Thailand Government Open Data | `apiKey` | Yes | Unknown |
 | [Open Government, USA](https://www.data.gov/) | United States Government Open Data | No | Yes | Unknown |
 | [Represent by Open North](https://represent.opennorth.ca/) | Find Canadian Government Representatives | No | Yes | Unknown |
+| [US Census Bureau](https://www.census.gov/data/developers/data-sets.html) | U.S. Census data sets and Geolocation | No | Yes | Unknown |
 | [USAspending.gov](https://api.usaspending.gov/) | US federal spending data | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -835,6 +841,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Bacon Ipsum](https://baconipsum.com/json-api/) | A Meatier Lorem Ipsum Generator | No | Yes | Unknown |
 | [Dicebear Avatars](https://avatars.dicebear.com/) | Generate random pixel-art avatars | No | Yes | No |
 | [FakeJSON](https://fakejson.com) | Service to generate test and fake data | `apiKey` | Yes | Yes |
+| [FakerAPI](https://fakerapi.it/en) | APIs collection to get fake data | No | Yes | Yes |
 | [JSONPlaceholder](http://jsonplaceholder.typicode.com/) | Fake data for testing and prototyping | No | No | Unknown |
 | [Loripsum](http://loripsum.net/) | The "lorem ipsum" generator that doesn't suck | No | No | Unknown |
 | [PIPL](https://pipl.ir/) | Free and public API that generates random and fake people's data in JSON | No | Yes | No |
@@ -904,7 +911,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Transport for Honolulu, US](http://hea.thebus.org/api_info.asp) | Honolulu Transportation Information | `apiKey` | No | Unknown |
 | [Transport for India](https://data.gov.in/sector/transport) | India Public Transport API | `apiKey` | Yes | Unknown |
 | [Transport for Lisbon, Portugal](https://emel.city-platform.com/opendata/) | Data about buses routes, parking and traffic | `apiKey` | Yes | Unknown |
-| [Transport for London, England](https://api.tfl.gov.uk) | TfL API | No | Yes | Unknown |
+| [Transport for London, England](https://api.tfl.gov.uk) | TfL API | `apiKey` | Yes | Unknown |
 | [Transport for Manchester, England](https://developer.tfgm.com/) | TfGM transport network data | `apiKey` | Yes | No |
 | [Transport for Paris, France](http://data.ratp.fr/api/v1/console/datasets/1.0/search/) | RATP Open Data API | No | No | Unknown |
 | [Transport for Philadelphia, US](http://www3.septa.org/hackathon/) | SEPTA APIs | No | No | Unknown |
