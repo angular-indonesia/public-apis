@@ -1,12 +1,12 @@
 # Public APIs [![Run tests](https://github.com/public-apis/public-apis/workflows/Run%20tests/badge.svg)](https://github.com/public-apis/public-apis/actions?query=workflow%3A%22Run+tests%22) [![Validate links](https://github.com/public-apis/public-apis/workflows/Validate%20links/badge.svg?branch=master)](https://github.com/public-apis/public-apis/actions?query=workflow%3A%22Validate+links%22)
 
-A collective list of free APIs for use in software and web development.
+*A collective list of free APIs for use in software and web development.*
 
 A public API for this project can be found [here](https://github.com/davemachado/public-api)!
 
-For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
+For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md).
 
-Please note a passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.
+**NOTE: A passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.**
 
 ## Index
 
@@ -61,6 +61,7 @@ Please note a passing build status indicates all listed APIs are available since
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No |
+| [catAPI](https://github.com/ThatCopy/catAPI/wiki/Usage) | Random pictures of cats | No | Yes | Yes |
 | [Cats](https://docs.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | Yes | Unknown |
 | [Dog Facts](https://dukengn.github.io/Dog-facts-API/) | Random dog facts | No | Yes | Unknown |
 | [Dogs](https://dog.ceo/dog-api/) | Based on the Stanford Dogs Dataset | No | Yes | Yes |
@@ -215,6 +216,7 @@ API | Description | Auth | HTTPS | CORS |
 | [MercadoBitcoin](https://www.mercadobitcoin.net/api-doc/) | Brazilian Cryptocurrency Information | No | Yes | Unknown |
 | [Nexchange](https://nexchange2.docs.apiary.io/) | Automated cryptocurrency exchange service | No | No | Yes |
 | [Poloniex](https://poloniex.com/support/api/) | US based digital asset exchange | `apiKey` | Yes | Unknown |
+| [VALR](https://docs.valr.com/) | Cryptocurrency Exchange based in South Africa | `apiKey` | Yes | Unknown |
 | [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) | Cryptocurrencies Prices | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -278,6 +280,7 @@ API | Description | Auth | HTTPS | CORS |
 | [IFTTT](https://platform.ifttt.com/docs/connect_api) | IFTTT Connect API | No | Yes | Unknown |
 | [Image-Charts](https://documentation.image-charts.com/) | Generate charts, QR codes and graph images | No | Yes | Yes |
 | [import.io](http://api.docs.import.io/) | Retrieve structured data from a website or RSS feed | `apiKey` | Yes | Unknown |
+| [IP2WHOIS Information Lookup](https://www.ip2whois.com/) | WHOIS domain name lookup | `apiKey` | Yes | Unknown |
 | [IPify](https://www.ipify.org/) | A simple IP Address API | No | Yes | Unknown |
 | [IPinfo](https://ipinfo.io/developers) | Another simple IP Address API | No | Yes | Unknown |
 | [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) | Package info and download stats on jsDelivr CDN | No | Yes | Yes |
@@ -307,6 +310,7 @@ API | Description | Auth | HTTPS | CORS |
 | [StackExchange](https://api.stackexchange.com/) | Q&A forum for developers | `OAuth` | Yes | Unknown |
 | [userstack](https://userstack.com/) | Secure User-Agent String Lookup JSON API | `OAuth` | Yes | Unknown |
 
+
 **[⬆ Back to Index](#index)**
 ### Dictionaries
 API | Description | Auth | HTTPS | CORS |
@@ -331,7 +335,7 @@ API | Description | Auth | HTTPS | CORS |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Yes | Unknown |
 | [Restpack](https://restpack.io/) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Yes | Unknown |
 | [Todoist](https://developer.todoist.com) | Todo Lists | `OAuth` | Yes | Unknown |
-| [Vector Express](http://vector.express) | Free vector file converting API | No | No | Yes |
+| [Vector Express v2.0](https://vector.express) | Free vector file converting API | No | Yes | No |
 | [WakaTime](https://wakatime.com/developers) | Automated time tracking leaderboards for programmers | No | Yes | Unknown |
 | [Zube](https://zube.io/docs/api) | Full stack project management | `OAuth` | Yes | Unknown |
 
@@ -369,6 +373,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Plaid](https://plaid.com/) | Connect with users’ bank accounts and access transaction data | `apiKey` | Yes | Unknown |
 | [Razorpay IFSC](https://ifsc.razorpay.com/) | Indian Financial Systems Code (Bank Branch Codes) | No | Yes | Unknown |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | `OAuth` | Yes | Yes |
+| [Twelve Data](https://twelvedata.com/) | Stock market data (real-time & historical) | `apiKey` | Yes | Unknown |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -404,6 +409,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Clash of Clans](https://developer.clashofclans.com) | Clash of Clans Game Information | `apiKey` | Yes | Unknown |
 | [Clash Royale](https://developer.clashroyale.com) | Clash Royale Game Information | `apiKey` | Yes | Unknown |
 | [Comic Vine](https://comicvine.gamespot.com/api/documentation) | Comics | No | Yes | Unknown |
+| [Dark Souls 3](https://blog.mugenmonkey.com/2017/09/10/ds3-api.html) | Information about Dark Souls 3 Items | No | Yes | Unknown |
 | [Deck of Cards](http://deckofcardsapi.com/) | Deck of Cards | No | No | Unknown |
 | [Destiny The Game](https://github.com/Bungie-net/api) | Bungie Platform API | `apiKey` | Yes | Unknown |
 | [Dota 2](https://docs.opendota.com/) | Provides information about Player stats , Match stats, Rankings for Dota 2 | No | Yes | Unknown |
@@ -486,6 +492,7 @@ API | Description | Auth | HTTPS | CORS |
 | [IPGeolocationAPI.com](https://ipgeolocationapi.com/) | Locate your visitors by IP with country details | No | Yes | Yes |
 | [IPInfoDB](https://ipinfodb.com/api) | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address | `apiKey` | Yes | Unknown |
 | [ipstack](https://ipstack.com/) | Locate and identify website visitors by IP address | `apiKey` | Yes | Unknown |
+| [Localizr](https://docs.localizr.xyz) | Get a list of countries,currencies or locales translated from a locale/language code | No | Yes | Yes |
 | [LocationIQ](https://locationiq.org/docs/) | Provides forward/reverse geocoding and batch geocoding | `apiKey` | Yes | Yes |
 | [Mapbox](https://www.mapbox.com/developers/) | Create/customize beautiful digital maps | `apiKey` | Yes | Unknown |
 | [Mexico](https://github.com/IcaliaLabs/sepomex) | Mexico RESTful zip codes API | No | Yes | Unknown |
@@ -523,6 +530,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Data.gov](https://api.data.gov/) | US Government Data | `apiKey` | Yes | Unknown |
 | [Data.parliament.uk](https://explore.data.parliament.uk/?learnmore=Members) | Contains live datasets including information about petitions, bills, MP votes, attendance and more | No | No | Unknown |
 | [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis) | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | No | Yes | Unknown |
+| [duma.gov.ru](http://api.duma.gov.ru) | Russian State Duma Open Data | `apiKey` | No | Unknown |
 | [EPA](https://developer.epa.gov/category/apis/) | Web services and data sets from the US Environmental Protection Agency | No | Yes | Unknown |
 | [FBI Wanted](https://www.fbi.gov/wanted/api) | Access information on the FBI Wanted program | No | Yes | Unknown |
 | [FEC](https://api.open.fec.gov/developers/) | Information on campaign donations in federal elections | `apiKey` | Yes | Unknown |
@@ -614,7 +622,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Mixcloud](https://www.mixcloud.com/developers/) | Music | `OAuth` | Yes | Yes |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | No | Yes | Unknown |
 | [Musixmatch](https://developer.musixmatch.com/) | Music | `apiKey` | Yes | Unknown |
-| [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | `No` | Yes | No |
+| [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | No | Yes | No |
 | [Songkick](https://www.songkick.com/developer/) | Music Events | `OAuth` | Yes | Unknown |
 | [Songsterr](https://www.songsterr.com/a/wa/api/) | Provides guitar, bass and drums tabs and chords | No | Yes | Unknown |
 | [SoundCloud](https://developers.soundcloud.com/) | Allow users to upload and share sounds | `OAuth` | Yes | Unknown |
@@ -743,6 +751,7 @@ API | Description | Auth | HTTPS | CORS |
 | [inspirehep.net](https://inspirehep.net/info/hep/api?ln=en) | High Energy Physics info. system | No | Yes | Unknown |
 | [ITIS](https://www.itis.gov/ws_description.html) | Integrated Taxonomic Information System | No | Yes | Unknown |
 | [Launch Library 2](https://thespacedevs.com/llapi) | Spaceflight launches and events database | No | Yes | Yes |
+| [Materials Platform for Data Science](https://mpds.io) | Curated experimental data for materials science | `apiKey` | Yes | No |
 | [Minor Planet Center](http://www.asterank.com/mpc) | Asterank.com Information | No | No | Unknown |
 | [NASA](https://api.nasa.gov) | NASA data, including imagery | No | Yes | Unknown |
 | [NASA APOD (unofficial API)](https://apodapi.herokuapp.com/) | API for getting APOD (Astronomy Image of the Day) images along with metadata | No | Yes | Yes |
@@ -751,6 +760,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Numbers](http://numbersapi.com) | Facts about numbers | No | No | Unknown |
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | ISS astronauts, current location, etc | No | No | Unknown |
 | [Open Science Framework](https://developer.osf.io) | Repository and archive for study designs, research materials, data, manuscripts, etc | No | Yes | Unknown |
+| [Satellite Passes](https://satellites.fly.dev) | Query next satellite passes above you | No | Yes | Yes |
 | [SHARE](https://share.osf.io/api/v2/) | A free, open, dataset about research and scholarly activities | No | Yes | Unknown |
 | [SpaceX](https://github.com/r-spacex/SpaceX-API) | Company, vehicle, launchpad and launch data | No | Yes | Unknown |
 | [Sunrise and Sunset](https://sunrise-sunset.org/api) | Sunset and sunrise times for a given latitude and longitude | No | Yes | Unknown |
@@ -942,9 +952,10 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Bitly](http://dev.bitly.com/get_started.html) | URL shortener and link management | `OAuth` | Yes | Unknown |
-| [CleanURI](https://cleanuri.com/docs) | URL shortener service | `No` | Yes | Yes |
+| [CleanURI](https://cleanuri.com/docs) | URL shortener service | No | Yes | Yes |
 | [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986) | Monitor, compare and optimize your marketing links | `apiKey` | Yes | Unknown |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Yes | Unknown |
+| [Shrtlnk](https://shrtlnk.dev/developer) | Simple and efficient short link creation | `apiKey` | Yes | Yes |
 | [T.LY](https://t.ly/docs) | URL shortener API | No | Yes | No |
 | [TinyUID](https://tinyuid.com/docs) | Shorten long URLs | No | Yes | Yes |
 | [Zero Width Shortener](https://docs.zws.im) | Shortens URLs using spaces that have zero width, making them invisible to humans | No | Yes | Unknown |
@@ -991,6 +1002,8 @@ API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [7Timer!](http://www.7timer.info/doc.php?lang=en) | Weather, especially for Astroweather | No | No | Unknown |
 | [APIXU](https://www.apixu.com/doc/request.aspx) | Weather | `apiKey` | Yes | Unknown |
+| [ColorfulClouds](https://open.caiyunapp.com/ColorfulClouds_Weather_API) | Weather | `apiKey` | Yes | Yes |
+| [Dark Sky](https://darksky.net/dev/) | Weather | `apiKey` | Yes | No |
 | [Foreca](https://developer.foreca.com) | Weather | `OAuth` | Yes | Unknown |
 | [MetaWeather](https://www.metaweather.com/api/) | Weather | No | Yes | No |
 | [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation) | Weather and climate data | `User-Agent` | Yes | Unknown |
@@ -999,9 +1012,16 @@ API | Description | Auth | HTTPS | CORS |
 | [openSenseMap](https://api.opensensemap.org/) | Data from Personal Weather Stations called senseBoxes | No | Yes | Yes |
 | [OpenUV](https://www.openuv.io) | Real-time UV Index Forecast | `apiKey` | Yes | Unknown |
 | [OpenWeatherMap](https://openweathermap.org/api) | Weather | `apiKey` | Yes | Unknown |
+| [QWeather](https://dev.qweather.com/) | Location-based weather data | `apiKey` | Yes | Yes |
 | [Storm Glass](https://stormglass.io/) | Global marine weather from multiple sources | `apiKey` | Yes | Yes |
 | [TheRainery](https://therainery.com/documentation/) | Forecast models from meteorological institutes | `apiKey` | Yes | No |
+| [weather-api](https://github.com/robertoduessmann/weather-api) | A RESTful free API to check the weather | No | Yes | No |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | `apiKey` | Yes | Unknown |
 | [weatherstack](https://weatherstack.com/) | Real-Time & Historical World Weather Data API | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
+
+<br>
+
+## License
+[MIT](LICENSE)
