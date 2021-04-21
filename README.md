@@ -85,6 +85,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Jikan](https://jikan.moe) | Unofficial MyAnimeList API | No | Yes | Yes |
 | [Kitsu](https://kitsu.docs.apiary.io/) | Anime discovery platform | `OAuth` | Yes | Yes |
 | [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community | `OAuth` | Yes | Unknown |
+| [Shikimori](https://shikimori.one/api/doc) | Anime discovery, tracking, forum, rates | `OAuth` | Yes | Unknown |
 | [Studio Ghibli](https://ghibliapi.herokuapp.com) | Resources from Studio Ghibli films | No | Yes | Yes |
 | [What Anime](https://soruly.github.io/trace.moe/) | Scan anime image to get specific detail | No | Yes | Yes |
 
@@ -98,7 +99,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Metacert](https://metacert.com/) | Metacert Link Flagging | `apiKey` | Yes | Unknown |
 | [URLScan.io](https://urlscan.io/about-api/) | Scan and Analyse URLs | `apiKey` | Yes | Unknown |
 | [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis | `apiKey` | Yes | Unknown |
-| [Web Of Trust (WOT)](https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API) | Website reputation | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 ### Art & Design
@@ -132,6 +132,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data | No | Yes | Yes |
 | [Rig Veda](https://aninditabasu.github.io/indica/html/rv.html) | Gods and poets, their categories, and the verse meters, with the mandal and sukta number | No | Yes | Unknown |
 | [Shrimad Bhagavad Gita](https://vedicscriptures.github.io/) | Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi | No | Yes | Yes |
+| [Thirukkural](https://api-thirukkural.web.app/) | 1330 Thirukkural poems and explanation in Tamil and English | No | Yes | Yes |
 | [Vedic Society](https://aninditabasu.github.io/indica/html/vs.html) | Descriptions of all nouns (names, places, animals, things) from vedic literature | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -1046,6 +1047,7 @@ API | Description | Auth | HTTPS | CORS |
 | [QWeather](https://dev.qweather.com/) | Location-based weather data | `apiKey` | Yes | Yes |
 | [Storm Glass](https://stormglass.io/) | Global marine weather from multiple sources | `apiKey` | Yes | Yes |
 | [TheRainery](https://therainery.com/documentation/) | Forecast models from meteorological institutes | `apiKey` | Yes | No |
+| [Troposphere](https://www.troposphere.io/developer) | Global weather and climate data | `apiKey` | Yes | Yes |
 | [weather-api](https://github.com/robertoduessmann/weather-api) | A RESTful free API to check the weather | No | Yes | No |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | `apiKey` | Yes | Unknown |
 | [weatherstack](https://weatherstack.com/) | Real-Time & Historical World Weather Data API | `apiKey` | Yes | Unknown |
