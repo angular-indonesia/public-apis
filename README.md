@@ -99,6 +99,7 @@ API | Description | Auth | HTTPS | CORS |
 | [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/api) | IP/domain/URL reputation | `apiKey` | Yes | Unknown |
 | [Google Safe Browsing](https://developers.google.com/safe-browsing/) | Google Link/Domain Flagging | `apiKey` | Yes | Unknown |
 | [Metacert](https://metacert.com/) | Metacert Link Flagging | `apiKey` | Yes | Unknown |
+| [URLhaus](https://urlhaus-api.abuse.ch/) | Bulk queries and Download Malware Samples | No | Yes | Unknown |
 | [URLScan.io](https://urlscan.io/about-api/) | Scan and Analyse URLs | `apiKey` | Yes | Unknown |
 | [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis | `apiKey` | Yes | Unknown |
 
@@ -1082,6 +1083,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Game of Thrones Quotes](https://gameofthronesquotes.xyz/) | Some Game of Thrones quotes | No | Yes | Unknown |
 | [Harry Potter](https://www.potterapi.com/) | Harry Potter API | `apiKey` | Yes | Yes |
 | [MCU Countdown](https://github.com/DiljotSG/MCU-Countdown) | A Countdown to the next MCU Film | No | Yes | Yes |
+| [Movie Quote](https://github.com/F4R4N/movie-quote/) | Random Movie and Series Quotes | No | Yes | Yes |
 | [Open Movie Database](http://www.omdbapi.com/) | Movie information | `apiKey` | Yes | Unknown |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television | No | Yes | Unknown |
 | [STAPI](http://stapi.co) | Information on all things Star Trek | No | No | No |
