@@ -229,6 +229,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Coinpaprika](https://api.coinpaprika.com) | Cryptocurrencies prices, volume and more | No | Yes | Yes |
 | [CoinRanking](https://docs.coinranking.com/) | Live Cryptocurrency data | No | Yes | Unknown |
 | [CoinStats](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest) | Crypto Tracker | No | Yes | Unknown |
+| [Covalent](https://www.covalenthq.com/docs/api/) | Multi-blockchain data aggregator | `apiKey` | Yes | Unknown |
 | [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrencies Comparison | No | Yes | Unknown |
 | [CryptoMarket](https://developers.cryptomkt.com) | Cryptocurrencies Trading platform | `apiKey` | Yes | Yes |
 | [Cryptonator](https://www.cryptonator.com/api/) | Cryptocurrencies Exchange Rates | No | Yes | Unknown |
@@ -293,6 +294,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | `apiKey` | Yes | Yes |
 | [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | No | Yes | Unknown |
 | [Changelogs.md](https://changelogs.md) | Structured changelog metadata from open source projects | No | Yes | Unknown |
+| [Ciprand](https://github.com/polarspetroll/ciprand) | Secure random string generator | No | Yes | No |
 | [CountAPI](https://countapi.xyz) | Free and simple counting service. You can use it to track page hits and specific events | No | Yes | Yes |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | Status of all DigitalOcean services | No | Yes | Unknown |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown |
@@ -309,6 +311,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Host.io](https://host.io) | Domains Data API for Developers | `apiKey` | Yes | Yes |
 | [HTTP2.Pro](https://http2.pro/doc/api) | Test endpoints for client and server HTTP/2 protocol support | No | Yes | Unknown |
 | [IBM Text to Speech](https://cloud.ibm.com/docs/text-to-speech/getting-started.html) | Convert text to speech | `apiKey` | Yes | Yes |
+| [Icanhazip](https://major.io/icanhazip-com-faq/) | IP Address API | No | Yes | Yes |
 | [IFTTT](https://platform.ifttt.com/docs/connect_api) | IFTTT Connect API | No | Yes | Unknown |
 | [Image-Charts](https://documentation.image-charts.com/) | Generate charts, QR codes and graph images | No | Yes | Yes |
 | [import.io](http://api.docs.import.io/) | Retrieve structured data from a website or RSS feed | `apiKey` | Yes | Unknown |
@@ -347,6 +350,7 @@ API | Description | Auth | HTTPS | CORS |
 | [serpstack](https://serpstack.com/) | Real-Time & Accurate Google Search Results API | `apiKey` | Yes | Yes |
 | [SHOUTCLOUD](http://shoutcloud.io/) | ALL-CAPS AS A SERVICE | No | No | Unknown |
 | [StackExchange](https://api.stackexchange.com/) | Q&A forum for developers | `OAuth` | Yes | Unknown |
+| [Statically](https://statically.io/) | A free CDN for developers | No | Yes | Yes |
 | [Trending-Github](https://docs.trending-github.com) | Discover what is currently trending on github | No | Yes | Yes |
 | [userstack](https://userstack.com/) | Secure User-Agent String Lookup JSON API | `OAuth` | Yes | Unknown |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey` | Yes | Yes |
@@ -377,7 +381,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Pocket](https://getpocket.com/developer/) | Bookmarking service | `OAuth` | Yes | Unknown |
 | [PrexView](https://prexview.com) | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Yes | Unknown |
 | [Restpack](https://restpack.io/) | Provides screenshot, HTML to PDF and content extraction APIs | `apiKey` | Yes | Unknown |
-| [Salesfly PDF](https://salesflypdf.com) | HTML/URL to PDF | `apiKey` | Yes | Yes |
 | [Todoist](https://developer.todoist.com) | Todo Lists | `OAuth` | Yes | Unknown |
 | [Vector Express v2.0](https://vector.express) | Free vector file converting API | No | Yes | No |
 | [WakaTime](https://wakatime.com/developers) | Automated time tracking leaderboards for programmers | No | Yes | Unknown |
@@ -422,6 +425,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Plaid](https://plaid.com/) | Connect with users’ bank accounts and access transaction data | `apiKey` | Yes | Unknown |
 | [Razorpay IFSC](https://ifsc.razorpay.com/) | Indian Financial Systems Code (Bank Branch Codes) | No | Yes | Unknown |
 | [Real Time Finance](https://github.com/Real-time-finance/finance-websocket-API/) | Websocket API to access realtime stock data | `apiKey` | No | Unknown |
+| [Styvio](https://www.Styvio.com) | Realtime and historical stock data and current stock sentiment | No | Yes | Unknown |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | `OAuth` | Yes | Yes |
 | [Twelve Data](https://twelvedata.com/) | Stock market data (real-time & historical) | `apiKey` | Yes | Unknown |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth` | Yes | Yes |
@@ -525,6 +529,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Cep.la](http://cep.la/) | Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states | No | No | Unknown |
 | [CitySDK](http://www.citysdk.eu/citysdk-toolkit/) | Open APIs for select European cities | No | Yes | Unknown |
 | [Country](http://country.is/) | Get your visitors' country from their IP | No | Yes | Yes |
+| [CountryStateCity](https://countrystatecity.in/) | World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format | `apiKey` | Yes | Yes |
 | [Daum Maps](http://apis.map.daum.net/) | Daum Maps provide multiple APIs for Korean maps | `apiKey` | No | Unknown |
 | [FreeGeoIP](https://freegeoip.app/) | Free geo ip information, no registration required. 15k/hour rate limit | No | Yes | Yes |
 | [GeoApi](https://api.gouv.fr/api/geoapi.html) | French geographical data | No | Yes | Unknown |
@@ -781,6 +786,7 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Advice Slip](http://api.adviceslip.com/) | Generate random advice slips | No | Yes | Unknown |
+| [Affirmations](https://affirmations.dev/) | Generate Stuart Smalley Affirmations | No | Yes | Unknown |
 | [Biriyani As A Service](https://biriyani.anoram.com/) | Biriyani images placeholder | No | Yes | No |
 | [chucknorris.io](https://api.chucknorris.io) | JSON API for hand curated Chuck Norris jokes | No | Yes | Unknown |
 | [Dictum](https://github.com/fisenkodv/dictum) | API to get access to the collection of the most inspiring expressions of mankind | No | Yes | Unknown |
@@ -789,7 +795,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Forismatic](http://forismatic.com/en/api/) | Inspirational Quotes | No | No | Unknown |
 | [icanhazdadjoke](https://icanhazdadjoke.com/api) | The largest selection of dad jokes on the internet | No | Yes | Unknown |
 | [Imgflip](https://imgflip.com/api) | Gets an array of popular memes | No | Yes | Unknown |
-| [Inspiration](https://inspiration.goprogram.co.uk/docs/) | Motivational and Inspirational quotes | No | Yes | Yes |
+| [Inspiration](https://inspiration.goprogram.ai/docs/) | Motivational and Inspirational quotes | No | Yes | Yes |
 | [kanye.rest](https://kanye.rest) | REST API for random Kanye West quotes | No | Yes | Yes |
 | [Medium](https://github.com/Medium/medium-api-docs) | Community of readers and writers offering unique perspectives on ideas | `OAuth` | Yes | Unknown |
 | [NaMoMemes](https://github.com/theIYD/NaMoMemes) | Memes on Narendra Modi | No | Yes | Unknown |
@@ -879,6 +885,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Mozilla http scanner](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md) | Mozilla observatory http scanner | No | Yes | Unknown |
 | [Mozilla tls scanner](https://github.com/mozilla/tls-observatory#api-endpoints) | Mozilla observatory tls scanner | No | Yes | Unknown |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | U.S. National Vulnerability Database | No | Yes | Unknown |
+| [Passwordinator](https://github.com/fawazsullia/password-generator/) | Generate random passwords of varying complexities | No | Yes | Yes | 
 | [PhishStats](https://phishstats.info/) | Phishing database | No | Yes | Unknown |
 | [Pulsedive](https://pulsedive.com/api/) | Scan, search and collect threat intelligence data in real-time | `apiKey` | Yes | Unknown |
 | [SecurityTrails](https://securitytrails.com/corp/apidocs) | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Yes | Unknown |
@@ -904,7 +911,6 @@ API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [4chan](https://github.com/4chan/4chan-API) | Simple image-based bulletin board dedicated to a variety of topics | No | Yes | Yes |
 | [Buffer](https://buffer.com/developers/api) | Access to pending and sent updates in Buffer | `OAuth` | Yes | Unknown |
-| [Carro Score](https://docs.score.getcarro.com/) | Social Media Influence Rating | `apiKey` | Yes | Yes |
 | [Cisco Spark](https://developer.ciscospark.com) | Team Collaboration Software | `OAuth` | Yes | Unknown |
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Yes | Unknown |
 | [Disqus](https://disqus.com/api/docs/auth/) | Communicate with Disqus data | `OAuth` | Yes | Unknown |
@@ -965,7 +971,8 @@ API | Description | Auth | HTTPS | CORS |
 | [PIPL](https://pipl.ir/) | Free and public API that generates random and fake people's data in JSON | No | Yes | No |
 | [QuickMocker](https://quickmocker.com) | API mocking tool to generate contextual, fake or random data | No | Yes | Yes |
 | [Randommer](https://randommer.io/randommer-api) | Random data generator | `apiKey` | Yes | Yes |
-| [RandomUser](https://randomuser.me) | Generates random user data | No | Yes | Unknown |
+| [RandomUser](https://randomuser.me) | Generates and list user data | No | Yes | Unknown |
+| [Reqres](https://reqres.in) | Generates random user data | No | Yes | Unknown |
 | [RoboHash](https://robohash.org/) | Generate random robot/alien avatars | No | Yes | Unknown |
 | [Spanish random words](https://palabras-aleatorias-public-api.herokuapp.com) | Generate spanish words randomly | No | Yes | Unknown |
 | [This Person Does not Exist](https://thispersondoesnotexist.com) | Generates real-life faces of people who do not exist | No | Yes | Unknown |
@@ -1016,6 +1023,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Metro Lisboa](http://app.metrolisboa.pt/status/getLinhas.php) | Delays in subway lines | No | No | No |
 | [Navitia](https://api.navitia.io/) | The open API for building cool stuff with transport data | `apiKey` | Yes | Unknown |
 | [Open Charge Map](https://openchargemap.org/site/develop/api) | Global public registry of electric vehicle charging locations | `apiKey` | Yes | Yes |
+| [OpenSky Network](https://opensky-network.org/apidoc/index.html) | Free real-time ADS-B aviation data | No | Yes | Unknown |
 | [REFUGE Restrooms](https://www.refugerestrooms.org/api/docs/#!/restrooms) | Provides safe restroom access for transgender, intersex and gender nonconforming individuals | No | Yes | Unknown |
 | [Schiphol Airport](https://developer.schiphol.nl/) | Schiphol | `apiKey` | Yes | Unknown |
 | [TransitLand](https://transit.land/documentation/datastore/api-endpoints.html) | Transit Aggregation | No | Yes | Unknown |
@@ -1079,6 +1087,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | Yes | Unknown |
 | [Kelley Blue Book](http://developer.kbb.com/#!/data/1-Default) | Vehicle info, pricing, configuration, plus much more | `apiKey` | Yes | No |
 | [Mercedes-Benz](https://developer.mercedes-benz.com/apis) | Telematics data, remotely access vehicle functions, car configurator, locate service dealers | `apiKey` | Yes | No |
+| [Motor Vehicle Department, Maharashtra, India](https://apisetu.gov.in/public/api/transportmh) | Driving License (DL) and Vehicle Registration Certificate (RC) of the State Maharashtra of India | `apiKey` | Yes | No |
 | [NHTSA](https://vpic.nhtsa.dot.gov/api/) | NHTSA Product Information Catalog and Vehicle Listing | No | Yes | Unknown |
 | [Smartcar](https://smartcar.com/docs/) | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | `OAuth` | Yes | Yes |
 
