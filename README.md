@@ -45,7 +45,8 @@
     <br />
     <a href="https://free-apis.github.io">Free APIs</a> •
     <a href="https://devresourc.es/tools-and-utilities/public-apis">Dev Resources</a> •
-    <a href="https://www.public-apis.ml">Public APIs Site</a>
+    <a href="https://www.public-apis.ml">Public APIs Site</a> •
+    <a href="https://apihouse.vercel.app">Apihouse</a>
 </div>
 
 ---
@@ -133,6 +134,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Jikan](https://jikan.moe) | Unofficial MyAnimeList API | No | Yes | Yes |
 | [Kitsu](https://kitsu.docs.apiary.io/) | Anime discovery platform | `OAuth` | Yes | Yes |
 | [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community | `OAuth` | Yes | Unknown |
+| [NekosBest](https://docs.nekos.best) | Neko Images & Anime roleplaying GIFs | No | Yes | Yes |
 | [Shikimori](https://shikimori.one/api/doc) | Anime discovery, tracking, forum, rates | `OAuth` | Yes | Unknown |
 | [Studio Ghibli](https://ghibliapi.herokuapp.com) | Resources from Studio Ghibli films | No | Yes | Yes |
 | [Waifu.pics](https://waifu.pics/docs) | Image sharing platform for anime images | No | Yes | No |
@@ -552,6 +554,7 @@ API | Description | Auth | HTTPS | CORS |
 | [FIFA Ultimate Team](https://www.easports.com/fifa/ultimate-team/api/fut/item) | FIFA Ultimate Team items API | No | Yes | Unknown |
 | [Final Fantasy XIV](https://xivapi.com/) | Final Fantasy XIV Game data API | No | Yes | Yes |
 | [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats | `apiKey` | Yes | Unknown |
+| [Forza](https://images.forza-api.tk) | Show random image of car from Forza | No | Yes | Unknown |
 | [FreeToGame](https://www.freetogame.com/api-doc) | Free-To-Play Games Database | No | Yes | Yes |
 | [GamerPower](https://www.gamerpower.com/api-read) | Game Giveaways Tracker | No | Yes | Yes |
 | [Giant Bomb](https://www.giantbomb.com/api/documentation) | Video Games | `apiKey` | Yes | Unknown |
@@ -620,6 +623,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Geocoding.ai](https://nominatim.geocoding.ai/) | Provides worldwide forward / reverse geocoding | No | Yes | Yes |
 | [GeoDataSource](https://www.geodatasource.com/web-service) | Geocoding of city name by using latitude and longitude coordinates | `apiKey` | Yes | Unknown |
 | [GeoJS](https://geojs.io/) | IP geolocation with ChatOps integration | No | Yes | Yes |
+| [Geokeo](https://geokeo.com) | Geokeo geocoding service- with 2500 free api requests daily | No | Yes | Yes |
 | [GeoNames](http://www.geonames.org/export/web-services.html) | Place names and other geographical data | No | No | Unknown |
 | [geoPlugin](https://www.geoplugin.com) | IP geolocation and currency conversion | No | Yes | Yes |
 | [Google Earth Engine](https://developers.google.com/earth-engine/) | A cloud-based platform for planetary-scale environmental data analysis | `apiKey` | Yes | Unknown |
@@ -700,6 +704,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Open Government, Mexico](https://www.inegi.org.mx/datos/) | Mexican Statistical Government Open Data | No | Yes | Unknown |
 | [Open Government, New Zealand](https://www.data.govt.nz/) | New Zealand Government Open Data | No | Yes | Unknown |
 | [Open Government, Peru](https://www.datosabiertos.gob.pe/) | Peru Government Open Data | No | Yes | Unknown |
+| [Open Government, Poland](https://dane.gov.pl/en) | Poland Government Open Data | No | Yes | Yes |
 | [Open Government, Romania](http://data.gov.ro/) | Romania Government Open Data | No | No | Unknown |
 | [Open Government, Russia](https://data.gov.ru/?language=en) | Open Data Portal Russia | `apiKey` | No | Unknown |
 | [Open Government, Saudi Arabia](https://data.gov.sa) | Saudi Arabia Government Open Data | No | Yes | Unknown |
@@ -1014,6 +1019,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Full Contact](https://www.fullcontact.com/developer/docs/) | Get Social Media profiles and contact Information | `OAuth` | Yes | Unknown |
 | [HackerNews](https://github.com/HackerNews/API) | Social news for CS and entrepreneurship | No | Yes | Unknown |
 | [Instagram](https://www.instagram.com/developer/) | Instagram Login, Share on Instagram, Social Plugins and more | `OAuth` | Yes | Unknown |
+| [LinkedIn](https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context) | The foundation of all digital integrations with LinkedIn | `OAuth` | Yes | Unknown |
 | [Meetup.com](https://www.meetup.com/meetup_api/) | Data about Meetups from Meetup.com | `apiKey` | Yes | Unknown |
 | [MySocialApp](https://mysocialapp.io) | Seamless Social Networking features, API, SDK to any app | `apiKey` | Yes | Unknown |
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data | No | Yes | Unknown |
@@ -1170,6 +1176,7 @@ API | Description | Auth | HTTPS | CORS |
 | [CleanURI](https://cleanuri.com/docs) | URL shortener service | No | Yes | Yes |
 | [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986) | Monitor, compare and optimize your marketing links | `apiKey` | Yes | Unknown |
 | [Git.io](https://github.blog/2011-11-10-git-io-github-url-shortener/) | Git.io URL shortener | No | Yes | Unknown |
+| [GoTiny](https://github.com/robvanbakel/gotiny-api) | A lightweight URL shortener, focused on ease-of-use for the developer and end-user | No | Yes | Yes |
 | [Is.gd](https://is.gd/developers.php) | URL Shortening API | No | Yes | Unknown |
 | [Kutt](https://docs.kutt.it/) | Free Modern URL Shortener | `apiKey` | Yes | Yes |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Yes | Unknown |
@@ -1243,6 +1250,7 @@ API | Description | Auth | HTTPS | CORS |
 | [QWeather](https://dev.qweather.com/) | Location-based weather data | `apiKey` | Yes | Yes |
 | [SG Weather Reading](https://data.gov.sg/dataset/realtime-weather-readings) | Realtime weather readings for Singapore area including other weather parameters | No | Yes | Unknown |
 | [Storm Glass](https://stormglass.io/) | Global marine weather from multiple sources | `apiKey` | Yes | Yes |
+| [Tomorrow](https://docs.tomorrow.io) | Weather API Powered by Proprietary Technology | `apiKey` | Yes | Unknown |
 | [Troposphere](https://www.troposphere.io/developer) | Global weather and climate data | `apiKey` | Yes | Yes |
 | [Visual Crossing](https://www.visualcrossing.com/weather-api) | Global historical and weather forecast data | `apiKey` | Yes | Yes |
 | [weather-api](https://github.com/robertoduessmann/weather-api) | A RESTful free API to check the weather | No | Yes | No |
