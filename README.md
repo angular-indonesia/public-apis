@@ -462,6 +462,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Nationalize.io](https://nationalize.io) | Estimate the nationality of a first name | No | Yes | Yes |
 | [OneSignal](https://documentation.onesignal.com/docs/onesignal-api) | Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App | `apiKey` | Yes | Unknown |
 | [OOPSpam](https://oopspam.com/) | Multiple spam filtering service | No | Yes | Yes |
+| [Open Page Rank](https://www.domcop.com/openpagerank/) | API for calculating and comparing metrics of different websites using Page Rank algorithm | `apiKey` | Yes | Unknown |
 | [PageCDN](https://pagecdn.com/docs/public-api) | Public API for javascript, css and font libraries on PageCDN | `apiKey` | Yes | Yes |
 | [Postman](https://docs.api.getpostman.com/) | Tool for testing APIs | `apiKey` | Yes | Unknown |
 | [ProxyCrawl](https://proxycrawl.com) | Scraping and crawling anticaptcha service | `apiKey` | Yes | Unknown |
@@ -684,12 +685,14 @@ API | Description | Auth | HTTPS | CORS |
 | [Marvel](https://developer.marvel.com) | Marvel Comics | `apiKey` | Yes | Unknown |
 | [MMO Games](https://www.mmobomb.com/api) | MMO Games Database, News and Giveaways | No | Yes | No |
 | [mod.io](https://docs.mod.io) | Cross Platform Mod API | `apiKey` | Yes | Unknown |
+| [Mojang](https://wiki.vg/Mojang_API) | Mojang / Minecraft API | `apiKey` | Yes | Unknown |
 | [Open Trivia](https://opentdb.com/api_config.php) | Trivia Questions | No | Yes | Unknown |
 | [PandaScore](https://developers.pandascore.co/) | E-sports games and results | `apiKey` | Yes | Unknown |
 | [Path of Exile](https://www.pathofexile.com/developer/docs) | Path of Exile Game Information | `OAuth` | Yes | Unknown |
 | [Pokéapi](https://pokeapi.co) | Pokémon Information | No | Yes | Unknown |
 | [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | No | Yes | Unknown |
 | [Psychonauts](https://psychonauts-api.netlify.app/) | Psychonauts World Characters Information and PSI Powers | No | Yes | Yes |
+| [PUBG](https://developer.pubg.com/) | Access in-game PUBG data | `apiKey` | Yes | Yes |
 | [quizapi.io](https://quizapi.io/) | Access to various kind of quiz questions | `apiKey` | Yes | Yes |
 | [Raider](https://raider.io/api) | Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft | No | Yes | Unknown |
 | [Random Facts](https://fungenerators.com/api/facts/) | Random Facts from hundreds of categories | `apiKey` | Yes | Yes |
@@ -1205,7 +1208,6 @@ API | Description | Auth | HTTPS | CORS |
 | [4chan](https://github.com/4chan/4chan-API) | Simple image-based bulletin board dedicated to a variety of topics | No | Yes | Yes |
 | [Ayrshare](https://www.ayrshare.com) | Social media APIs to post, get analytics, and manage multiple users social media accounts | `apiKey` | Yes | Yes |
 | [Blogger](https://developers.google.com/blogger/) | The Blogger APIs allows client applications to view and update Blogger content | `OAuth` | Yes | Unknown |
-| [Buffer](https://buffer.com/developers/api) | Access to pending and sent updates in Buffer | `OAuth` | Yes | Unknown |
 | [Cisco Spark](https://developer.ciscospark.com) | Team Collaboration Software | `OAuth` | Yes | Unknown |
 | [Dangerous Discord Database](https://discord.riverside.rocks/docs/index.php) | Database of malicious Discord accounts | `apiKey` | Yes | Unknown |
 | [Discord](https://discord.com/developers/docs/intro) | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Yes | Unknown |
@@ -1231,6 +1233,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Revolt](https://developers.revolt.chat/api/) | Revolt open source Discord alternative | `apiKey` | Yes | Unknown |
 | [Saidit](https://www.saidit.net/dev/api) | Open Source Reddit Clone | `OAuth` | Yes | Unknown |
 | [Slack](https://api.slack.com/) | Team Instant Messaging | `OAuth` | Yes | Unknown |
+| [TamTam](https://dev.tamtam.chat/) | Bot API to interact with TamTam | `apiKey` | Yes | Unknown |
 | [Telegram Bot](https://core.telegram.org/bots/api) | Simplified HTTP version of the MTProto API for bots | `apiKey` | Yes | Unknown |
 | [Telegram MTProto](https://core.telegram.org/api#getting-started) | Read and write Telegram data | `OAuth` | Yes | Unknown |
 | [Telegraph](https://telegra.ph/api) | Create attractive blogs easily, to share | `apiKey` | Yes | Unknown |
